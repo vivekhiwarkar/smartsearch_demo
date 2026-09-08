@@ -1,0 +1,2587 @@
+{
+  "screening_id": "5f2933e2-54e2-4779-ae20-02b2edec7903",
+  "revision": 6,
+  "report_version": 1,
+  "status": "DECIDED",
+  "created_at": "2026-09-07T11:58:52.401638+00:00",
+  "created_by": "vivekhiwarkar@localhost",
+  "updated_at": "2026-09-07T12:00:06.163099+00:00",
+  "updated_by": "vivekhiwarkar@localhost",
+  "subject": {
+    "display_name": "Mr Oleg Deripaska",
+    "dob": "1974-06-10",
+    "client_reference": "streamlit-demo",
+    "building": "1",
+    "street_1": "High Street",
+    "town": "London",
+    "postcode": "WS13 8AF",
+    "country": "GBR"
+  },
+  "search": {
+    "search_id": "100376330",
+    "subject_id": "5a68c664-2c6c-4ac7-8c9c-2cb110fd5de6",
+    "group_id": "bbb0fef0-7410-47cf-adf7-0d2d238be222",
+    "status": "complete",
+    "created_at": "2026-09-07T11:59:10+00:00",
+    "provider_types": [
+      "WATCHLIST"
+    ]
+  },
+  "matches": [
+    {
+      "match_id": "8d3a3285-d498-41c6-8cc4-6938021f5daf",
+      "ref": "dj-165156",
+      "summary": [
+        {
+          "label": "Type",
+          "data": [
+            "SIP",
+            "PEP"
+          ]
+        },
+        {
+          "label": "Date of Birth",
+          "data": [
+            "1968-01-02"
+          ]
+        },
+        {
+          "label": "Citizenship",
+          "data": [
+            "Cyprus",
+            "Russia"
+          ]
+        },
+        {
+          "label": "Residency",
+          "data": [
+            "Russia",
+            "United Kingdom"
+          ]
+        },
+        {
+          "label": "Images",
+          "data": [
+            "https://uznayvse.ru/images/stories2015/uzn_1437403668.jpg"
+          ]
+        },
+        {
+          "label": "Active Status",
+          "data": [
+            "Active"
+          ]
+        }
+      ],
+      "categories": [
+        "Special Interest Person (SIP)/Sanctions Lists",
+        "Special Interest Person (SIP)",
+        "Politically Exposed Person (PEP)"
+      ],
+      "meta": {
+        "ref": "dj-165156",
+        "matched_at": "2026-09-07T11:59:12+00:00",
+        "is_worked": false,
+        "is_worked_automatically": null,
+        "is_suppressed": false,
+        "entry_updated_at": "2021-09-22T22:00:00+00:00",
+        "notes_count": 0,
+        "match_strength": null,
+        "match_name": null,
+        "match_name_type": null
+      },
+      "profile": {
+        "sections": [
+          {
+            "label": "Active Status",
+            "data": [
+              "Active"
+            ]
+          },
+          {
+            "label": "Gender",
+            "data": [
+              "Male"
+            ]
+          },
+          {
+            "label": "Deceased",
+            "data": [
+              "No"
+            ]
+          },
+          {
+            "label": "Images",
+            "data": [
+              "https://uznayvse.ru/images/stories2015/uzn_1437403668.jpg",
+              "http://newsimg.bbc.co.uk/media/images/39790000/jpg/_39790513_deripaska203.jpg",
+              "https://specials-images.forbesimg.com/imageserve/5c71a9f8a7ea431000434962/416x416.jpg?background=000000&cropX1=771&cropX2=3908&cropY1=20&cropY2=3155"
+            ]
+          },
+          {
+            "label": "Name Aliases",
+            "data": [
+              {
+                "label": "Primary Name",
+                "data": [
+                  {
+                    "label": "FirstName",
+                    "data": [
+                      "Oleg"
+                    ]
+                  },
+                  {
+                    "label": "MiddleName",
+                    "data": [
+                      "Vladimirovich"
+                    ]
+                  },
+                  {
+                    "label": "OriginalScriptName",
+                    "data": [
+                      "Олег Владимирович Дерипаска"
+                    ]
+                  },
+                  {
+                    "label": "Surname",
+                    "data": [
+                      "Deripaska"
+                    ]
+                  }
+                ]
+              },
+              {
+                "label": "Also Known As",
+                "data": [
+                  {
+                    "label": "FirstName",
+                    "data": [
+                      "Oleh"
+                    ]
+                  },
+                  {
+                    "label": "MiddleName",
+                    "data": [
+                      "Volodymyrovych"
+                    ]
+                  },
+                  {
+                    "label": "OriginalScriptName",
+                    "data": [
+                      "Олег Володимирович Дерипаска"
+                    ]
+                  },
+                  {
+                    "label": "Surname",
+                    "data": [
+                      "Derypaska"
+                    ]
+                  }
+                ]
+              },
+              {
+                "label": "Spelling Variation",
+                "data": [
+                  {
+                    "label": "FirstName",
+                    "data": [
+                      "Oleg"
+                    ]
+                  },
+                  {
+                    "label": "MiddleName",
+                    "data": [
+                      "Volodymyrovych"
+                    ]
+                  },
+                  {
+                    "label": "Surname",
+                    "data": [
+                      "Derypaska"
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "label": "Descriptions",
+            "data": [
+              "Special Interest Person (SIP)",
+              "Sanctions Lists - Special Interest Person (SIP)",
+              "Politically Exposed Person (PEP)"
+            ]
+          },
+          {
+            "label": "Addresses",
+            "data": [
+              {
+                "label": "Address",
+                "data": [
+                  {
+                    "label": "City",
+                    "data": [
+                      "Moscow"
+                    ]
+                  },
+                  {
+                    "label": "Country",
+                    "data": [
+                      "Russia"
+                    ]
+                  }
+                ]
+              },
+              {
+                "label": "Address",
+                "data": [
+                  {
+                    "label": "Line",
+                    "data": [
+                      "5, Belgrave Square, Belgravia"
+                    ]
+                  },
+                  {
+                    "label": "City",
+                    "data": [
+                      "London;;SW1X 8PH"
+                    ]
+                  },
+                  {
+                    "label": "Country",
+                    "data": [
+                      "United Kingdom"
+                    ]
+                  }
+                ]
+              },
+              {
+                "label": "Address",
+                "data": [
+                  {
+                    "label": "Line",
+                    "data": [
+                      "64 Severnaya Street"
+                    ]
+                  },
+                  {
+                    "label": "City",
+                    "data": [
+                      "Khutor Oktyabrskiy;Krasnodar Territory;352332"
+                    ]
+                  },
+                  {
+                    "label": "Country",
+                    "data": [
+                      "Russia"
+                    ]
+                  }
+                ]
+              },
+              {
+                "label": "Address",
+                "data": [
+                  {
+                    "label": "Line",
+                    "data": [
+                      "Severnaya Street, 64"
+                    ]
+                  },
+                  {
+                    "label": "City",
+                    "data": [
+                      "Oktyabrskiy;Krasnodar Region"
+                    ]
+                  },
+                  {
+                    "label": "Country",
+                    "data": [
+                      "Russia"
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "label": "Country Associations",
+            "data": [
+              {
+                "label": "Citizenship",
+                "data": [
+                  "Cyprus"
+                ]
+              },
+              {
+                "label": "Citizenship",
+                "data": [
+                  "Russia"
+                ]
+              },
+              {
+                "label": "Jurisdiction",
+                "data": [
+                  "Russia"
+                ]
+              },
+              {
+                "label": "Resident of",
+                "data": [
+                  "Russia"
+                ]
+              },
+              {
+                "label": "Resident of",
+                "data": [
+                  "United Kingdom"
+                ]
+              }
+            ]
+          },
+          {
+            "label": "Roles",
+            "data": [
+              {
+                "label": "Member, Bureau, Russian Union of Industrialists and Entrepreneurs (RSPP)",
+                "data": [
+                  {
+                    "label": "Role Type",
+                    "data": [
+                      "Primary Occupation"
+                    ]
+                  },
+                  {
+                    "label": "Role Occupation",
+                    "data": [
+                      "Political Pressure and Labour Group Officials"
+                    ]
+                  },
+                  {
+                    "label": "Start",
+                    "data": [
+                      "Nov 2000"
+                    ]
+                  },
+                  {
+                    "label": "End",
+                    "data": [
+                      ""
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "label": "Dates",
+            "data": [
+              {
+                "label": "Date of Birth",
+                "data": [
+                  {
+                    "label": "Date",
+                    "data": [
+                      "1968-01-02"
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "label": "Birth Place",
+            "data": [
+              "Dzerzhinsk,Russia"
+            ]
+          },
+          {
+            "label": "Sanctions",
+            "data": [
+              {
+                "label": "NSDC (Ukraine) Special Economic and Other Restrictive Measures (Sanctions)",
+                "data": [
+                  {
+                    "label": "Status",
+                    "data": [
+                      "Current"
+                    ]
+                  },
+                  {
+                    "label": "Description",
+                    "data": [
+                      "Sanctions Lists - Special Interest Person (SIP)"
+                    ]
+                  },
+                  {
+                    "label": "Start",
+                    "data": [
+                      "14 May 2018"
+                    ]
+                  }
+                ]
+              },
+              {
+                "label": "OFAC - Specially Designated National List",
+                "data": [
+                  {
+                    "label": "Status",
+                    "data": [
+                      "Current"
+                    ]
+                  },
+                  {
+                    "label": "Description",
+                    "data": [
+                      "Sanctions Lists - Special Interest Person (SIP)"
+                    ]
+                  },
+                  {
+                    "label": "Start",
+                    "data": [
+                      "06 Apr 2018"
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "label": "ID Number Types",
+            "data": [
+              {
+                "label": "OFAC Program ID",
+                "data": [
+                  {
+                    "label": "Number",
+                    "data": [
+                      "UKRAINE-EO13661"
+                    ]
+                  }
+                ]
+              },
+              {
+                "label": "OFAC Program ID",
+                "data": [
+                  {
+                    "label": "Number",
+                    "data": [
+                      "UKRAINE-EO13662"
+                    ]
+                  }
+                ]
+              },
+              {
+                "label": "OFAC Unique ID",
+                "data": [
+                  {
+                    "label": "Number",
+                    "data": [
+                      "24283"
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "label": "Profile Notes",
+            "data": [
+              "OFFICE OF FOREIGN ASSETS CONTROL (OFAC) NOTES:\n\nDecember 19, 2018\nOFAC Notifies Congress of Intent to Delist En+, Rusal, and EuroSibEnergo\nAgreed Upon Framework Severs Oleg Deripaska’s Control of These Entities and Substantially Decreases His Ownership Interest\n\nWashington – The U.S. Department of the Treasury’s Office of Foreign Assets Control (OFAC) today notified Congress of its intention to terminate the sanctions imposed on En+ Group plc (“En+”), UC Rusal plc (“Rusal”), and JSC EuroSibEnergo (“ESE”) in 30 days. OFAC has determined that the significant restructuring and corporate governance changes will enable them to meet the criteria for delisting. Russian oligarch Oleg Deripaska will remain sanctioned, and his property will remain blocked.\n\n“Treasury sanctioned these companies because of their ownership and control by sanctioned Russian oligarch Oleg Deripaska, not for the conduct of the companies themselves. These companies have committed to significantly diminish Deripaska’s ownership and sever his control. The companies will be subject to ongoing compliance and will face severe consequences if they fail to comply,” said Treasury Secretary Steven T. Mnuchin. “OFAC maintains the ability under the terms of the agreement to have unprecedented levels of transparency into operations.”\n\nOn April 6, 2018, OFAC designated En+ for being owned or controlled by, directly or indirectly, Oleg Deripaska and other entities he owns or controls. In that same action, OFAC designated Rusal for being owned or controlled by, directly or indirectly, En+. ESE, a wholly owned subsidiary of En+, was also designated.\n\nEn+, Rusal, and ESE have agreed to a framework to undertake significant restructuring and corporate governance changes to address the circumstances that led to their designation, including, among other commitments: (i) reducing Deripaska’s direct and indirect shareholding stake; (ii) overhauling the composition of the En+ and Rusal boards of directors; (iii) taking other restrictive steps related to their corporate governance; and (iv) committing to full transparency with Treasury by undertaking extensive, ongoing auditing, certification, and reporting requirements. This framework has been documented in a “Terms of Removal,” which, when executed, will be a binding agreement between these companies and OFAC.\n\nOFAC will continue to aggressively enforce its sanctions on Deripaska, including by closely monitoring these companies’ compliance with the terms of their removal from OFAC’s List of Specially Designated Nationals and Blocked Persons (“SDN List”). OFAC reserves the right to relist one or all of these companies should they fail to comply with the agreement. \n\nDeripaska will remain on the SDN List. All of Deripaska’s property and interests in property, including entities in which he holds a fifty percent or greater interest, will remain blocked. Deripaska’s investment in these companies is effectively frozen and Deripaska cannot obtain cash either in return for his shares or from future dividends issued by En+, Rusal, or ESE. Foreign persons will continue to be subject to secondary sanctions should they knowingly facilitate a significant transaction for or on behalf of Deripaska. U.S. persons will continue to be prohibited from dealing, directly or indirectly, with Deripaska or any other designated person. OFAC’s civil enforcement authorities and processes are described in detail in OFAC’s Economic Sanctions Enforcement Guidelines, 31 C.F.R. part 501, app. A. \n\nAPRIL 6, 2018\nTreasury Designates Russian Oligarchs, Officials, and Entities in Response to Worldwide Malign Activity\n\nWASHINGTON – The U.S. Department of the Treasury’s Office of Foreign Assets Control (OFAC), in consultation with the Department of State, today designated seven Russian oligarchs and 12 companies they own or control, 17 senior Russian government officials, and a state-owned Russian weapons trading company and its subsidiary, a Russian bank.\n\n“The Russian government operates for the disproportionate benefit of oligarchs and government elites,” said Treasury Secretary Steven T. Mnuchin. “The Russian government engages in a range of malign activity around the globe, including continuing to occupy Crimea and instigate violence in eastern Ukraine, supplying the Assad regime with material and weaponry as they bomb their own civilians, attempting to subvert Western democracies, and malicious cyber activities. Russian oligarchs and elites who profit from this corrupt system will no longer be insulated from the consequences of their government’s destabilizing activities.”\n\nToday’s actions are pursuant to authority provided under Executive Order (E.O.) 13661 and E.O. 13662, authorities codified by the Countering America’s Adversaries Through Sanctions Act (CAATSA), as well as E.O. 13582. These actions follow the Department of the Treasury’s issuance of the CAATSA Section 241 report in late January 2018. In the Section 241 report, Treasury identified senior Russian government officials and oligarchs. Today’s action targets a number of the individuals listed in the Section 241 report, including those who benefit from the Putin regime and play a key role in advancing Russia’s malign activities. \n\nConcurrent with this action, OFAC is issuing two general licenses to minimize immediate disruptions to U.S. persons, partners, and allies. For details, see General Licenses 12 and 13, as well as related FAQs. \n\nAll assets subject to U.S. jurisdiction of the designated individuals and entities, and of any other entities blocked by operation of law as a result of their ownership by a sanctioned party, are frozen, and U.S. persons are generally prohibited from dealings with them. Additionally, non-U.S. persons could face sanctions for knowingly facilitating significant transactions for or on behalf of the individuals or entities blocked today.\n\nDESIGNATED RUSSIAN OLIGARCHS\nVladimir Bogdanov is being designated for operating in the energy sector of the Russian Federation economy. Bogdanov is the Director General and Vice Chairman of the Board of Directors of Surgutneftegaz, a vertically integrated oil company operating in Russia. OFAC imposed sectoral sanctions on Surgutneftegaz pursuant to Directive 4 issued under E.O. 13662 in September 2014.\n\nOleg Deripaska is being designated pursuant to E.O. 13661 for having acted or purported to act for or on behalf of, directly or indirectly, a senior official of the Government of the Russian Federation, as well as pursuant to E.O. 13662 for operating in the energy sector of the Russian Federation economy. Deripaska has said that he does not separate himself from the Russian state. He has also acknowledged possessing a Russian diplomatic passport, and claims to have represented the Russian government in other countries. Deripaska has been investigated for money laundering, and has been accused of threatening the lives of business rivals, illegally wiretapping a government official, and taking part in extortion and racketeering. There are also allegations that Deripaska bribed a government official, ordered the murder of a businessman, and had links to a Russian organized crime group.\n\nSuleiman Kerimov is being designated for being an official of the Government of the Russian Federation. Kerimov is a member of the Russian Federation Council. On November 20, 2017, Kerimov was detained in France and held for two days. He is alleged to have brought hundreds of millions of euros into France – transporting as much as 20 million euros at a time in suitcases, in addition to conducting more conventional funds transfers – without reporting the money to French tax authorities. Kerimov allegedly launders the funds through the purchase of villas. Kerimov was also accused of failing to pay 400 million euros in taxes related to villas.\n\nIgor Rotenberg is being designated for operating in the energy sector of the Russian Federation economy. Rotenberg acquired significant assets from his father, Arkady Rotenberg, after OFAC designated the latter in March 2014. Specifically Arkady Rotenberg sold Igor Rotenberg 79 percent of the Russian oil and gas drilling company Gazprom Burenie. Igor Rotenberg’s uncle, Boris Rotenberg, owns 16 percent of the company. Like his brother Arkady Rotenberg, Boris Rotenberg was designated in March 2014.\n\nKirill Shamalov is being designated for operating in the energy sector of the Russian Federation economy. Shamalov married Putin’s daughter Katerina Tikhonova in February 2013 and his fortunes drastically improved following the marriage; within 18 months, he acquired a large portion of shares of Sibur, a Russia-based company involved in oil and gas exploration, production, processing, and refining. A year later, he was able to borrow more than one $1 billion through a loan from Gazprombank, a state-owned entity subject to sectoral sanctions pursuant to E.O. 13662. That same year, long-time Putin associate Gennady Timchenko, who is himself designated pursuant to E.O. 13661, sold an additional 17 percent of Sibur’s shares to Shamalov. Shortly thereafter, Kirill Shamalov joined the ranks of the billionaire elite around Putin. \n\nAndrei Skoch is being designated for being an official of the Government of the Russian Federation. Skoch is a deputy of the Russian Federation’s State Duma. Skoch has longstanding ties to Russian organized criminal groups, including time spent leading one such enterprise.\n\nViktor Vekselberg is being designated for operating in the energy sector of the Russian Federation economy. Vekselberg is the founder and Chairman of the Board of Directors of the Renova Group. The Renova Group is comprised of asset management companies and investment funds that own and manage assets in several sectors of the Russian economy, including energy. In 2016, Russian prosecutors raided Renova’s offices and arrested two associates of Vekselberg, including the company’s chief managing director and another top executive, for bribing officials connected to a power generation project in Russia.\n\nDESIGNATED OLIGARCH-OWNED COMPANIES\nIn addition to sanctioning the individuals listed above, OFAC today designated 12 companies that constitute some of the most prominent among the entities that are owned or controlled by the individuals designated today. This list of 12 companies owned or controlled by the sanctioned oligarchs should not be viewed as exhaustive, and the regulated community remains responsible for compliance with OFAC’s 50 percent rule. \n\nB-Finance Ltd., based in the British Virgin Islands, is being designated for being owned or controlled by, directly or indirectly, Oleg Deripaska.\n\nBasic Element Limited is being designated for being owned or controlled by, directly or indirectly, Oleg Deripaska. Basic Element Limited is based in Jersey and is the private investment and management company for Deripaska’s various business interests.\n\nEN+ Group is being designated for being owned or controlled by, directly or indirectly, Oleg Deripaska, B-Finance Ltd., and Basic Element Limited. EN+ Group is located in Jersey and is a leading international vertically integrated aluminum and power producer.\n\nEuroSibEnergo is being designated for being owned or controlled by, directly or indirectly, Oleg Deripaska and EN+ Group. EuroSibEnergo is one of the largest independent power companies in Russia, operating power plants across Russia and producing around nine percent of Russia’s total electricity.\n\nUnited Company RUSAL PLC is being designated for being owned or controlled by, directly or indirectly, EN+ Group. United Company RUSAL PLC is based in Jersey and is one of the world’s largest aluminum producers, responsible for seven percent of global aluminum production.\n\nRussian Machines is being designated for being owned or controlled by, directly or indirectly, Oleg Deripaska and Basic Element Limited. Russian Machines was established to manage the machinery assets of Basic Element Limited.\n\nGAZ Group is being designated for being owned or controlled by, directly or indirectly, Oleg Deripaska and Russian Machines. GAZ Group is Russia’s leading manufacturer of commercial vehicles.\n\nAgroholding Kuban, located in Russia, is being designated for being owned or controlled by, directly or indirectly, Oleg Deripaska and Basic Element Limited.\n\nGazprom Burenie, OOO is being designated for being owned or controlled by Igor Rotenberg. Gazprom Burenie, OOO provides oil and gas exploration services in Russia.\n\nNPV Engineering Open Joint Stock Company is being designated for being owned or controlled by Igor Rotenberg. NPV Engineering Open Joint Stock Company provides management and consulting services in Russia.\n\nLadoga Menedzhment, OOO is being designated for being owned or controlled by Kirill Shamalov. Ladoga Menedzhment, OOO is located in Russia and engaged in deposit banking.\n\nRenova Group is being designated for being owned or controlled by Viktor Vekselberg. Renova Group, based in Russia, is comprised of investment funds and management companies operating in the energy sector, among others, in Russia’s economy.\n\nDESIGNATED RUSSIAN STATE-OWNED FIRMS\nRussia has contributed to the instability of the Government of Syria through the sales and transfer of Russian-origin military equipment in support of Assad’s regime, enabling Assad to continue carrying out attacks against Syrian citizens. These attacks have included chemical weapons attacks, which claimed the lives of hundreds of Syrian citizens.\n\nRosoboroneksport is a state-owned Russian weapons trading company with longstanding and ongoing ties to the Government of Syria, with billions of dollars’ worth of weapons sales over more than a decade. Rosoboroneksport is being designated under E.O. 13582 for having materially assisted, sponsored, or provided financial, material, or technological support for, or goods or services in support of, the Government of Syria.\n\nThe Russian Financial Corporation Bank (RFC Bank) is being designated for being owned by Rosoboroneksport. RFC Bank incorporated in Moscow, Russia and its operations include deposit banking activities.\n\nDESIGNATED RUSSIAN GOVERNMENT OFFICIALS\nAndrey Akimov is the Chairman of the Management Board of state-owned Gazprombank. Akimov is being designated pursuant E.O. 13661 for being an official of the Government of the Russian Federation.\n\nMikhail Fradkov is the President of the Russian Institute for Strategic Studies (RISS), a major research and analytical center established by the President of the Russian Federation, which provides information support to the Presidential Administration, Federation Council, State Duma, and Security Council. Fradkov is being designated pursuant E.O. 13661 for being an official of the Government of the Russian Federation.\n\nSergey Fursenko is a member of the board of directors of Gazprom Neft, a subsidiary of state-owned Gazprom. Fursenko is being designated pursuant to E.O. 13661 for being an official of the Government of the Russian Federation.\n\nOleg Govorun is the Head of the Presidential Directorate for Social and Economic Cooperation with the Commonwealth of Independent States Member Countries. Govorun is being designated pursuant to E.O. 13661 for being an official of the Government of the Russian Federation.\n\nAlexey Dyumin is the Governor of the Tula region of Russia. He previously headed the Special Operations Forces, which played a key role in Russia’s purported annexation of Crimea. Dyumin is being designated pursuant to E.O. 13661 for being an official of the Government of the Russian Federation.\n\nVladimir Kolokoltsev is the Minister of Internal Affairs and General Police of the Russian Federation. Kolokoltsev is being designated pursuant to E.O. 13661 for being an official of the Government of the Russian Federation.\n\nKonstantin Kosachev is the Chairperson of the Council of the Federation Committee on Foreign Affairs. Kosachev is being designated pursuant to E.O. 13661 for being an official of the Government of the Russian Federation.\n\nAndrey Kostin is the President, Chairman of the Management Board, and Member of the Supervisory Council of state-owned VTB Bank. Kostin is being designated pursuant to E.O. 13661 for being an official of the Government of the Russian Federation.\n\nAlexey Miller is the Chairman of the Management Committee and Deputy Chairman of the Board of Directors of state-owned company Gazprom. Miller is being designated pursuant to E.O. 13661 for being an official of the Government of the Russian Federation.\n\nNikolai Patrushev is Secretary of the Russian Federation Security Council. Patrushev is being designated pursuant to E.O. 13661 for being an official of the Government of the Russian Federation.\n\nVladislav Reznik is a member of the Russian State Duma. Reznik is being designated pursuant to E.O. 13661 for being an official of the Government of the Russian Federation.\n\nEvgeniy Shkolov is an Aide to the President of the Russian Federation. Shkolov is being designated pursuant to E.O. 13661 for being an official of the Government of the Russian Federation.\n\nAlexander Torshin is the State Secretary – Deputy Governor of the Central Bank of the Russian Federation. Torshin is being designated pursuant to E.O. 13661 for being an official of the Government of the Russian Federation.\n\nVladimir Ustinov is the Plenipotentiary Envoy to Russia’s Southern Federal District. Ustinov is being designated pursuant to E.O. 13661 for being an official of the Government of the Russian Federation.\n\nTimur Valiulin is the head of the General Administration for Combatting Extremism within Russia’s Ministry of Interior. Valiulin is being designated pursuant to E.O. 13661 for being an official of the Government of the Russian Federation.\n\nAlexander Zharov is the head of Roskomnadzor (the Federal Service for the Supervision of Communications, Information Technology, and Mass Media). Zharov is being designated pursuant to E.O. 13661 for being an official of the Government of the Russian Federation.\n\nViktor Zolotov is the Director of the Federal Service of National Guard Troops and Commander of the National Guard Troops of the Russian Federation. Zolotov is being designated pursuant to E.O. 13661 for being an official of the Government of the Russian Federation.\n\n\nNSDC (UKRAINE) NOTES:\n\n1) блокування активів - тимчасове обмеження права особи користуватися та розпоряджатися належним їй майном;\n2) запобігання виведенню капіталів за межі України;\n3) відмова в наданні та скасування віз резидентам іноземних держав, застосування інших заборон в'їзду на територію України\n---------------------------------------\nMetadata: FinCEN Files - Confidential Clients\nMetadata: Panama Papers\n\nASSOCIATED ENTITIES INFORMATION:\nM Unicar Inc\nRusal Global Management B. V.\nRedirected to The Unsuitablog\nBrainerd Communicators Inc\nRusskie Mashiny\nGMK Norilskii Nikel\nIrkutskenergo AO EiE\nNorilskiy nikel GMK OAO (P)\nUnited Company Rusal\nSayanagorsky Aluminium Plant\nPolevskoi kriolitovyi zavod OAO\nOAO RUSAL Bratskii alyuminievyi zavod\nRusskie Mashiny Oao\nSiberian-Ural Aluminium Co\nRUSAL Krasnoyarskii Alyuminievyi Zavod\nTiman-Engineering Ooo\nRusal Sayanal Oao\nN+ Management Ooo\nBoksit Timana\nBasic Element\nKomi Alyuminii ZAO\nUralskaya folga OAO\nSUAL-PM OOO\nYUZHNO-URALSKII KRIOLITOVYI ZAVOD OAO\nSevuralboksitruda OAO\nRUSAL Boksitogorskii glinozem OAO\nRUSAL Sayanogorskii Alyuminievyi Zavod OAO\nSUAL-Kremnii-Ural OOO\nRUSSKII ALYUMINII OAO\nRUSSKAYA INZHINIRINGOVAYA Company OOO\nRUSAL SAYANAL OAO\nPkz Oao\nKremnii ZAO\nRUSAL-SAYANSKAYA FOLGA OOO\nRUSAL ACHINSKII GLINOZEMNYI KOMBINAT OAO\nRUSAL NOVOKUZNETSKII ALYUMINIEVYI ZAVOD OAO\nIrkutskenergo Oao\nKomi Alyumini Zao\nSual-Kremni-Ural Ooo\nRusskaya Inzhiniringovaya Kompaniya Ooo"
+            ]
+          },
+          {
+            "label": "Sources",
+            "data": []
+          }
+        ],
+        "meta": {
+          "ref": "dj-165156",
+          "matched_at": "2026-09-07T11:59:12+00:00",
+          "is_worked": false,
+          "is_worked_automatically": null,
+          "is_suppressed": false,
+          "entry_updated_at": "2021-09-22T22:00:00+00:00",
+          "notes_count": 0,
+          "match_strength": null,
+          "match_name": null,
+          "match_name_type": null
+        },
+        "associations": [
+          {
+            "id": "408a67e7e7c92e27f88866706723a1b1346881d4",
+            "association": "Friend",
+            "name": "Vladimir Putin",
+            "prior": false
+          },
+          {
+            "id": "51ac47840b07463dde3f1d161c232efc61d8ff8e",
+            "association": "Mother-in-law",
+            "name": "Tatyana Yumasheva",
+            "prior": false
+          },
+          {
+            "id": "c0772f0e192fca67b2e5881cfd6a7ffb598a8edf",
+            "association": "Friend",
+            "name": "Roman Abramovich",
+            "prior": false
+          },
+          {
+            "id": "d5b2e2c1b9098d9b6f1506b19743b30562dd53d4",
+            "association": "Father-in-law",
+            "name": "Valentin Yumashev",
+            "prior": false
+          },
+          {
+            "id": "d7b2672b2ca27582a8ce03503e888b374ddf21f6",
+            "association": "Friend",
+            "name": "Peter Mandelson",
+            "prior": false
+          },
+          {
+            "id": "e0fce949ee8086db5eed328f09fe3c549bfed925",
+            "association": "Business Associate",
+            "name": "Vladimir Kogan",
+            "prior": false
+          },
+          {
+            "id": "9c3a3410acf1591047229319036f0a00653e370f",
+            "association": "Associate",
+            "name": "Michael Cherney",
+            "prior": true
+          },
+          {
+            "id": "4bcc548383c841730c5954d81e7973e37e8e0c80",
+            "association": "Wife",
+            "name": "Polina Deripaska",
+            "prior": false
+          },
+          {
+            "id": "6ea98a1b700213dade7bd7aba307f250084b9495",
+            "association": "Sister-in-law",
+            "name": "Mariya Yumasheva",
+            "prior": false
+          },
+          {
+            "id": "4ac4ab0253a8e1d564f4975ec9edea78c5f3adc4",
+            "association": "Uncle",
+            "name": "Aleksey Ezubov",
+            "prior": false
+          },
+          {
+            "id": "261b6bb4e5077930728bf6e98551912abfa2692e",
+            "association": "Son",
+            "name": "Petr Deripaska",
+            "prior": false
+          },
+          {
+            "id": "57e4fca7644181948706a2896c071aed6f7e76ad",
+            "association": "Daughter",
+            "name": "Mariya Deripaska",
+            "prior": false
+          },
+          {
+            "id": "968b271f3a65d7a65f2fdc1c4c2f78d01a245c84",
+            "association": "Mother-in-law",
+            "name": "Irina Vedeneeva",
+            "prior": false
+          },
+          {
+            "id": "34e32e243876a924dc2ae72b85e33883ac99faf4",
+            "association": "Asset",
+            "name": "Aviacor - Aviatzonny Zavod",
+            "prior": true
+          },
+          {
+            "id": "d0f1d5af52bef068c841fd805037eaf548bca9c5",
+            "association": "Asset",
+            "name": "Krasnoyarsk Hydropower Plant",
+            "prior": false
+          },
+          {
+            "id": "b01073cdc34dca3ac60a2edd7282d643708e4d5d",
+            "association": "Asset",
+            "name": "Krasnoyarskenergosbyt",
+            "prior": false
+          },
+          {
+            "id": "73e45b5494c984e7ca6f64a67d2d5a0dab563873",
+            "association": "Asset",
+            "name": "Norilsk Nickel Mining and Metallurgical Company",
+            "prior": false
+          },
+          {
+            "id": "8a40611b88db1f281303ac590a8731a4bf44caf2",
+            "association": "Asset",
+            "name": "Friguia Alumina Refinery",
+            "prior": false
+          },
+          {
+            "id": "c2489460c656b9d30c02736fb26dd35ed7f551e9",
+            "association": "Asset",
+            "name": "Aluminium Smelter Company of Nigeria",
+            "prior": false
+          },
+          {
+            "id": "3cccb0b713dd15db398ba4a76ed5485673862314",
+            "association": "Asset",
+            "name": "West Indies Alumina",
+            "prior": false
+          },
+          {
+            "id": "1bd73aab8c3e3ae714b63630dc5110be7f04a619",
+            "association": "Asset",
+            "name": "Irkutsk Power Generation and Distribution",
+            "prior": false
+          },
+          {
+            "id": "57f8df20d4abe720d8711f48dc3fa9133e1df598",
+            "association": "Asset",
+            "name": "Yenisei River Shipping Company",
+            "prior": false
+          },
+          {
+            "id": "318c53dab52f48b04b86cb5f9589114697186c1e",
+            "association": "Asset",
+            "name": "Norilskgazprom",
+            "prior": false
+          },
+          {
+            "id": "c315548a9df5b6c64c753f1a3e6c95f49991326c",
+            "association": "Asset",
+            "name": "GAZ OAO",
+            "prior": false
+          },
+          {
+            "id": "dd07a466490f688e8901ff482d3ebbf8e9d4e25f",
+            "association": "Asset",
+            "name": "Avtodizel (Yaroslavl Motor Plant)",
+            "prior": true
+          },
+          {
+            "id": "ed6241b467c5ff015c61a7cfce1e6d55cc0b3c9e",
+            "association": "Asset",
+            "name": "Boguchanskaya GES",
+            "prior": false
+          },
+          {
+            "id": "e9d16014c01c70107fea444759b2ffae1b51003f",
+            "association": "Asset",
+            "name": "Anapa Airport",
+            "prior": false
+          },
+          {
+            "id": "5beae9e0891ce3c5ced340bffc67957101d8a502",
+            "association": "Asset",
+            "name": "Bogatyr Coal",
+            "prior": false
+          },
+          {
+            "id": "36af24cb85c9fd5acbb19984c2108822399284f1",
+            "association": "Asset",
+            "name": "Bauxite Company of Guyana",
+            "prior": false
+          },
+          {
+            "id": "c36791cfe38b6e59565806c8f534635f03fa4f4a",
+            "association": "Asset",
+            "name": "Norilsk Taymyr Energy Company",
+            "prior": false
+          },
+          {
+            "id": "35a78538f6acb688a0aaa5748c1731797d053495",
+            "association": "Asset",
+            "name": "Taymyrenergo",
+            "prior": true
+          },
+          {
+            "id": "b314aa73f1e6b2820baa7829a83caa19f920c9db",
+            "association": "Asset",
+            "name": "Timan Bauxite",
+            "prior": false
+          },
+          {
+            "id": "bad0033ac7f9aeefa9efbccb0a2aeb5da736c24c",
+            "association": "Asset",
+            "name": "Bank Soyuz",
+            "prior": false
+          },
+          {
+            "id": "19c5b27c196538f06292df731aa63703bf5dbb4f",
+            "association": "Asset",
+            "name": "TECH GATE VIENNA Wissenschafts- und Technologiepark",
+            "prior": false
+          },
+          {
+            "id": "8143b3fbde2647d1c94d9c94a1ec4f3f2048295b",
+            "association": "Asset",
+            "name": "Grand Baikal",
+            "prior": false
+          },
+          {
+            "id": "166627aeeb34c7b4b6c635c7690f946b0b771296",
+            "association": "Asset",
+            "name": "Vladivostok International Airport",
+            "prior": false
+          },
+          {
+            "id": "4dae1de976483b568db509e997a1abd7a14895b5",
+            "association": "Asset",
+            "name": "Terminal Vladivostok",
+            "prior": false
+          },
+          {
+            "id": "c47795cbfeabf5dab9182575b8ccec16d6b407f2",
+            "association": "Asset",
+            "name": "Yenisei Siberia Development Corporation",
+            "prior": false
+          },
+          {
+            "id": "5af12974c61770dea779e8a95646677c4f01a891",
+            "association": "Asset",
+            "name": "Boges",
+            "prior": false
+          },
+          {
+            "id": "3d1f0c1b20794e5d22a5b32193c4b34edfac14f9",
+            "association": "Asset",
+            "name": "Developer of the Boguchansk Aluminium Smelter",
+            "prior": false
+          },
+          {
+            "id": "c6e6e8e70c071b3f33f7379ef534b5582e907553",
+            "association": "Asset",
+            "name": "Construction Project Owner of Boguchansk Aluminium Smelter",
+            "prior": false
+          },
+          {
+            "id": "b30fd572f7137c63ef5ec8a0435ba24b32b81d56",
+            "association": "Asset",
+            "name": "United Company Rusal PLC",
+            "prior": false
+          },
+          {
+            "id": "e922dc9f5e5eb48798867375d98e31da9ae17ac5",
+            "association": "Asset",
+            "name": "United Company RUSAL Kremniy Ural",
+            "prior": false
+          },
+          {
+            "id": "6036045c1bcba87b71bb89c362475e2d9ed4fa0b",
+            "association": "Asset",
+            "name": "STRABAG",
+            "prior": false
+          },
+          {
+            "id": "8986a437d9b6405aed36d7fd7ba6492fdbbd97d1",
+            "association": "Asset",
+            "name": "Eurallumina",
+            "prior": false
+          },
+          {
+            "id": "7880c6f12b7058c35cb680bf1e64d5e3b9742057",
+            "association": "Asset",
+            "name": "Department of Temporary Operation",
+            "prior": false
+          },
+          {
+            "id": "aee7356b0f6bfddfcada305adbcb4f8d73afd6d4",
+            "association": "Asset",
+            "name": "RUSAL Krasnoyarsk Aluminium Smelter",
+            "prior": false
+          },
+          {
+            "id": "e689991f3b2f651070fe2e59d85bdb5fe251b5a6",
+            "association": "Asset",
+            "name": "Forum Muider",
+            "prior": false
+          },
+          {
+            "id": "fddf3cb02ba3cc4a63c40af40caceb028a29923f",
+            "association": "Asset",
+            "name": "RM Rail Abakanvagonmash",
+            "prior": false
+          },
+          {
+            "id": "61248cd35a92bea365dfe616f0b8cf835e7825eb",
+            "association": "Asset",
+            "name": "Ingosstrakh Insurance",
+            "prior": false
+          },
+          {
+            "id": "51b2985ed17dd11ce1424afa61153d3dc67d8c37",
+            "association": "Asset",
+            "name": "RUSAL Boxitogorsk Alumina",
+            "prior": false
+          },
+          {
+            "id": "a13662b96c92295f7e2ae7a8798c8e4275cc0a5b",
+            "association": "Asset",
+            "name": "Rusal Achinsk Alumina Plant",
+            "prior": false
+          },
+          {
+            "id": "46b50bccebbfbcceb15b5121af670b50debe6c42",
+            "association": "Asset",
+            "name": "Russian Aluminium",
+            "prior": false
+          },
+          {
+            "id": "28b39a67c3b7895caa915c8b23eed32cf24f80a8",
+            "association": "Asset",
+            "name": "En+ Group PLC",
+            "prior": false
+          },
+          {
+            "id": "75177b09ba9127d6ef971fa740ea9de9b5b27d47",
+            "association": "Asset",
+            "name": "Transport AMD-2",
+            "prior": false
+          },
+          {
+            "id": "bb623dd1f6cc3c1773cd1613ea6248ef9d0f0137",
+            "association": "Asset",
+            "name": "RUSAL Ural Aluminium United Company",
+            "prior": false
+          },
+          {
+            "id": "79bb986de5a137447a287f13560b51a4218f5e6d",
+            "association": "Asset",
+            "name": "Ural Foil",
+            "prior": false
+          },
+          {
+            "id": "364eecce5ed10002b755987bc663ceec818f83eb",
+            "association": "Asset",
+            "name": "Jokerit Hockey Club",
+            "prior": false
+          },
+          {
+            "id": "cc9e69d72269a2614f27a1516b26bd79075eed72",
+            "association": "Asset",
+            "name": "Queensland Alumina",
+            "prior": false
+          },
+          {
+            "id": "26220a9804b6e8e18ef24fe37f0cf9fd52e6aa58",
+            "association": "Asset",
+            "name": "Pavlovo Bus Factory",
+            "prior": false
+          },
+          {
+            "id": "766184cb052c267730ec0700b28ae140f91f6730",
+            "association": "Asset",
+            "name": "Yaroslavl Diesel Equipment Plant",
+            "prior": false
+          },
+          {
+            "id": "d5192b2d4e9112eebfc96b2568b83b530c174b18",
+            "association": "Asset",
+            "name": "Glavstroy-SPB Specialized Developer",
+            "prior": true
+          },
+          {
+            "id": "148b6b08c944bdc58c91fa0201b9ac453a85b3a0",
+            "association": "Asset",
+            "name": "Pikalevo Alumina Plant",
+            "prior": false
+          },
+          {
+            "id": "e65c2fcb8141b8f185461e030d4f3e1aee3e69ff",
+            "association": "Asset",
+            "name": "Krasnoyarsk River Port",
+            "prior": false
+          },
+          {
+            "id": "b682b5141648c4055d312a154c9e1a45dfc83e4d",
+            "association": "Asset",
+            "name": "Kremniy",
+            "prior": false
+          },
+          {
+            "id": "3afeac3b9cead522c2ab66ba7de5adc9cd2fd2b9",
+            "association": "Asset",
+            "name": "Norilsk Airport",
+            "prior": false
+          },
+          {
+            "id": "de455d2dce382a092c3b1b5c62c68979d99c52be",
+            "association": "Asset",
+            "name": "Arzamas Machinery Plant",
+            "prior": true
+          },
+          {
+            "id": "9eb70c014bc11dec74e143692b3aabe083769c11",
+            "association": "Asset",
+            "name": "Sevuralboksitruda",
+            "prior": false
+          },
+          {
+            "id": "2d3369ce509ebc036a62913ae24b7a346069d9b7",
+            "association": "Asset",
+            "name": "Erchim-Tkhan (Joint Venture with Foreign Investments)",
+            "prior": true
+          },
+          {
+            "id": "ba9c0f9d869418833c982166127c6af594cac91e",
+            "association": "Asset",
+            "name": "Credendo - Ingosstrakh Credit Insurance",
+            "prior": false
+          },
+          {
+            "id": "57d79164ec06c43498e01e6fab58fe6b48214b75",
+            "association": "Asset",
+            "name": "Vostsibugol Company",
+            "prior": false
+          },
+          {
+            "id": "6665a84d85706609e97dd09daf96ad3fbee5cdc9",
+            "association": "Asset",
+            "name": "EnSer",
+            "prior": false
+          },
+          {
+            "id": "6f7b4249d65bcd79be0bc4675ed45ca520b6ed99",
+            "association": "Asset",
+            "name": "Lesosibirsk Port",
+            "prior": false
+          },
+          {
+            "id": "887dfac0b7803e41b9b75a5e81f2b3b209b41bdc",
+            "association": "Asset",
+            "name": "Irkutsk Electronetwork Company",
+            "prior": false
+          },
+          {
+            "id": "ed76c958b36dd6ea7efe16295c48bd2fddadd2e5",
+            "association": "Asset",
+            "name": "Sorsk Ferromolybdenum Plant",
+            "prior": false
+          },
+          {
+            "id": "fc283107da1169765bf7383e7f6951ac831efcb6",
+            "association": "Asset",
+            "name": "Norilsknikelremont",
+            "prior": false
+          },
+          {
+            "id": "8ed479a6882fdb6f55c4449778805c0477ba1964",
+            "association": "Asset",
+            "name": "STRABAG",
+            "prior": false
+          },
+          {
+            "id": "bb5ad2f1ffbe5af1be25e9bb4706f0ed284d9256",
+            "association": "Asset",
+            "name": "Yaroslavskiy Dizel Production and Engineering Company",
+            "prior": true
+          },
+          {
+            "id": "a978757788ae86a43a430174393909fbae150b7e",
+            "association": "Asset",
+            "name": "Gora Sobolinaya Baikal Ski Resort",
+            "prior": false
+          },
+          {
+            "id": "0a799fce23b37c1cd0397536cb35152d30bf8fb8",
+            "association": "Asset",
+            "name": "RM-Terex",
+            "prior": true
+          },
+          {
+            "id": "99d73de0921641f75887713e099366e3f60aa9f8",
+            "association": "Asset",
+            "name": "Power Units - GAZ Group",
+            "prior": false
+          },
+          {
+            "id": "f3041a70be1fafcd3e3308c9c3ae2fed49363149",
+            "association": "Asset",
+            "name": "NN Capital",
+            "prior": true
+          },
+          {
+            "id": "aef54fbb91ea987cbbe9e44d54b504a6eb1c33ba",
+            "association": "Asset",
+            "name": "Ingosstrakh Life Insurance Company",
+            "prior": false
+          },
+          {
+            "id": "3e3e5ad866a908ed297a03e5b5b49d38315f2c3d",
+            "association": "Asset",
+            "name": "Emergency Insurance Company",
+            "prior": false
+          },
+          {
+            "id": "a2662de7b4231c05dcd802d8e7f34f27bad9d8da",
+            "association": "Asset",
+            "name": "Likino Bus Plant",
+            "prior": false
+          },
+          {
+            "id": "2dc6c97236e53276692b0a9785761d68e3f2bf1c",
+            "association": "Asset",
+            "name": "Russian Buses - GAZ Group",
+            "prior": false
+          },
+          {
+            "id": "de76959aa0218182699e52a82dd68649df67ea64",
+            "association": "Asset",
+            "name": "RUSAL Bratsk Aluminium Smelter",
+            "prior": false
+          },
+          {
+            "id": "1046a5cfe77d5c3eceadabee2e2096ea2c41bff1",
+            "association": "Asset",
+            "name": "URAL Automotive Plant",
+            "prior": true
+          },
+          {
+            "id": "95e54d18492bfba5eb0b563c2da9566e556214c0",
+            "association": "Asset",
+            "name": "Strabag",
+            "prior": false
+          },
+          {
+            "id": "cab9ec8f12d9b6eea719e2fcdccc7e620fc1c6e8",
+            "association": "Asset",
+            "name": "Mykolaiv Alumina Refinery",
+            "prior": false
+          },
+          {
+            "id": "778956429f387ed150ad7aa99066b6ddc7fc8aa9",
+            "association": "Asset",
+            "name": "Ruzaevka Chemical Engineering Plant",
+            "prior": true
+          },
+          {
+            "id": "e0236a865738e194626ef35e7df97dc4c887137c",
+            "association": "Asset",
+            "name": "Strabag Rail",
+            "prior": false
+          },
+          {
+            "id": "c9eb8f9f55e0b26ea199880285d1dc72b344ae33",
+            "association": "Asset",
+            "name": "Strabag",
+            "prior": false
+          },
+          {
+            "id": "196f576631e5e2fc388ae3eee9b6fc774b04eacb",
+            "association": "Asset",
+            "name": "United Company Rusal - Trade House",
+            "prior": false
+          },
+          {
+            "id": "f2bc9f389b0d3bd068c52adda1f71e32d9cbfe15",
+            "association": "Asset",
+            "name": "Norilsk Nickel Harjavalta",
+            "prior": false
+          },
+          {
+            "id": "c07d2c1e73f02d643941bb0553cfa275aabd3150",
+            "association": "Asset",
+            "name": "You Chose Quality",
+            "prior": false
+          },
+          {
+            "id": "60c6b65f702c8075c22661c94690fc83ae9ffece",
+            "association": "Asset",
+            "name": "Boguchany Aluminium Plant",
+            "prior": false
+          },
+          {
+            "id": "3cedc198d797b64a18d106db4b3cff3887f53a15",
+            "association": "Asset",
+            "name": "Strabag",
+            "prior": false
+          },
+          {
+            "id": "77531b1509b28aa657d22e73c6df813100fde1da",
+            "association": "Asset",
+            "name": "Sorsk Mining and Metallurgical Complex",
+            "prior": false
+          },
+          {
+            "id": "7c490d4670926a28e18f32ae2d62a11032520853",
+            "association": "Asset",
+            "name": "Holding CIS",
+            "prior": false
+          },
+          {
+            "id": "95943cf5560ae3774fd1afa180852bcc530ada70",
+            "association": "Asset",
+            "name": "Strabag",
+            "prior": false
+          },
+          {
+            "id": "1202d12745976d6b96a99176d3973c52e01bf445",
+            "association": "Asset",
+            "name": "EuroSibEnergo-Hydro Generation",
+            "prior": false
+          },
+          {
+            "id": "d02b4d121c8ec511ceccad6a97ad62aaf8f93e74",
+            "association": "Asset",
+            "name": "Jarky",
+            "prior": false
+          },
+          {
+            "id": "f4aab9b411edfb3bceb20f964df82bd8cde2f697",
+            "association": "Asset",
+            "name": "GAZ Group",
+            "prior": false
+          },
+          {
+            "id": "ae36c140f27f7d5c86264f7e7a97844b3fb2e6cb",
+            "association": "Asset",
+            "name": "Strabag",
+            "prior": false
+          },
+          {
+            "id": "ba87becaf55323c0790608afc73f305d83c16531",
+            "association": "Asset",
+            "name": "Polar Construction Company",
+            "prior": false
+          },
+          {
+            "id": "99c66e823648974d1e8a4fba96e6a7fe6201d064",
+            "association": "Asset",
+            "name": "Rusal America",
+            "prior": false
+          },
+          {
+            "id": "da28f1e1775cb69693417cb8cffdf21a8358d355",
+            "association": "Cousin",
+            "name": "Pavel Ezubov",
+            "prior": false
+          },
+          {
+            "id": "84e2380aa87230c44b8a1576e1bd26dd76fec617",
+            "association": "Mother",
+            "name": "Valentina Deripaska",
+            "prior": false
+          },
+          {
+            "id": "d95160e3fabde8fb39d80bfaf3483cf19428096c",
+            "association": "Asset",
+            "name": "Pavlovo Bus",
+            "prior": false
+          },
+          {
+            "id": "5ccaf22454d940f770822871484d236db9b5c500",
+            "association": "Asset",
+            "name": "Ural Power and Industrial Projection Institute",
+            "prior": true
+          },
+          {
+            "id": "a15b4fe43a5f8a7c8165d02d2ea8efe04aa351a4",
+            "association": "Asset",
+            "name": "Strabag",
+            "prior": false
+          },
+          {
+            "id": "267c6dd6c61870d12321a50fe3b9fb3e8c6c5f46",
+            "association": "Asset",
+            "name": "JSC EuroSibEnergo",
+            "prior": false
+          },
+          {
+            "id": "59a717925913ad2d29ad0a9a2cc070b5f32d0770",
+            "association": "Asset",
+            "name": "Agroholding Kuban",
+            "prior": true
+          },
+          {
+            "id": "03df34fb40b803a5434b8b4a803980a61f4ad46a",
+            "association": "Asset",
+            "name": "Basic Element Limited",
+            "prior": true
+          },
+          {
+            "id": "afb593169ba2496a44414749f2e9b59929afc84a",
+            "association": "Asset",
+            "name": "Russian Machines",
+            "prior": false
+          },
+          {
+            "id": "ce335248d5c85307e83a109515590631bfe5dcb9",
+            "association": "Asset",
+            "name": "B-Finance Ltd",
+            "prior": true
+          },
+          {
+            "id": "b7ac6c0ba6f7f620269dc9e802ed9ff2b27040e0",
+            "association": "Asset",
+            "name": "Fidelitas International Investments",
+            "prior": false
+          },
+          {
+            "id": "10d2d66ec1eafa444fd87de9169a1c2c84df4165",
+            "association": "Asset",
+            "name": "Aughinish Alumina",
+            "prior": false
+          },
+          {
+            "id": "76cc2c05fca4556fba0624985af0ac31b970bfd9",
+            "association": "Asset",
+            "name": "Limerick Alumina Refining",
+            "prior": false
+          },
+          {
+            "id": "ecbf3b422202ff976649d518e12eb4c08f322faf",
+            "association": "Asset",
+            "name": "Rusal Capital",
+            "prior": false
+          },
+          {
+            "id": "3e0828e53caec01adad641dbb292929073c48ad8",
+            "association": "Father",
+            "name": "Vladimir Deripaska",
+            "prior": false
+          },
+          {
+            "id": "2022c562e1adc3f0b7ed3e40b30973f419c62bf6",
+            "association": "Asset",
+            "name": "Compagnie des Bauxites de Kindia",
+            "prior": false
+          },
+          {
+            "id": "fefc8760fe585faf75ff4a2c51b737e7a11b1212",
+            "association": "Asset",
+            "name": "RKTM-Group",
+            "prior": true
+          },
+          {
+            "id": "8b8bdd41dc6be59747ec1cf18dc664cf0db7f90b",
+            "association": "Asset",
+            "name": "Mykolaev Account Center",
+            "prior": false
+          },
+          {
+            "id": "7fadc258e46435405b51e77e8cdd27d5d02f94d9",
+            "association": "Asset",
+            "name": "RM KPG",
+            "prior": false
+          },
+          {
+            "id": "38de8c75d6cfdb7790487758756446ecfde94595",
+            "association": "Asset",
+            "name": "EN+ Holding",
+            "prior": false
+          },
+          {
+            "id": "6f8f6dd16b899579b62d1c69469c0e921aeddec1",
+            "association": "Asset",
+            "name": "EuroSibEnergo-Distributed Generation",
+            "prior": false
+          },
+          {
+            "id": "b04e64bfba3f0a4da542c741c9fb3ebcdba11e1a",
+            "association": "Asset",
+            "name": "Avtozavodskaya TETs",
+            "prior": false
+          },
+          {
+            "id": "99c85aa663d10622cc42f893cb5ec637860741b8",
+            "association": "Asset",
+            "name": "EuroSibEnergo-Engineering",
+            "prior": false
+          },
+          {
+            "id": "a7cc08d437f95abc9e93439e47270f3796e125be",
+            "association": "Asset",
+            "name": "Factory Networks",
+            "prior": false
+          },
+          {
+            "id": "71d2473cab2676ff34170326301d8bc941744026",
+            "association": "Asset",
+            "name": "EN+Development",
+            "prior": false
+          },
+          {
+            "id": "8e0173cfacfeaaf072ffe8bf20c14f239bc944d5",
+            "association": "Asset",
+            "name": "RM Rail Holding",
+            "prior": true
+          },
+          {
+            "id": "5610b26f13d96951dc58efda4bfa131317c6d08d",
+            "association": "Asset",
+            "name": "Mayskoe",
+            "prior": false
+          },
+          {
+            "id": "dce44a2b65ab9fa0fe98f43c52c8dc3823b7d23a",
+            "association": "Asset",
+            "name": "RUSAL Novokuznetsk Aluminium Smelter",
+            "prior": false
+          },
+          {
+            "id": "46011e7b47dc83ddf7fd635a6b8b970a62d3a837",
+            "association": "Asset",
+            "name": "EuroSibEnergo - Kuban",
+            "prior": false
+          },
+          {
+            "id": "876f8cd74c72a9b83365dd66b69f546726a30306",
+            "association": "Asset",
+            "name": "Damarett Enterprises",
+            "prior": false
+          },
+          {
+            "id": "13f3c5716b002a4f8cde8595c700b5e40ff5d937",
+            "association": "Asset",
+            "name": "En+ Consult",
+            "prior": false
+          },
+          {
+            "id": "d19d37d521b9a0921c241e591dd430a47d38d322",
+            "association": "Asset",
+            "name": "GAZ Automobile Plant",
+            "prior": false
+          },
+          {
+            "id": "b546cf167f2fe463440f75053059cdcfcf00a82c",
+            "association": "Asset",
+            "name": "EuroSibEnergo - Utility Systems",
+            "prior": false
+          },
+          {
+            "id": "77f1442a73335381c66cc591cbca2332406d98d2",
+            "association": "Asset",
+            "name": "RUSAL Sayanogorsk Aluminium Smelter",
+            "prior": false
+          },
+          {
+            "id": "2ec24abadbbda48bfc118e0c7db2c583e81b0dc5",
+            "association": "Asset",
+            "name": "RUSAL Sayanal",
+            "prior": false
+          },
+          {
+            "id": "0f3a0b6519b5809f759332a697aad405ed4c6a8d",
+            "association": "Asset",
+            "name": "Administrative Complex",
+            "prior": false
+          },
+          {
+            "id": "18d5f17e3cc7623dc9a71813b83fadbc1ed025ab",
+            "association": "Asset",
+            "name": "RUSAL Armenal",
+            "prior": false
+          },
+          {
+            "id": "a3156d4fdcb453fb33f9000d149f9a8815b7ea81",
+            "association": "Asset",
+            "name": "RUSAL Resal",
+            "prior": false
+          },
+          {
+            "id": "b850ba103309f2d6d04d38d446c15b1591248917",
+            "association": "Asset",
+            "name": "Russian Engineering Company",
+            "prior": false
+          },
+          {
+            "id": "8954944572749eaf0229b13687e0eac01c065685",
+            "association": "Asset",
+            "name": "IRMET",
+            "prior": false
+          },
+          {
+            "id": "f2867fede3073764c0dddc80bcede605a12f2230",
+            "association": "Asset",
+            "name": "Irkutskenergosvyaz",
+            "prior": false
+          },
+          {
+            "id": "a9c8a32a84a11a4692d97f7412f3eaeb80f019b7",
+            "association": "Asset",
+            "name": "Commercial Vehicles - GAZ Group",
+            "prior": false
+          },
+          {
+            "id": "e703c40029efda92f26043c80dc81206a4ff9690",
+            "association": "Asset",
+            "name": "Centralized Energy Repair Firm",
+            "prior": false
+          },
+          {
+            "id": "b35c22e8c6843dda769bfcf51acb251a1d295b27",
+            "association": "Asset",
+            "name": "Hydroenergoservice-Repair",
+            "prior": false
+          },
+          {
+            "id": "73b6b03dc7f9350d844e2ee814829aeb400e7f3b",
+            "association": "Asset",
+            "name": "Bratskenergoremont",
+            "prior": true
+          },
+          {
+            "id": "27365a1837296a08447c56603e9f9eed3889b2cc",
+            "association": "Asset",
+            "name": "Baikalenergo",
+            "prior": false
+          },
+          {
+            "id": "74f01e1ade66f3329d1b7afc445ceb763af78496",
+            "association": "Asset",
+            "name": "Spetsenergoremont",
+            "prior": true
+          },
+          {
+            "id": "c07af354f0f309801edbbbe37ba869e86e93b958",
+            "association": "Asset",
+            "name": "Rusal Global Management",
+            "prior": false
+          },
+          {
+            "id": "8338f0eee10c1091ff044124cc3fee88b054c304",
+            "association": "Asset",
+            "name": "Irkutskenergotrans",
+            "prior": false
+          },
+          {
+            "id": "883d1bf355c9ee6932cda913d83e5ccd7f75c231",
+            "association": "Asset",
+            "name": "Irkutskzoloprodukt",
+            "prior": false
+          },
+          {
+            "id": "bee7c83bc018bdfd847293a5476d6918a37858c9",
+            "association": "Asset",
+            "name": "Irkutsk City Heat Sales Company",
+            "prior": false
+          },
+          {
+            "id": "583ac612383e7945f59a17a04941038efb0f7782",
+            "association": "Asset",
+            "name": "Fire Protection of Irkutskenergo",
+            "prior": false
+          },
+          {
+            "id": "9d40c1fa30789cb4a86e0340635621a0209849e1",
+            "association": "Asset",
+            "name": "Irkutskenergo-Aktiv",
+            "prior": false
+          },
+          {
+            "id": "814cdce6c108dddef0f325e88408625332b9de56",
+            "association": "Asset",
+            "name": "RS International",
+            "prior": false
+          },
+          {
+            "id": "78a1c944c61666b92b321dfbca18d72618c2493e",
+            "association": "Asset",
+            "name": "Dies and Molds Plant",
+            "prior": false
+          },
+          {
+            "id": "741a8755effb7d9dcd3d80c3d6c077899a2269ae",
+            "association": "Asset",
+            "name": "KAVZ",
+            "prior": false
+          },
+          {
+            "id": "85af7e8ecd90b21004b2824cce2509ae13087421",
+            "association": "Asset",
+            "name": "Likino Bus",
+            "prior": false
+          },
+          {
+            "id": "4998934903567d20a6304d2ab960f7c23afe9d4e",
+            "association": "Asset",
+            "name": "Irkutskenergo Engineering Centre",
+            "prior": false
+          },
+          {
+            "id": "6573100a32203821079138394165ef5e29129418",
+            "association": "Asset",
+            "name": "Nizhniy Novgorod Motors",
+            "prior": false
+          },
+          {
+            "id": "60d5764ac3f66c93c2e0fb901f20c9177265f006",
+            "association": "Asset",
+            "name": "Rotor",
+            "prior": true
+          },
+          {
+            "id": "ed4b5fd4b167f8e2a61e83560446500edd92debe",
+            "association": "Asset",
+            "name": "AgroKuban Resource",
+            "prior": true
+          },
+          {
+            "id": "00981195b348cd4976aaaf943fc64c4a023f0f6f",
+            "association": "Asset",
+            "name": "Generatsiya",
+            "prior": true
+          },
+          {
+            "id": "f3dfb14e50349558beb7bf3adbaabb112f7951ba",
+            "association": "Asset",
+            "name": "RUSAL Marketing",
+            "prior": false
+          },
+          {
+            "id": "133a5fbed16791b7a21ae231041005f23c58a147",
+            "association": "Asset",
+            "name": "GAZ Group Consulting Centre",
+            "prior": false
+          },
+          {
+            "id": "462fc2f611e351227cdabf1c076658309ff2d990",
+            "association": "Asset",
+            "name": "United Engineering Centre",
+            "prior": false
+          },
+          {
+            "id": "0a07118de698124a73ed2ec0eb43fc229c666927",
+            "association": "Asset",
+            "name": "Rezerv",
+            "prior": false
+          },
+          {
+            "id": "fe11f0a7316795905977827740c566d2c6b3d74c",
+            "association": "Asset",
+            "name": "RTI",
+            "prior": false
+          },
+          {
+            "id": "5a08ebdd70c9c58632efbc1b7bd1b3db09343f0c",
+            "association": "Asset",
+            "name": "Irkutsk Power Sales Company",
+            "prior": false
+          },
+          {
+            "id": "ca0ba91a62b15537b66dc4d87d2f89124087bb7e",
+            "association": "Asset",
+            "name": "Ulyanovsk Motor Plant",
+            "prior": false
+          },
+          {
+            "id": "2c8d45f944a7f181bb139b8983444a03cfac06bc",
+            "association": "Asset",
+            "name": "Vostsibuglesbyt",
+            "prior": false
+          },
+          {
+            "id": "b2ad7831a5fc4c9bbeaea12ae508602b0d60d1e3",
+            "association": "Asset",
+            "name": "GAZ International",
+            "prior": false
+          },
+          {
+            "id": "aa8afa9bb62c63bb39fe2f516e516485df438e21",
+            "association": "Asset",
+            "name": "Baikal Energy Company",
+            "prior": false
+          },
+          {
+            "id": "07692d23e8d47107ef3c73c85b3183208852c411",
+            "association": "Asset",
+            "name": "Baikalinvestenergo",
+            "prior": false
+          },
+          {
+            "id": "6541ad209635cf44465a3d41eb7464070ed71ed8",
+            "association": "Asset",
+            "name": "Alumina & Bauxite",
+            "prior": false
+          },
+          {
+            "id": "e870cc0c84896ac92f8dc2430a0abe6b6b949436",
+            "association": "Asset",
+            "name": "Vukelich",
+            "prior": false
+          },
+          {
+            "id": "4a24cb16aa07212045e5421d38aad99214ea42ef",
+            "association": "Asset",
+            "name": "Komi Aluminium",
+            "prior": false
+          },
+          {
+            "id": "30ace54c24b7219bb104caad327d2185b47d07fa",
+            "association": "Asset",
+            "name": "EuroSibEnergo - Heat Energy",
+            "prior": false
+          },
+          {
+            "id": "ae9b9c629a585f7efc669e4dff68f8a4cb5c3ee0",
+            "association": "Asset",
+            "name": "Armroskogeneratsia",
+            "prior": false
+          },
+          {
+            "id": "e21a539f037a5a74bb546a2d6455b5fee4d17ed5",
+            "association": "Asset",
+            "name": "SUAL-PM",
+            "prior": false
+          },
+          {
+            "id": "30a28378a66872d027c6a1c91c13e28e4a27a940",
+            "association": "Asset",
+            "name": "AKME-Engineering",
+            "prior": false
+          },
+          {
+            "id": "74e03574dd23a9573a519f21e3c012bf52518ab3",
+            "association": "Asset",
+            "name": "Technopark",
+            "prior": false
+          },
+          {
+            "id": "c47076540497d0c7e3fc6604cc8f3669ecc2b616",
+            "association": "Asset",
+            "name": "East-Siberian Electric Steel Plant",
+            "prior": true
+          },
+          {
+            "id": "cdaca8bb8e1fb6a01715c0ec95e57d7a025636ec",
+            "association": "Asset",
+            "name": "Autocomponents - GAZ Group",
+            "prior": false
+          },
+          {
+            "id": "067b6af2b5d02ee6620a6aefec26d3b920da2f4a",
+            "association": "Asset",
+            "name": "Siberian Metallurgical Company",
+            "prior": false
+          },
+          {
+            "id": "75141177ee995f4c6cf8d9ba5831195075fd03f9",
+            "association": "Asset",
+            "name": "InVest-Polis",
+            "prior": false
+          },
+          {
+            "id": "7f77f58b5a956e0412589ef403267468dd15e21f",
+            "association": "Asset",
+            "name": "DOM INGO II",
+            "prior": false
+          },
+          {
+            "id": "1431af190f924f880579f81a4b074287a2eeee1b",
+            "association": "Asset",
+            "name": "Akvamarin",
+            "prior": false
+          },
+          {
+            "id": "128e1d2f81b2b21ec2274cf8aa55c3e3ddae402a",
+            "association": "Asset",
+            "name": "GAZ - ITservice",
+            "prior": false
+          },
+          {
+            "id": "1c6e35b00c1e32f1a0c1a7da4dfdac11fb0111a4",
+            "association": "Asset",
+            "name": "GAZ Trade and Procurement Company",
+            "prior": true
+          },
+          {
+            "id": "ee7d3f35246dd9ad6ac8496f484933407bf4d03c",
+            "association": "Asset",
+            "name": "Ingosur",
+            "prior": false
+          },
+          {
+            "id": "e7e9002d316fc6f27c7c4a2b2662308370b13aa7",
+            "association": "Asset",
+            "name": "SinoRus Nuclear Power",
+            "prior": false
+          },
+          {
+            "id": "45d80c0d1f6cec17a8f1559102f9b27e2ac26865",
+            "association": "Asset",
+            "name": "Irkutsk Development",
+            "prior": false
+          },
+          {
+            "id": "88d64012aca8b5ed01003c094429215e64942367",
+            "association": "Asset",
+            "name": "Educational Infrastructure",
+            "prior": false
+          },
+          {
+            "id": "cfb190c20582575e058234e8f794237440d422e1",
+            "association": "Asset",
+            "name": "UC RUSAL Alumina Jamaica",
+            "prior": false
+          },
+          {
+            "id": "7a11d9ad687ebbc2b9d1ba0bb5b84be8b12879a3",
+            "association": "Asset",
+            "name": "TETs-10",
+            "prior": false
+          },
+          {
+            "id": "a27bb263410c9c4e7157a24200b39c3ed8fbd1d2",
+            "association": "Asset",
+            "name": "Kubikenborg Aluminium",
+            "prior": false
+          },
+          {
+            "id": "318b00495d15287feb96e8f8fd6f1520005feb62",
+            "association": "Asset",
+            "name": "RFCL",
+            "prior": true
+          },
+          {
+            "id": "9b94e09048b08b0ae9cb1891157e955af000435c",
+            "association": "Asset",
+            "name": "Aktivium International Company",
+            "prior": false
+          },
+          {
+            "id": "81359f78d4e4c3740d9b68b8e33d5b5cc781ccf9",
+            "association": "Asset",
+            "name": "RUSAL Energo",
+            "prior": false
+          },
+          {
+            "id": "63f649810eb317d061a3a57c5d604a7e79a0674e",
+            "association": "Asset",
+            "name": "Abakanskaya SES",
+            "prior": false
+          },
+          {
+            "id": "31dce616930e0ad6d3868d2d1f923a2af1966548",
+            "association": "Asset",
+            "name": "Interregional Energy and Power Market Agency",
+            "prior": false
+          },
+          {
+            "id": "47b3d611c30c0e4d8d2dc1da1e78ff06155aba88",
+            "association": "Asset",
+            "name": "CZ - Turbo - GAZ",
+            "prior": false
+          },
+          {
+            "id": "4066b3a85e625c02f89337e89612cf68b26b2af5",
+            "association": "Asset",
+            "name": "Management Company Industrial Park Kuban",
+            "prior": false
+          },
+          {
+            "id": "0b9e7ee3919cb99fb6b69ed2f891828b3ab55700",
+            "association": "Asset",
+            "name": "Saransk Dump Trucks Plant",
+            "prior": false
+          },
+          {
+            "id": "6f34cf8053cbab580e55183800040a58bfe1f9d6",
+            "association": "Asset",
+            "name": "Kanashsky Auto-Aggregate Plant",
+            "prior": false
+          },
+          {
+            "id": "05a6b4ed8b87c7561c77476f89ebec0b94fc9f31",
+            "association": "Asset",
+            "name": "Eboli Holdings",
+            "prior": false
+          },
+          {
+            "id": "28b9b2e0c749607c1387aa76c4e347b73c70684e",
+            "association": "Asset",
+            "name": "Basic Element UK",
+            "prior": true
+          },
+          {
+            "id": "9789f2a17e771f7a36c8c87cce8f10682d44b8ec",
+            "association": "Asset",
+            "name": "Irkutskenergoremont",
+            "prior": false
+          },
+          {
+            "id": "843e676869a76cdc820b6621886f4f19df934d84",
+            "association": "Asset",
+            "name": "Bogatyr Trans",
+            "prior": false
+          },
+          {
+            "id": "dc89a22d9770b2c7e47e7ef510d0e2549a1b5ef9",
+            "association": "Asset",
+            "name": "Krasnoyarsk GES - Engineering",
+            "prior": false
+          },
+          {
+            "id": "de94317046848c1280a3e02a82c80a5f8e2b5309",
+            "association": "Asset",
+            "name": "Yuzhniy Melnik",
+            "prior": true
+          },
+          {
+            "id": "b049c6942f02ba943e0abdda09128ddc51cefa77",
+            "association": "Asset",
+            "name": "Resurs",
+            "prior": true
+          },
+          {
+            "id": "e2f08be699d4e2bcb9d17d14a123775647807ec1",
+            "association": "Asset",
+            "name": "EuroSibEnergo Trading House",
+            "prior": false
+          },
+          {
+            "id": "fa045236b33b2b8e65973c2cc274ebbee97fec5b",
+            "association": "Asset",
+            "name": "North United Aluminum",
+            "prior": false
+          },
+          {
+            "id": "fe18bb7a22d31f4b0b20f44a05063f86dd0ad93d",
+            "association": "Asset",
+            "name": "EuroSibEnergo Accounting and Service Centre",
+            "prior": false
+          },
+          {
+            "id": "9b91b22bcd7b95232414ee9c35225c427ee5bb38",
+            "association": "Asset",
+            "name": "United Company Rusal Foil",
+            "prior": false
+          },
+          {
+            "id": "b4a6a1d308571107f2214534e9852a59f9f3c9cd",
+            "association": "Asset",
+            "name": "Rusal-Sayanskaya Foil",
+            "prior": false
+          },
+          {
+            "id": "0b86a53599df232d8c4961c5bde211dd15d758a1",
+            "association": "Asset",
+            "name": "Basic Element Company",
+            "prior": false
+          },
+          {
+            "id": "230e5d09c3ec319053c3d78dacbe3601cd90ced7",
+            "association": "Asset",
+            "name": "BALP",
+            "prior": false
+          },
+          {
+            "id": "8f94e24cda3bfc5b20f4e6cdd0da7dcbbef8f100",
+            "association": "Asset",
+            "name": "Volkhor Cyprus JV",
+            "prior": false
+          },
+          {
+            "id": "4e6ab4443e8f7422cee221f3b6bf21e79a06cd62",
+            "association": "Asset",
+            "name": "Volkhor",
+            "prior": false
+          },
+          {
+            "id": "9ae48cb7d2a62c5c5c55ef293954f4d102d22930",
+            "association": "Asset",
+            "name": "Strikeforce Mining and Resources",
+            "prior": false
+          },
+          {
+            "id": "f844672edc203d531a6f715f02378a3ef0b3316a",
+            "association": "Asset",
+            "name": "Souzmetallresource Managing Company",
+            "prior": false
+          },
+          {
+            "id": "736b3c09fa8bf44433eba0f62ad1f0f424e7a813",
+            "association": "Asset",
+            "name": "Kubikenborg Aluminum i Sundsvall",
+            "prior": false
+          },
+          {
+            "id": "4a1c7372b82652efaf8eb5ecbae570828a08ee8b",
+            "association": "Asset",
+            "name": "Thornstreet",
+            "prior": false
+          },
+          {
+            "id": "57af52b1e5bcd909b5d6a019acff878f8c341c8e",
+            "association": "Asset",
+            "name": "Yaroslavl Fuel Equipment Plant",
+            "prior": false
+          },
+          {
+            "id": "71d1091c8e9a5c163b9085a8f829fd88e00e8df6",
+            "association": "Asset",
+            "name": "Berkut",
+            "prior": true
+          },
+          {
+            "id": "492981de775c3a8c5f031e36ba7d4e8df189c358",
+            "association": "Asset",
+            "name": "Radger-Invest",
+            "prior": false
+          },
+          {
+            "id": "055eed13fb10c8741ef99c540728112bd75dc269",
+            "association": "Asset",
+            "name": "Uranredmet",
+            "prior": false
+          },
+          {
+            "id": "d58df3876a9126e12e1162d4b3568a3f3f2335d4",
+            "association": "Asset",
+            "name": "Sokolskiy-Agro",
+            "prior": false
+          },
+          {
+            "id": "cec12cd5aeb3194df797c4f2050a5c25d0615058",
+            "association": "Asset",
+            "name": "Tverskoy Excavator",
+            "prior": true
+          },
+          {
+            "id": "099dfef547aba57512c2c3f79e6bc246ac8eda1d",
+            "association": "Asset",
+            "name": "Transport AMD",
+            "prior": true
+          },
+          {
+            "id": "8b74593e3c6c498ef9cb96bf001e04e978f473ea",
+            "association": "Asset",
+            "name": "Airports of South",
+            "prior": true
+          },
+          {
+            "id": "82a936034d6c1928df385d6c0ab1e36a0372b66b",
+            "association": "Asset",
+            "name": "GAZ Group Service Company",
+            "prior": false
+          },
+          {
+            "id": "5b8dc0265dee4d2fb26ffd452fc1e8eae9974337",
+            "association": "Asset",
+            "name": "Volgaenergosbyt",
+            "prior": false
+          },
+          {
+            "id": "45d6d0f27fc38236bf59edfc9fb9437352bd79bc",
+            "association": "Asset",
+            "name": "United Company RUSAL Marketing & Management",
+            "prior": false
+          },
+          {
+            "id": "fdd3fe3a826923d7e20e8f47ea7f5cdc98e2442f",
+            "association": "Asset",
+            "name": "Rusal International",
+            "prior": false
+          },
+          {
+            "id": "96258286735a40a19f2088af2bd99e68838789cc",
+            "association": "Asset",
+            "name": "Komy Aluminium Cyprus",
+            "prior": true
+          },
+          {
+            "id": "503c74d8fc922e32f75295ed44c1ad88f55f50a0",
+            "association": "Asset",
+            "name": "United Company Rusal Silicon",
+            "prior": false
+          },
+          {
+            "id": "26557ec7a1c6f6b538cb74b2b7d6f754107699b7",
+            "association": "Asset",
+            "name": "Velbay Holdings Limited",
+            "prior": false
+          },
+          {
+            "id": "6267248852cc323331c2955cdd384cdd0723fa8e",
+            "association": "Asset",
+            "name": "Glukhovo Quartzites Quarry",
+            "prior": false
+          },
+          {
+            "id": "0230e33f311b88db3ed7f7dc5ff0d4c8adc11056",
+            "association": "Asset",
+            "name": "United Company RUSAL Alumina",
+            "prior": false
+          },
+          {
+            "id": "be6ac74e18a3015a6bbedd39865a3f22c7be716f",
+            "association": "Asset",
+            "name": "Emergofin",
+            "prior": false
+          },
+          {
+            "id": "16ec098e6fe3189ee847fb0fefc7861b137b1b3d",
+            "association": "Asset",
+            "name": "Gershvin Investments Corporation",
+            "prior": false
+          },
+          {
+            "id": "1fba1e27ca7cb06ebc3b5f8051e9d6a090851a2c",
+            "association": "Asset",
+            "name": "Seledar Holdings",
+            "prior": true
+          },
+          {
+            "id": "6641a09ac2280779af82c4a43e40c52fdbf7aeea",
+            "association": "Asset",
+            "name": "Skydrop Co",
+            "prior": true
+          },
+          {
+            "id": "15c042183cbd4507a120cdd3222567e5134687bb",
+            "association": "Asset",
+            "name": "Aerodynamics",
+            "prior": false
+          },
+          {
+            "id": "1bca64b741645569e4f12e5206c505b916c5cf84",
+            "association": "Asset",
+            "name": "Sochi International Airport",
+            "prior": false
+          },
+          {
+            "id": "a65d63e34d182130dc2c9d1cfd32ff4ab6e7e48d",
+            "association": "Asset",
+            "name": "Krasnodar International Airport",
+            "prior": false
+          },
+          {
+            "id": "cdf6a9bd1448ca62b60d8c8693dc283d70b7fb68",
+            "association": "Asset",
+            "name": "Sayanogorsk Railcar Repair Plant",
+            "prior": true
+          },
+          {
+            "id": "9a8c0759f3dc5d457e2c88c7c20b8d983902bc5a",
+            "association": "Asset",
+            "name": "Rusaltrans",
+            "prior": false
+          },
+          {
+            "id": "e3981137e9567511aec319be5913b88f72564cc3",
+            "association": "Asset",
+            "name": "Siberian Scientific and Research, Engineering and Design Institute of Aluminum and Electrode Industry",
+            "prior": false
+          },
+          {
+            "id": "4d4ddd395732725a757ed5e3d48382f8d7d70f50",
+            "association": "Asset",
+            "name": "Specialized Project Institute SUBR-Project",
+            "prior": false
+          },
+          {
+            "id": "9b5270a1d64cb8a1340f078ec0f1560b3ccd5d9c",
+            "association": "Asset",
+            "name": "RUSAL Australia",
+            "prior": false
+          },
+          {
+            "id": "740d00ec7c049a0254d5142098eb44429087bc8b",
+            "association": "Asset",
+            "name": "Zavolzhsky Crawler Vehicle Plant",
+            "prior": true
+          },
+          {
+            "id": "6d961ea13ddbf197bc8561ef1d8a1cf970352702",
+            "association": "Asset",
+            "name": "Bozal-GAZ",
+            "prior": false
+          },
+          {
+            "id": "77fc40365a2e9f9098459552d1f4955b3fdb32af",
+            "association": "Asset",
+            "name": "Construction Equipment Corporation",
+            "prior": true
+          },
+          {
+            "id": "217da8c134fd5156bcb541e969093417bf6d5722",
+            "association": "Asset",
+            "name": "Bulten-GAZ",
+            "prior": false
+          },
+          {
+            "id": "927669c7ca9f4fa9f813b186314b909337b5dbd3",
+            "association": "Asset",
+            "name": "GAZ Agricultural Machinery",
+            "prior": false
+          },
+          {
+            "id": "5667d46b30c8e2e59ad6f2e3a408e62446c0b62a",
+            "association": "Asset",
+            "name": "RUSAL All-Russian Aluminium and Magnesium Institute",
+            "prior": false
+          },
+          {
+            "id": "d6664ded046d7ecfc271276d5f18f0f953205625",
+            "association": "Asset",
+            "name": "Aviaresurs Holding",
+            "prior": true
+          },
+          {
+            "id": "2c5e84c0e2e77b25093f4e47fca995aa2e6ec389",
+            "association": "Asset",
+            "name": "RM-Systems",
+            "prior": false
+          },
+          {
+            "id": "730c4747c2cce4609005f354a21d05884020dc6c",
+            "association": "Asset",
+            "name": "Time IT",
+            "prior": false
+          },
+          {
+            "id": "f5d6a3d2e022b862d4436e7e114dfb296e6226ae",
+            "association": "Asset",
+            "name": "Zhireken Ferromolybdenum Plant",
+            "prior": true
+          },
+          {
+            "id": "57678e4202e4794d56fba181b280b069c03298a3",
+            "association": "Asset",
+            "name": "Zhireken Mining and Metallurgical Complex",
+            "prior": false
+          },
+          {
+            "id": "374e93603d5a4d097cc9323d6688e92b6e7f52ec",
+            "association": "Asset",
+            "name": "RM Rail Trans",
+            "prior": true
+          },
+          {
+            "id": "1c014d76d3aecd097da42faab676dea989c4fd01",
+            "association": "Asset",
+            "name": "Sotex Scientific Industrial Enterprise",
+            "prior": true
+          },
+          {
+            "id": "006eb7e8305b1ba5baef9ce378bc8c439f8c9bb0",
+            "association": "Asset",
+            "name": "AGCO-RM (Manufacturing) Holding",
+            "prior": false
+          },
+          {
+            "id": "47e75c6c1ee144627d5812b4a1bc4aea03f473ae",
+            "association": "Asset",
+            "name": "Valtoura Holdings",
+            "prior": false
+          },
+          {
+            "id": "b41c12c7ce802211e00f28898f870a7dab21eb93",
+            "association": "Asset",
+            "name": "Luxwood",
+            "prior": true
+          },
+          {
+            "id": "5167f34891fb86a4fb1bec9a24d10e47e963dbed",
+            "association": "Asset",
+            "name": "Wood Processing Factory N6",
+            "prior": false
+          },
+          {
+            "id": "48c66ec3f233b727f16f3e244f881052212ce9b7",
+            "association": "Asset",
+            "name": "United Company RUSAL Anode Plant",
+            "prior": false
+          },
+          {
+            "id": "5d1c2b5e1a8681d7b7b54c7ef2e5e6576809f7cb",
+            "association": "Asset",
+            "name": "Metalkom",
+            "prior": false
+          },
+          {
+            "id": "210da66cdbd962afcdd252e0261b7b4ba5996fbc",
+            "association": "Asset",
+            "name": "Karelian Data Processing Centre",
+            "prior": true
+          },
+          {
+            "id": "b8cef43182c78a3b8fe9bf006f72065b22404597",
+            "association": "Asset",
+            "name": "Nadvoitsy Big-Bag",
+            "prior": true
+          },
+          {
+            "id": "34b46dca9671e6a15c1798d3c790d478d7009b95",
+            "association": "Asset",
+            "name": "United Company RUSAL Engineering and Technological Centre",
+            "prior": false
+          },
+          {
+            "id": "9ea0f75183d5f8bdaeb98aa8fd059de5813b9637",
+            "association": "Asset",
+            "name": "The Institute of Light Materials and Technologies",
+            "prior": false
+          },
+          {
+            "id": "94e7946d8b0f8c5b3967add20da4c296d593054d",
+            "association": "Asset",
+            "name": "SKAD Casting and Mechanical Plant",
+            "prior": false
+          },
+          {
+            "id": "32cbf7edb837c089bab554ac8cbe5268f9d54ba7",
+            "association": "Asset",
+            "name": "RUSAL Taishet Aluminum Smelter",
+            "prior": false
+          },
+          {
+            "id": "62915562db19f3bcac53aa4d905b8e640f49d314",
+            "association": "Asset",
+            "name": "Volgograd Aluminium Company - Powder Metallurgy",
+            "prior": false
+          },
+          {
+            "id": "8c48c3d1bebabac80aad5d62a4439ef83e697c5f",
+            "association": "Asset",
+            "name": "Bogoslovsk Cable Plant",
+            "prior": false
+          },
+          {
+            "id": "3253b82d2ce5715a7ba70b39b3eda5b01ec928b8",
+            "association": "Asset",
+            "name": "Cantua Investments",
+            "prior": false
+          },
+          {
+            "id": "47f3df259a0f2921d2a38f067039b00f6ac01461",
+            "association": "Asset",
+            "name": "Airport Development",
+            "prior": true
+          },
+          {
+            "id": "9c8919dfdc00cd51dc1c3d5d1d1fed096ce58989",
+            "association": "Asset",
+            "name": "Eclipse Star Holdings",
+            "prior": false
+          },
+          {
+            "id": "3392d916ab8797f55708f6078d5aa4807d027cff",
+            "association": "Asset",
+            "name": "Custodia International Services",
+            "prior": false
+          },
+          {
+            "id": "65c2255930efef85784fae77f8ad27501dba0e3b",
+            "association": "Asset",
+            "name": "Fenestraria Consultants Limited International Company",
+            "prior": false
+          },
+          {
+            "id": "d0bb7e3876b836c3d4524be09b6a91a78995f02a",
+            "association": "Asset",
+            "name": "Glavstroy-Invest",
+            "prior": true
+          },
+          {
+            "id": "df00498e561b4ca77d081fc83c33db583b5e7501",
+            "association": "Associate",
+            "name": "Victor Boyarkin",
+            "prior": false
+          },
+          {
+            "id": "9bd321ddffd6b8b56a53b35637a11783ef633caa",
+            "association": "Asset",
+            "name": "United Company RUSAL Secondary Aluminium",
+            "prior": false
+          },
+          {
+            "id": "ca7f337a6009ff88f7bb2d17297188f360481346",
+            "association": "Asset",
+            "name": "RUSAL",
+            "prior": false
+          },
+          {
+            "id": "b50656c6b10862c166074b872598cdc3ee50dfd1",
+            "association": "Asset",
+            "name": "Golitsyn Bus Plant",
+            "prior": false
+          },
+          {
+            "id": "fe2db1be6d4f43748874ba2f7fa392e1c80a53f4",
+            "association": "Asset",
+            "name": "Rasperia Trading Limited International Company",
+            "prior": false
+          },
+          {
+            "id": "c2c30365cb41af925f23e3b1547ca553f8bd5cad",
+            "association": "Asset",
+            "name": "Achinsk Concrete",
+            "prior": true
+          },
+          {
+            "id": "f0dd37b7fdb8cf3ee2d5a435d433e3c0b92a277b",
+            "association": "Asset",
+            "name": "United Bus Plants",
+            "prior": false
+          },
+          {
+            "id": "44c66cdce57a7d50511b004f01a2f1b7862ef900",
+            "association": "Asset",
+            "name": "Kholmy",
+            "prior": true
+          },
+          {
+            "id": "47d68722103aa64e421ed7d0882b2288afb98a06",
+            "association": "Asset",
+            "name": "Glavstroy-Ust-Labinsk",
+            "prior": true
+          },
+          {
+            "id": "007d952587c99bb6ec57208ad5bb5b3be9f7bf43",
+            "association": "Asset",
+            "name": "Serebryanskiy Cement Factory",
+            "prior": true
+          },
+          {
+            "id": "c54a2619e30de6dd5937beab5e9215ce3560311c",
+            "association": "Asset",
+            "name": "EN+ Logistic",
+            "prior": false
+          },
+          {
+            "id": "2f0c7e19516b213769f009840fedf3d2eac16f40",
+            "association": "Asset",
+            "name": "AP Financing",
+            "prior": false
+          },
+          {
+            "id": "c038a530608af582fe0a1ba559a8b9ada97c7a19",
+            "association": "Asset",
+            "name": "Zavolzhsky Crawler Vehicle Plant",
+            "prior": true
+          },
+          {
+            "id": "e4fc095a87711dafa6b8ef26f43a1943113c03c9",
+            "association": "Asset",
+            "name": "Vilz",
+            "prior": false
+          },
+          {
+            "id": "3612ea2fac5cf54b5f12944d043346ae3f687438",
+            "association": "Asset",
+            "name": "Russian Commercial Machines",
+            "prior": false
+          },
+          {
+            "id": "0a80aa741ca7473be5e1729cb7cdf3276e1c2532",
+            "association": "Asset",
+            "name": "Aritera",
+            "prior": false
+          },
+          {
+            "id": "3c42e47c31c47ce614853d4e596fb3f596ebf302",
+            "association": "Asset",
+            "name": "Modern Automotive Technology Nizhny Novgorod Industrial Technopark Managing Company",
+            "prior": false
+          },
+          {
+            "id": "ecd6e96e1fe9d8cc86a5eb394a9957313ab09e65",
+            "association": "Asset",
+            "name": "Trekhgornaya Manufaktura",
+            "prior": true
+          },
+          {
+            "id": "8bf7544b59d699b1f0eca4cefd98d858e5451b0c",
+            "association": "Asset",
+            "name": "CEAC Holdings",
+            "prior": false
+          },
+          {
+            "id": "204f9191b59d64544fa52ba01956f70e6bd58ebb",
+            "association": "Asset",
+            "name": "Dasten",
+            "prior": false
+          },
+          {
+            "id": "94541126a4e2ce03ab99fc3ef956d0d10cefbd03",
+            "association": "Asset",
+            "name": "En + Coal",
+            "prior": false
+          },
+          {
+            "id": "360802cb0bf75a43ce2c16339e3f796260ddfce2",
+            "association": "Asset",
+            "name": "STRABAG",
+            "prior": false
+          },
+          {
+            "id": "025354a027b29caf9b31c597b105e5b286834070",
+            "association": "Asset",
+            "name": "En+ Downstream Holdings",
+            "prior": false
+          },
+          {
+            "id": "44ff19e61261c7d2ab00b3775e3a66bbc630ebb8",
+            "association": "Asset",
+            "name": "En+ Magnesium",
+            "prior": false
+          },
+          {
+            "id": "a2d06645f84e28012f6b152f1a938d05716701ca",
+            "association": "Asset",
+            "name": "En+ Resources",
+            "prior": false
+          },
+          {
+            "id": "edfeccdcccb9d04b0bba3dca8ea946c04363bbab",
+            "association": "Asset",
+            "name": "En+ Silicon Holdings",
+            "prior": false
+          },
+          {
+            "id": "268ba07273b18e99b753d54536a72814ae349bc1",
+            "association": "Asset",
+            "name": "En+ Uranium Resources",
+            "prior": false
+          },
+          {
+            "id": "3ecb504ce0b9decbe6e9522c1d25ed6e21257610",
+            "association": "Asset",
+            "name": "Fordma",
+            "prior": false
+          },
+          {
+            "id": "2feb5f21370f991c4bc3c72956a5a63fa877e7e6",
+            "association": "Asset",
+            "name": "Soleggiato Investments",
+            "prior": false
+          },
+          {
+            "id": "508ca19866cdcf99a008ef4c3dda465aba7c7175",
+            "association": "Asset",
+            "name": "Erida",
+            "prior": false
+          },
+          {
+            "id": "1726bb70101ef8ab0cff9cb066436c5707c9b13e",
+            "association": "Asset",
+            "name": "NN - Asset Management",
+            "prior": true
+          },
+          {
+            "id": "fdd52b32b429d66cf6182b8536f411b35adc617a",
+            "association": "Asset",
+            "name": "Basic Element Holding",
+            "prior": true
+          },
+          {
+            "id": "5bc8bb800b14c2850c1b6acb387db4e9ed1927ee",
+            "association": "Asset",
+            "name": "Strabag Real Estate",
+            "prior": false
+          },
+          {
+            "id": "fabcc7bc5525ca48bb7c7794f34facaaa28debeb",
+            "association": "Asset",
+            "name": "Irkutsk Municipal Systems",
+            "prior": false
+          },
+          {
+            "id": "57efe796073789ed4ed5e336096a21763e041b9c",
+            "association": "Asset",
+            "name": "Sayanogorsk Communal Systems",
+            "prior": false
+          },
+          {
+            "id": "70dadde77dd2894c03a6a0c1e12ceddfb8d2f53a",
+            "association": "Asset",
+            "name": "Tuva Mining Company",
+            "prior": false
+          },
+          {
+            "id": "1a6762b694720bea0abc8055c6fb9516ecaefecf",
+            "association": "Asset",
+            "name": "Melisantis",
+            "prior": false
+          },
+          {
+            "id": "c5ea066089ba20e960e560bd3f43ae1b8d995f5d",
+            "association": "Asset",
+            "name": "EN+ Holding International Company",
+            "prior": false
+          }
+        ],
+        "snapshotted_at": "2026-09-07T11:59:39.904637+00:00"
+      },
+      "resolution": {
+        "status": "POSSIBLE",
+        "risk": "HIGH",
+        "reason": "Name Match Only",
+        "comment": "",
+        "resolved_at": "2026-09-07T11:59:39.910004+00:00",
+        "resolved_by": "vivekhiwarkar@localhost",
+        "source": "USER",
+        "synced": null,
+        "sync_error": null
+      }
+    }
+  ],
+  "decision": {
+    "outcome": "ESCALATE",
+    "reviewer": "vivekhiwarkar@localhost",
+    "decided_at": "2026-09-07T12:00:02.273579+00:00",
+    "notes": "FInal decision"
+  },
+  "audit": [
+    {
+      "event_id": "f3adc569-977e-40b5-a037-6f6342435fd4",
+      "type": "SCREENING_CREATED",
+      "occurred_at": "2026-09-07T11:58:52.401706+00:00",
+      "actor": "vivekhiwarkar@localhost",
+      "revision": 1,
+      "subject_kind": "INDIVIDUAL",
+      "result_count": 0,
+      "search_id": "100376329",
+      "subject_id": "87f5614f-2ff9-473e-8a7f-ebee3bd58fb2"
+    },
+    {
+      "event_id": "b2ac9262-fdd7-4aad-9d2b-f088b6122193",
+      "type": "SUBJECT_RESCREENED",
+      "occurred_at": "2026-09-07T11:59:15.428509+00:00",
+      "actor": "vivekhiwarkar@localhost",
+      "revision": 2,
+      "result_count": 1,
+      "carried_resolutions": 0,
+      "search_id": "100376330",
+      "subject_id": "5a68c664-2c6c-4ac7-8c9c-2cb110fd5de6"
+    },
+    {
+      "event_id": "2b192e6b-86ad-4ad9-89ad-c512fd90f934",
+      "type": "PROFILE_SNAPSHOTTED",
+      "occurred_at": "2026-09-07T11:59:39.904717+00:00",
+      "actor": "vivekhiwarkar@localhost",
+      "revision": 3,
+      "result_id": "8d3a3285-d498-41c6-8cc4-6938021f5daf"
+    },
+    {
+      "event_id": "8b900839-6f60-4a66-895f-ac1cf2b82242",
+      "type": "RESOLUTION_RECORDED",
+      "occurred_at": "2026-09-07T11:59:39.910139+00:00",
+      "actor": "vivekhiwarkar@localhost",
+      "revision": 4,
+      "result_count": 1,
+      "match_ids": [
+        "8d3a3285-d498-41c6-8cc4-6938021f5daf"
+      ],
+      "classification": "POSSIBLE",
+      "risk": "HIGH",
+      "reason": "Name Match Only",
+      "synced": 0
+    },
+    {
+      "event_id": "2d53e7af-b591-49c1-a9e4-63318128100e",
+      "type": "DECISION_RECORDED",
+      "occurred_at": "2026-09-07T12:00:02.273615+00:00",
+      "actor": "vivekhiwarkar@localhost",
+      "revision": 5,
+      "outcome": "ESCALATE"
+    },
+    {
+      "event_id": "07beb5e2-568d-47d5-a253-c358a3ba86f0",
+      "type": "REPORT_GENERATED",
+      "occurred_at": "2026-09-07T12:00:06.163138+00:00",
+      "actor": "vivekhiwarkar@localhost",
+      "revision": 6,
+      "report_version": 1,
+      "report_path": "docs/aml-screening-5f2933e2-54e2-4779-ae20-02b2edec7903-v1.pdf"
+    }
+  ]
+}

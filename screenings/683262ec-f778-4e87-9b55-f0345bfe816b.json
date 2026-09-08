@@ -1,0 +1,209 @@
+{
+  "screening_id": "683262ec-f778-4e87-9b55-f0345bfe816b",
+  "revision": 4,
+  "report_version": 1,
+  "status": "DECIDED",
+  "created_at": "2026-09-07T12:50:37.660064+00:00",
+  "created_by": "vivek@palindrome.co",
+  "updated_at": "2026-09-07T12:50:37.856899+00:00",
+  "updated_by": "vivek@palindrome.co",
+  "subject": {
+    "display_name": "Ms Phoebe Alexander",
+    "dob": "1996-12-24",
+    "client_reference": "streamlit-demo",
+    "building": "8",
+    "street_1": "Lucas Street",
+    "town": "Lyme Regis",
+    "postcode": "XG6 9HI",
+    "country": "GBR",
+    "duration_months": "36"
+  },
+  "search": {
+    "search_id": "100376378",
+    "subject_id": "e24a18ff-a426-4487-9e27-95a3bbbc1eb4",
+    "group_id": "bbb0fef0-7410-47cf-adf7-0d2d238be222",
+    "status": "complete",
+    "created_at": "2026-09-07T12:50:32+00:00",
+    "provider_types": [
+      "WATCHLIST"
+    ],
+    "route": "uk-individual"
+  },
+  "matches": [],
+  "decision": {
+    "outcome": "ESCALATE",
+    "reviewer": "vivek@palindrome.co",
+    "decided_at": "2026-09-07T12:50:37.824472+00:00",
+    "notes": "No watchlist exposure, but the credit reference agency returned a deceased flag and a potential fraud alert against this identity. Escalated to compliance; do not onboard until the applicant evidences identity in person.",
+    "identity_outcome": "pass",
+    "identity_acknowledged": true
+  },
+  "identity": {
+    "route": "uk-individual",
+    "outcome": "pass",
+    "needs_attention": true,
+    "alerts": [
+      "Deceased flag raised",
+      "Potential fraud alert"
+    ],
+    "checks": [
+      {
+        "cra": "experian",
+        "outcome": "pass",
+        "authentication_index": 77,
+        "primary_check_count": 4,
+        "primary_source_count": 3,
+        "collaborative_check_count": 0,
+        "collaborative_source_count": 0,
+        "name_and_address_match": true,
+        "identity_confirmation_level": true,
+        "paf_check": true,
+        "deceased_check": false,
+        "potential_fraud_alert": true,
+        "bank_account_match": null,
+        "primary_data_oldest_date": "2018-12",
+        "collaborative_data_oldest_date": null,
+        "primary_data_date_of_birth_match": 4,
+        "collaborative_data_date_of_birth_match": 0,
+        "granular_data": [
+          {
+            "category": "Primary",
+            "text": "Current Accounts",
+            "source": 1,
+            "item": 2,
+            "oldest_date": "2018-12"
+          },
+          {
+            "category": "Primary",
+            "text": "Utilities",
+            "source": 1,
+            "item": 1,
+            "oldest_date": "2019-08"
+          },
+          {
+            "category": "Primary",
+            "text": "Voters Roll",
+            "source": 1,
+            "item": 1,
+            "oldest_date": "2020-01"
+          }
+        ],
+        "documents": {
+          "national_insurance": null,
+          "passport": null,
+          "driving_licence": null
+        },
+        "documents_errors": {
+          "national_insurance": [],
+          "driving_licence": [],
+          "passport": []
+        }
+      }
+    ],
+    "checked_at": "2026-09-07T12:50:37.660144+00:00",
+    "raw": {
+      "type": "uk-individual-result",
+      "id": "100376378",
+      "attributes": {
+        "outcome": "pass",
+        "details": [
+          {
+            "cra": "experian",
+            "outcome": "pass",
+            "primary_check_count": 4,
+            "primary_source_count": 3,
+            "collaborative_check_count": 0,
+            "collaborative_source_count": 0,
+            "authentication_index": 77,
+            "name_and_address_match": true,
+            "identity_confirmation_level": true,
+            "primary_data_oldest_date": "2018-12",
+            "collaborative_data_oldest_date": null,
+            "primary_data_date_of_birth_match": 4,
+            "collaborative_data_date_of_birth_match": 0,
+            "bank_account_match": null,
+            "paf_check": true,
+            "deceased_check": false,
+            "potential_fraud_alert": true,
+            "granular_data": [
+              {
+                "category": "Primary",
+                "text": "Current Accounts",
+                "source": 1,
+                "item": 2,
+                "oldest_date": "2018-12"
+              },
+              {
+                "category": "Primary",
+                "text": "Utilities",
+                "source": 1,
+                "item": 1,
+                "oldest_date": "2019-08"
+              },
+              {
+                "category": "Primary",
+                "text": "Voters Roll",
+                "source": 1,
+                "item": 1,
+                "oldest_date": "2020-01"
+              }
+            ],
+            "documents": {
+              "national_insurance": null,
+              "passport": null,
+              "driving_licence": null
+            },
+            "documents_errors": {
+              "national_insurance": [],
+              "driving_licence": [],
+              "passport": []
+            }
+          }
+        ]
+      }
+    }
+  },
+  "identity_acknowledged": true,
+  "audit": [
+    {
+      "event_id": "ef647a58-cf30-4d2a-8125-5f5752253db2",
+      "type": "SCREENING_CREATED",
+      "occurred_at": "2026-09-07T12:50:37.660159+00:00",
+      "actor": "vivek@palindrome.co",
+      "revision": 1,
+      "subject_kind": "INDIVIDUAL",
+      "result_count": 0,
+      "search_id": "100376378",
+      "subject_id": "e24a18ff-a426-4487-9e27-95a3bbbc1eb4"
+    },
+    {
+      "event_id": "47add067-d91f-4a58-8d5f-1a6a8f71524f",
+      "type": "IDENTITY_ACKNOWLEDGED",
+      "occurred_at": "2026-09-07T12:50:37.766504+00:00",
+      "actor": "vivek@palindrome.co",
+      "revision": 2,
+      "outcome": "pass",
+      "alerts": [
+        "Deceased flag raised",
+        "Potential fraud alert"
+      ]
+    },
+    {
+      "event_id": "2c03d023-ec0c-4b0e-9bbb-649c03f2b3e0",
+      "type": "DECISION_RECORDED",
+      "occurred_at": "2026-09-07T12:50:37.824489+00:00",
+      "actor": "vivek@palindrome.co",
+      "revision": 3,
+      "outcome": "ESCALATE"
+    },
+    {
+      "event_id": "ab687544-e4d8-4d59-b3d8-8c033560940d",
+      "type": "REPORT_GENERATED",
+      "occurred_at": "2026-09-07T12:50:37.856919+00:00",
+      "actor": "vivek@palindrome.co",
+      "revision": 4,
+      "report_version": 1,
+      "report_path": "docs/aml-screening-683262ec-f778-4e87-9b55-f0345bfe816b-v1.pdf"
+    }
+  ]
+}

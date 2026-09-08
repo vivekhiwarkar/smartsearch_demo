@@ -1,0 +1,189 @@
+{
+  "screening_id": "4d5af374-5eaa-42b6-9a35-120994091bd3",
+  "revision": 2,
+  "report_version": 0,
+  "status": "SCREENED",
+  "created_at": "2026-09-07T14:18:56.203246+00:00",
+  "created_by": "vivekhiwarkar@localhost",
+  "updated_at": "2026-09-07T14:21:08.015324+00:00",
+  "updated_by": "vivekhiwarkar@localhost",
+  "subject": {
+    "display_name": "Mr Luis Olivera",
+    "dob": "1978-05-22",
+    "client_reference": "streamlit-demo",
+    "building": "10",
+    "street_1": "Forest Drive",
+    "town": "Mclean",
+    "region": "VA",
+    "postcode": "22101",
+    "country": "USA",
+    "duration_months": "36"
+  },
+  "search": {
+    "search_id": "100376454",
+    "subject_id": "8bb7b73e-210a-4448-816c-84a9ece01f8d",
+    "group_id": "bbb0fef0-7410-47cf-adf7-0d2d238be222",
+    "status": "complete",
+    "created_at": "2026-09-07T14:21:03+00:00",
+    "provider_types": [
+      "WATCHLIST"
+    ],
+    "route": "international-individual"
+  },
+  "matches": [
+    {
+      "match_id": "d8f91225-418a-48da-93e5-bee51f54bcf2",
+      "ref": "dj-165217",
+      "summary": [
+        {
+          "label": "Type",
+          "data": [
+            "SIP"
+          ]
+        },
+        {
+          "label": "Date of Birth",
+          "data": [
+            "1966",
+            "1972-04-03",
+            "1960"
+          ]
+        },
+        {
+          "label": "Citizenship",
+          "data": [
+            "Mexico"
+          ]
+        },
+        {
+          "label": "Residency",
+          "data": [
+            "Mexico",
+            "United States"
+          ]
+        },
+        {
+          "label": "Images",
+          "data": [
+            "http://www.state.gov/img/11/42833/RodriguezOlivera_252_1.jpg"
+          ]
+        },
+        {
+          "label": "Active Status",
+          "data": [
+            "Active"
+          ]
+        }
+      ],
+      "categories": [
+        "Special Interest Person (SIP)/Sanctions Lists",
+        "Special Interest Person (SIP)",
+        "Special Interest Person (SIP)/Other Official Lists"
+      ],
+      "meta": {
+        "ref": "dj-165217",
+        "matched_at": "2026-09-07T14:21:05+00:00",
+        "is_worked": false,
+        "is_worked_automatically": null,
+        "is_suppressed": false,
+        "entry_updated_at": "2021-08-31T22:00:00+00:00",
+        "notes_count": 0,
+        "match_strength": null,
+        "match_name": null,
+        "match_name_type": null
+      },
+      "profile": null,
+      "resolution": {
+        "status": "UNSPECIFIED",
+        "risk": "UNKNOWN",
+        "reason": "",
+        "comment": "",
+        "resolved_at": null,
+        "resolved_by": null,
+        "source": "USER",
+        "synced": null,
+        "sync_error": null
+      }
+    }
+  ],
+  "decision": null,
+  "identity": {
+    "route": "international-individual",
+    "kind": "international-corroboration",
+    "outcome": "refer",
+    "needs_attention": true,
+    "alerts": [
+      "No corroborating sources found for this identity"
+    ],
+    "checks": [
+      {
+        "outcome": "refer",
+        "number_of_sources": 0,
+        "source_limit_reached": null,
+        "field_grades": {},
+        "national_ids": [],
+        "granular_data": []
+      }
+    ],
+    "checked_at": "2026-09-07T14:21:08.015183+00:00",
+    "raw": {
+      "type": "international-individual-result",
+      "id": "100376454",
+      "attributes": {
+        "outcome": "refer",
+        "details": [
+          {
+            "outcome": "refer",
+            "number_of_sources": 0,
+            "source_limit_reached": null,
+            "granular_data": [],
+            "name_full": null,
+            "name_given_initials": null,
+            "name_first": null,
+            "name_middle": null,
+            "name_last": null,
+            "name_and_address": null,
+            "date_of_birth_full": null,
+            "date_of_birth_day": null,
+            "date_of_birth_month": null,
+            "date_of_birth_year": null,
+            "address_full": null,
+            "address_flat": null,
+            "address_building": null,
+            "address_street": null,
+            "address_town": null,
+            "address_region": null,
+            "address_postcode": null,
+            "contacts_telephone": null,
+            "national_ids": []
+          }
+        ]
+      }
+    }
+  },
+  "identity_acknowledged": false,
+  "audit": [
+    {
+      "event_id": "f62b5d72-2fcc-4930-8c75-e54f874ca8d0",
+      "type": "SCREENING_CREATED",
+      "occurred_at": "2026-09-07T14:18:56.203463+00:00",
+      "actor": "vivekhiwarkar@localhost",
+      "revision": 1,
+      "subject_kind": "INDIVIDUAL",
+      "result_count": 1,
+      "search_id": "100376453",
+      "subject_id": "eaf91144-ed40-4f91-a4e9-7a9e8a1097c1"
+    },
+    {
+      "event_id": "f45047af-3d02-4b9f-a809-9294797a17b4",
+      "type": "SUBJECT_RESCREENED",
+      "occurred_at": "2026-09-07T14:21:08.015598+00:00",
+      "actor": "vivekhiwarkar@localhost",
+      "revision": 2,
+      "result_count": 1,
+      "carried_resolutions": 0,
+      "search_id": "100376454",
+      "subject_id": "8bb7b73e-210a-4448-816c-84a9ece01f8d"
+    }
+  ]
+}

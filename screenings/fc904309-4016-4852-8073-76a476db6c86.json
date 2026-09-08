@@ -1,0 +1,774 @@
+{
+  "screening_id": "fc904309-4016-4852-8073-76a476db6c86",
+  "revision": 2,
+  "report_version": 0,
+  "status": "SCREENED",
+  "created_at": "2026-09-07T14:02:03.783352+00:00",
+  "created_by": "vivekhiwarkar@localhost",
+  "updated_at": "2026-09-07T14:04:13.280151+00:00",
+  "updated_by": "vivekhiwarkar@localhost",
+  "subject": {
+    "display_name": "Mr Luis Olivera",
+    "dob": "1978-05-22",
+    "client_reference": "streamlit-demo",
+    "building": "10",
+    "street_1": "Forest Drive",
+    "town": "Mclean",
+    "region": "VA",
+    "postcode": "22101",
+    "country": "USA",
+    "duration_months": "36"
+  },
+  "search": {
+    "search_id": "100376442",
+    "subject_id": "756bcc5a-87c3-42e4-901e-75aebcef3e68",
+    "group_id": "bbb0fef0-7410-47cf-adf7-0d2d238be222",
+    "status": "complete",
+    "created_at": "2026-09-07T14:01:59+00:00",
+    "provider_types": [
+      "WATCHLIST"
+    ],
+    "route": "international-individual"
+  },
+  "matches": [
+    {
+      "match_id": "5c4a9e03-a358-4d02-bdd3-1c1f89fd2316",
+      "ref": "dj-165217",
+      "summary": [
+        {
+          "label": "Type",
+          "data": [
+            "SIP"
+          ]
+        },
+        {
+          "label": "Date of Birth",
+          "data": [
+            "1966",
+            "1972-04-03",
+            "1960"
+          ]
+        },
+        {
+          "label": "Citizenship",
+          "data": [
+            "Mexico"
+          ]
+        },
+        {
+          "label": "Residency",
+          "data": [
+            "Mexico",
+            "United States"
+          ]
+        },
+        {
+          "label": "Images",
+          "data": [
+            "http://www.state.gov/img/11/42833/RodriguezOlivera_252_1.jpg"
+          ]
+        },
+        {
+          "label": "Active Status",
+          "data": [
+            "Active"
+          ]
+        }
+      ],
+      "categories": [
+        "Special Interest Person (SIP)",
+        "Special Interest Person (SIP)/Other Official Lists",
+        "Special Interest Person (SIP)/Sanctions Lists"
+      ],
+      "meta": {
+        "ref": "dj-165217",
+        "matched_at": "2026-09-07T14:02:00+00:00",
+        "is_worked": false,
+        "is_worked_automatically": null,
+        "is_suppressed": false,
+        "entry_updated_at": "2021-08-31T22:00:00+00:00",
+        "notes_count": 0,
+        "match_strength": null,
+        "match_name": null,
+        "match_name_type": null
+      },
+      "profile": {
+        "sections": [
+          {
+            "label": "Active Status",
+            "data": [
+              "Active"
+            ]
+          },
+          {
+            "label": "Gender",
+            "data": [
+              "Male"
+            ]
+          },
+          {
+            "label": "Deceased",
+            "data": [
+              "No"
+            ]
+          },
+          {
+            "label": "Images",
+            "data": [
+              "http://www.state.gov/img/11/42833/RodriguezOlivera_252_1.jpg",
+              "http://www.state.gov/img/11/47164/rodriguezolivera_captured_52_1.jpg",
+              "http://cdn.ntrzacatecas.com/archivos/2011/12/Luis-Rodr%C3%ADguez-Olivera-El-G%C3%BCero1.jpg"
+            ]
+          },
+          {
+            "label": "Name Aliases",
+            "data": [
+              {
+                "label": "Primary Name",
+                "data": [
+                  {
+                    "label": "FirstName",
+                    "data": [
+                      "Luis"
+                    ]
+                  },
+                  {
+                    "label": "Surname",
+                    "data": [
+                      "Rodriguez Olivera"
+                    ]
+                  }
+                ]
+              },
+              {
+                "label": "Also Known As",
+                "data": [
+                  {
+                    "label": "FirstName",
+                    "data": [
+                      "José"
+                    ]
+                  },
+                  {
+                    "label": "FirstName",
+                    "data": [
+                      "José Luis"
+                    ]
+                  },
+                  {
+                    "label": "FirstName",
+                    "data": [
+                      "Luis"
+                    ]
+                  },
+                  {
+                    "label": "FirstName",
+                    "data": [
+                      "Luis Fernando"
+                    ]
+                  },
+                  {
+                    "label": "MiddleName",
+                    "data": [
+                      "Fernando"
+                    ]
+                  },
+                  {
+                    "label": "MiddleName",
+                    "data": [
+                      "Luis"
+                    ]
+                  },
+                  {
+                    "label": "Surname",
+                    "data": [
+                      "Fernando"
+                    ]
+                  },
+                  {
+                    "label": "Surname",
+                    "data": [
+                      "Morfan Rodriguez"
+                    ]
+                  },
+                  {
+                    "label": "Surname",
+                    "data": [
+                      "Morfin"
+                    ]
+                  },
+                  {
+                    "label": "Surname",
+                    "data": [
+                      "Olivera"
+                    ]
+                  },
+                  {
+                    "label": "Surname",
+                    "data": [
+                      "Rodriguez"
+                    ]
+                  },
+                  {
+                    "label": "Surname",
+                    "data": [
+                      "Rodriguez Morfin"
+                    ]
+                  },
+                  {
+                    "label": "Surname",
+                    "data": [
+                      "Rodriguez Olivera"
+                    ]
+                  },
+                  {
+                    "label": "Surname",
+                    "data": [
+                      "Sánchez Jiménez"
+                    ]
+                  }
+                ]
+              },
+              {
+                "label": "Low Quality AKA",
+                "data": [
+                  {
+                    "label": "FirstName",
+                    "data": [
+                      "El Güero"
+                    ]
+                  }
+                ]
+              },
+              {
+                "label": "Spelling Variation",
+                "data": [
+                  {
+                    "label": "FirstName",
+                    "data": [
+                      "Jose"
+                    ]
+                  },
+                  {
+                    "label": "FirstName",
+                    "data": [
+                      "Jose Luis"
+                    ]
+                  },
+                  {
+                    "label": "FirstName",
+                    "data": [
+                      "Luis"
+                    ]
+                  },
+                  {
+                    "label": "FirstName",
+                    "data": [
+                      "Luis Fernando"
+                    ]
+                  },
+                  {
+                    "label": "MiddleName",
+                    "data": [
+                      "Fernando"
+                    ]
+                  },
+                  {
+                    "label": "MiddleName",
+                    "data": [
+                      "Luis"
+                    ]
+                  },
+                  {
+                    "label": "Surname",
+                    "data": [
+                      "Morfán Rodríguez"
+                    ]
+                  },
+                  {
+                    "label": "Surname",
+                    "data": [
+                      "Morfín"
+                    ]
+                  },
+                  {
+                    "label": "Surname",
+                    "data": [
+                      "Rodríguez Morfín"
+                    ]
+                  },
+                  {
+                    "label": "Surname",
+                    "data": [
+                      "Rodríguez Olivera"
+                    ]
+                  },
+                  {
+                    "label": "Surname",
+                    "data": [
+                      "Sanchez Jimenez"
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "label": "Descriptions",
+            "data": [
+              "Special Interest Person (SIP)",
+              "Other Official Lists - Special Interest Person (SIP)",
+              "Sanctions Lists - Special Interest Person (SIP)"
+            ]
+          },
+          {
+            "label": "Addresses",
+            "data": [
+              {
+                "label": "Address",
+                "data": [
+                  {
+                    "label": "City",
+                    "data": [
+                      "Fresno;California"
+                    ]
+                  },
+                  {
+                    "label": "Country",
+                    "data": [
+                      "United States"
+                    ]
+                  }
+                ]
+              },
+              {
+                "label": "Address",
+                "data": [
+                  {
+                    "label": "Line",
+                    "data": [
+                      "4179 Colonia Miravalle"
+                    ]
+                  },
+                  {
+                    "label": "City",
+                    "data": [
+                      "Guadalajara;Jalisco"
+                    ]
+                  },
+                  {
+                    "label": "Country",
+                    "data": [
+                      "Mexico"
+                    ]
+                  }
+                ]
+              },
+              {
+                "label": "Address",
+                "data": [
+                  {
+                    "label": "Line",
+                    "data": [
+                      "Colonia Providencia, Calle Quebec, Apt. 1127"
+                    ]
+                  },
+                  {
+                    "label": "City",
+                    "data": [
+                      "Guadalajara;Jalisco"
+                    ]
+                  },
+                  {
+                    "label": "Country",
+                    "data": [
+                      "Mexico"
+                    ]
+                  }
+                ]
+              },
+              {
+                "label": "Address",
+                "data": [
+                  {
+                    "label": "Line",
+                    "data": [
+                      "Plaza Pabellion"
+                    ]
+                  },
+                  {
+                    "label": "City",
+                    "data": [
+                      "Zapopan;Jalisco"
+                    ]
+                  },
+                  {
+                    "label": "Country",
+                    "data": [
+                      "Mexico"
+                    ]
+                  }
+                ]
+              },
+              {
+                "label": "Address",
+                "data": [
+                  {
+                    "label": "Line",
+                    "data": [
+                      "Puerto de Hierro"
+                    ]
+                  },
+                  {
+                    "label": "City",
+                    "data": [
+                      "Zapopan;Jalisco"
+                    ]
+                  },
+                  {
+                    "label": "Country",
+                    "data": [
+                      "Mexico"
+                    ]
+                  }
+                ]
+              },
+              {
+                "label": "Address",
+                "data": [
+                  {
+                    "label": "Line",
+                    "data": [
+                      "Sendero Las Acacias 92"
+                    ]
+                  },
+                  {
+                    "label": "City",
+                    "data": [
+                      "Guadalajara;Jaslico"
+                    ]
+                  },
+                  {
+                    "label": "Country",
+                    "data": [
+                      "Mexico"
+                    ]
+                  }
+                ]
+              },
+              {
+                "label": "Address",
+                "data": [
+                  {
+                    "label": "Line",
+                    "data": [
+                      "Vereda Del Canario 1"
+                    ]
+                  },
+                  {
+                    "label": "City",
+                    "data": [
+                      "Guadalajara;Jalisco"
+                    ]
+                  },
+                  {
+                    "label": "Country",
+                    "data": [
+                      "Mexico"
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "label": "Country Associations",
+            "data": [
+              {
+                "label": "Citizenship",
+                "data": [
+                  "Mexico"
+                ]
+              },
+              {
+                "label": "Resident of",
+                "data": [
+                  "Mexico"
+                ]
+              },
+              {
+                "label": "Resident of",
+                "data": [
+                  "United States"
+                ]
+              }
+            ]
+          },
+          {
+            "label": "Roles",
+            "data": []
+          },
+          {
+            "label": "Dates",
+            "data": [
+              {
+                "label": "Date of Birth",
+                "data": [
+                  {
+                    "label": "Date",
+                    "data": [
+                      "1966"
+                    ]
+                  }
+                ]
+              },
+              {
+                "label": "Date of Birth",
+                "data": [
+                  {
+                    "label": "Date",
+                    "data": [
+                      "1972-04-03"
+                    ]
+                  }
+                ]
+              },
+              {
+                "label": "Date of Birth",
+                "data": [
+                  {
+                    "label": "Date",
+                    "data": [
+                      "1960"
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "label": "Birth Place",
+            "data": [
+              "Tecalitlan,Mexico"
+            ]
+          },
+          {
+            "label": "Sanctions",
+            "data": [
+              {
+                "label": "OFAC - Principal Significant Foreign Narcotics Trafficker List",
+                "data": [
+                  {
+                    "label": "Status",
+                    "data": [
+                      "Current"
+                    ]
+                  },
+                  {
+                    "label": "Description",
+                    "data": [
+                      "Sanctions Lists - Special Interest Person (SIP)"
+                    ]
+                  },
+                  {
+                    "label": "Start",
+                    "data": [
+                      "01 Feb 2011"
+                    ]
+                  }
+                ]
+              },
+              {
+                "label": "US Narcotics Rewards Program Wanted List",
+                "data": [
+                  {
+                    "label": "Status",
+                    "data": [
+                      "Current"
+                    ]
+                  },
+                  {
+                    "label": "Description",
+                    "data": [
+                      "Other Official Lists - Special Interest Person (SIP)"
+                    ]
+                  },
+                  {
+                    "label": "Start",
+                    "data": [
+                      "Mar 2011"
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "label": "ID Number Types",
+            "data": [
+              {
+                "label": "OFAC Program ID",
+                "data": [
+                  {
+                    "label": "Number",
+                    "data": [
+                      "SDNTK"
+                    ]
+                  }
+                ]
+              },
+              {
+                "label": "OFAC Unique ID",
+                "data": [
+                  {
+                    "label": "Number",
+                    "data": [
+                      "12484"
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "label": "Profile Notes",
+            "data": [
+              "OFFICE OF FOREIGN ASSETS CONTROL (OFAC) NOTES:\n\nTreasury Designates Band of Drug Trafficking Brothers as Specially Designated Narcotics Traffickers \n\n2/1/2011 \nPage Content\nWASHINGTON –The U.S. Department of the Treasury’s Office of Foreign Assets Control (OFAC) today designated Los Gueros, a Mexican drug trafficking organization that is part of the Sinaloa Cartel, as a Specially Designated Narcotics Trafficker (SDNT) pursuant to the Foreign Narcotics Kingpin Designation Act (Kingpin Act). Today’s action also targeted the leaders of Los Gueros and key members of the Sinaloa Cartel, brothers Luis Rodriguez Olivera and Esteban Rodriguez Olivera, as well as their brothers and key members of Los Gueros, Daniel Rodriguez Olivera and Miguel Rodriguez Olivera. As a result of today’s action, U.S. persons are prohibited from conducting financial or commercial transactions with the designees, and any assets they may have under U.S. jurisdiction are frozen.\n \n“By identifying and exposing this family enterprise, today’s designation seeks to cripple the capabilities of Los Gueros and its leadership, and to deny the Sinaloa Cartel the financial and organizational support provided to it by this narcotics trafficking and money laundering organization,” said OFAC Director Adam J. Szubin. \n \nIn August 2009, the Eastern District of New York charged Luis and Esteban Rodriguez Olivera on narcotics trafficking charges. The indictment alleges that Luis and Esteban Rodriguez Olivera operated a narcotics supply route originating in Mexico that entered the United States through Texas before branching off to various points throughout the United States. According to the indictment, between 1996 and 2008, the Los Gueros organization allegedly imported more than 100,000 kilograms of cocaine into the United States. In January 2006, Mexican authorities seized approximately 5,200 kilograms of cocaine destined for the United States that is believed to have belonged to the Los Gueros organization. \n \nToday’s action, supported by the National Drug Intelligence Center, the Eastern District of New York, the Drug Enforcement Administration New York Field Division and the Drug Enforcement Administration Mexico Country Office, is the latest in a series of actions by OFAC to apply financial measures against Mexican drug trafficking organizations. Internationally, OFAC has designated more than 950 businesses and individuals linked to 87 drug kingpins since June 2000. Penalties for violations of the Kingpin Act range from civil penalties of up to $1.075 million per violation to more severe criminal penalties. Criminal penalties for corporate officers may include up to 30 years in prison and fines up to $5 million. Criminal fines for corporations may reach $10 million. Other individuals face up to 10 years in prison and fines pursuant to Title 18 of the United States Code for criminal violations of the Kingpin Act.\n\nUS NARCOTICS REWARD PROGRAM NOTES:\n\nJanuary 2011\n\nCaptured\n\nMarch 2011\n\nHEIGHT: 5 feet 09 inches\nWEIGHT: 175 pounds\nHAIR COLOR: Red\nEYE COLOR: Brown \n\nLuis RODRIGUEZ-Olivera and his brother Esteban were the controlling individuals in what has been labeled Los Gueros Drug Trafficking Organization (DTO). In December 2008, one time co-head of Los Gueros DTO, Esteban Rodriguez-Olivera, was arrested in Mexico, where he remains in custody awaiting extradition to the Eastern District of New York (EDNY). Los Gueros DTO continues to operate under the sole direction of Luis Rodriguez-Olivera. Luis, now the sole head of the Los Gueros, plays a vital role of cultivating and maintaining Sources of Supply (SOS) which are based in both Colombia and Peru, as well as overseeing the daily operations which once fell under the control of his brother, Esteban. Luis, in order to assure loyalty, relies heavily on assistance provided by his brothers Jose Alfredo, Daniel, and Miguel. Los Gueros have created and continue to grow a large scale distribution network throughout the United States as well as Europe.\n\nThe Rodriguez-Olivera DTO, which was originally based in Guadalajara, Mexico, is now on the run out of Leon, Guanajuato. Los Gueros are responsible for the distribution of multi-hundred kilogram quantities of cocaine into the United States and Europe. The Rodriguez-Olivera DTO has also been linked to the wholesale diversion of precursor chemicals, particularly pseudoephedrine, to support production and distribution of significant quantities of methamphetamine destined for the United States and Europe.\n\nHistorically, the Rodriguez-Olivera DTO had a strong working relationship with the Mexican Federation, a cooperating group of DTOs which occasionally share resourced such as transportation routes and money launderers. However, in or about 2005, the Rodriguez-Olivera DTO split from the Federation when Luis and Esteban Rodriguez-Olivera failed to pledge their allegiance to Ignacio Coronel-Villareal. When Los Gueros were asked to choose between the Gulf Cartel and the Federation, they chose not to ally with either. This neutral stance was not tolerated neither the Gulf Cartel nor the Federation would continue to work with Los Gueros. As a result, in order to continue their operations, Los Gueros relocated to Leon, Guanajuato. Once in Leon, Los Gueros established a strong relationship with Los Zetas DTO. This relationship was seen as necessary by Los Gueros due to the fact that Los Zetas controlled the routes in southern Texas needed to transship narcotics into the US.\n\nLuis Rodriguez-Olivera and his associates were indicted in the Eastern District of New York in 2009 for Continuing Criminal Enterprise, Importation of Cocaine, Possession of Cocaine with Intent to Distribute, Importation Conspiracy, International Distribution Conspiracy and a US $50 million criminal forfeiture allegation."
+            ]
+          },
+          {
+            "label": "Sources",
+            "data": []
+          }
+        ],
+        "meta": {
+          "ref": "dj-165217",
+          "matched_at": "2026-09-07T14:02:00+00:00",
+          "is_worked": false,
+          "is_worked_automatically": null,
+          "is_suppressed": false,
+          "entry_updated_at": "2021-08-31T22:00:00+00:00",
+          "notes_count": 0,
+          "match_strength": null,
+          "match_name": null,
+          "match_name_type": null
+        },
+        "associations": [
+          {
+            "id": "414f818326ddfa5d675262269bba3a66c716028b",
+            "association": "Brother",
+            "name": "Miguel Rodriguez Olivera",
+            "prior": false
+          },
+          {
+            "id": "f4b604bb63f7f85c08315e6874ff00e497c0f06d",
+            "association": "Brother",
+            "name": "Esteban Rodriguez Olivera",
+            "prior": false
+          },
+          {
+            "id": "47788b329264a7609ec82ec4e3ccb43ace277e01",
+            "association": "Associate",
+            "name": "Los Gueros",
+            "prior": false
+          },
+          {
+            "id": "7abcb5c2457c1fd026abb57e563a15ea8ba8723e",
+            "association": "Brother",
+            "name": "Daniel Rodriguez Olivera",
+            "prior": false
+          }
+        ],
+        "snapshotted_at": "2026-09-07T14:04:13.280087+00:00"
+      },
+      "resolution": {
+        "status": "UNSPECIFIED",
+        "risk": "UNKNOWN",
+        "reason": "",
+        "comment": "",
+        "resolved_at": null,
+        "resolved_by": null,
+        "source": "USER",
+        "synced": null,
+        "sync_error": null
+      }
+    }
+  ],
+  "decision": null,
+  "identity": {
+    "route": "international-individual",
+    "kind": "international-corroboration",
+    "outcome": "refer",
+    "needs_attention": true,
+    "alerts": [
+      "No corroborating sources found for this identity"
+    ],
+    "checks": [
+      {
+        "outcome": "refer",
+        "number_of_sources": 0,
+        "source_limit_reached": null,
+        "field_grades": {},
+        "national_ids": [],
+        "granular_data": []
+      }
+    ],
+    "checked_at": "2026-09-07T14:02:03.783458+00:00",
+    "raw": {
+      "type": "international-individual-result",
+      "id": "100376442",
+      "attributes": {
+        "outcome": "refer",
+        "details": [
+          {
+            "outcome": "refer",
+            "number_of_sources": 0,
+            "source_limit_reached": null,
+            "granular_data": [],
+            "name_full": null,
+            "name_given_initials": null,
+            "name_first": null,
+            "name_middle": null,
+            "name_last": null,
+            "name_and_address": null,
+            "date_of_birth_full": null,
+            "date_of_birth_day": null,
+            "date_of_birth_month": null,
+            "date_of_birth_year": null,
+            "address_full": null,
+            "address_flat": null,
+            "address_building": null,
+            "address_street": null,
+            "address_town": null,
+            "address_region": null,
+            "address_postcode": null,
+            "contacts_telephone": null,
+            "national_ids": []
+          }
+        ]
+      }
+    }
+  },
+  "identity_acknowledged": false,
+  "audit": [
+    {
+      "event_id": "ad042264-381f-4c8d-8789-d779a415b1de",
+      "type": "SCREENING_CREATED",
+      "occurred_at": "2026-09-07T14:02:03.783490+00:00",
+      "actor": "vivekhiwarkar@localhost",
+      "revision": 1,
+      "subject_kind": "INDIVIDUAL",
+      "result_count": 1,
+      "search_id": "100376442",
+      "subject_id": "756bcc5a-87c3-42e4-901e-75aebcef3e68"
+    },
+    {
+      "event_id": "13e8f761-9479-450c-860f-93ab61e52dd7",
+      "type": "PROFILE_SNAPSHOTTED",
+      "occurred_at": "2026-09-07T14:04:13.280219+00:00",
+      "actor": "vivekhiwarkar@localhost",
+      "revision": 2,
+      "result_id": "5c4a9e03-a358-4d02-bdd3-1c1f89fd2316"
+    }
+  ]
+}

@@ -1,0 +1,2682 @@
+{
+  "screening_id": "f7e2884e-f4ad-4594-a6de-16981a43273c",
+  "revision": 14,
+  "report_version": 1,
+  "status": "DECIDED",
+  "created_at": "2026-09-07T11:53:27.510297+00:00",
+  "created_by": "vivek@palindrome.co",
+  "updated_at": "2026-09-07T11:53:41.485556+00:00",
+  "updated_by": "vivek@palindrome.co",
+  "subject": {
+    "display_name": "Mr Nicholas Brown",
+    "dob": "1968-06-02",
+    "client_reference": "streamlit-demo",
+    "building": "25",
+    "street_1": "High Street",
+    "town": "Westbury",
+    "region": "Wiltshire",
+    "postcode": "BA13 3BN",
+    "country": "GBR"
+  },
+  "search": {
+    "search_id": "100376326",
+    "subject_id": "4da0a889-cbe0-4ca2-9671-f9be2fefba0c",
+    "group_id": "bbb0fef0-7410-47cf-adf7-0d2d238be222",
+    "status": "complete",
+    "created_at": "2026-09-07T11:53:22+00:00",
+    "provider_types": [
+      "WATCHLIST"
+    ]
+  },
+  "matches": [
+    {
+      "match_id": "0312b15b-f209-431e-9c3b-9f594783c1d7",
+      "ref": "dj-165219",
+      "summary": [
+        {
+          "label": "Type",
+          "data": [
+            "SIP"
+          ]
+        },
+        {
+          "label": "Date of Birth",
+          "data": [
+            "12 Dec 1982"
+          ]
+        },
+        {
+          "label": "Citizenship",
+          "data": [
+            "Not Known"
+          ]
+        },
+        {
+          "label": "Residency",
+          "data": [
+            "United States"
+          ]
+        },
+        {
+          "label": "Images",
+          "data": []
+        },
+        {
+          "label": "Active Status",
+          "data": [
+            "Active"
+          ]
+        }
+      ],
+      "categories": [
+        "Special Interest Person (SIP)",
+        "Special Interest Person (SIP)/Other Exclusion Lists"
+      ],
+      "meta": {
+        "ref": "dj-165219",
+        "matched_at": "2026-09-07T11:53:24+00:00",
+        "is_worked": false,
+        "is_worked_automatically": null,
+        "is_suppressed": false,
+        "entry_updated_at": "2020-10-31T22:00:00+00:00",
+        "notes_count": 0,
+        "match_strength": null,
+        "match_name": null,
+        "match_name_type": null
+      },
+      "profile": {
+        "sections": [
+          {
+            "label": "Active Status",
+            "data": [
+              "Active"
+            ]
+          },
+          {
+            "label": "Gender",
+            "data": [
+              "Unknown"
+            ]
+          },
+          {
+            "label": "Deceased",
+            "data": [
+              "No"
+            ]
+          },
+          {
+            "label": "Images",
+            "data": []
+          },
+          {
+            "label": "Name Aliases",
+            "data": [
+              {
+                "label": "Primary Name",
+                "data": [
+                  {
+                    "label": "FirstName",
+                    "data": [
+                      "Nicholas"
+                    ]
+                  },
+                  {
+                    "label": "MiddleName",
+                    "data": [
+                      "Einar"
+                    ]
+                  },
+                  {
+                    "label": "Surname",
+                    "data": [
+                      "Brown"
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "label": "Descriptions",
+            "data": [
+              "Special Interest Person (SIP)",
+              "Other Exclusion Lists - Special Interest Person (SIP)"
+            ]
+          },
+          {
+            "label": "Addresses",
+            "data": [
+              {
+                "label": "Address",
+                "data": [
+                  {
+                    "label": "Line",
+                    "data": [
+                      "1590 Hickson Ave"
+                    ]
+                  },
+                  {
+                    "label": "City",
+                    "data": [
+                      "Dubuque;Iowa;52001-0000"
+                    ]
+                  },
+                  {
+                    "label": "Country",
+                    "data": [
+                      "United States"
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "label": "Country Associations",
+            "data": [
+              {
+                "label": "Citizenship",
+                "data": [
+                  "Not Known"
+                ]
+              },
+              {
+                "label": "Resident of",
+                "data": [
+                  "United States"
+                ]
+              }
+            ]
+          },
+          {
+            "label": "Roles",
+            "data": []
+          },
+          {
+            "label": "Dates",
+            "data": [
+              {
+                "label": "Date of Birth",
+                "data": [
+                  {
+                    "label": "Date",
+                    "data": [
+                      "1982-12-12"
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "label": "Birth Place",
+            "data": []
+          },
+          {
+            "label": "Sanctions",
+            "data": [
+              {
+                "label": "HHS OIG (US) List of Excluded Individuals and Entities",
+                "data": [
+                  {
+                    "label": "Status",
+                    "data": [
+                      "Current"
+                    ]
+                  },
+                  {
+                    "label": "Description",
+                    "data": [
+                      "Other Exclusion Lists - Special Interest Person (SIP)"
+                    ]
+                  },
+                  {
+                    "label": "Start",
+                    "data": [
+                      "18 Apr 2019"
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "label": "ID Number Types",
+            "data": []
+          },
+          {
+            "label": "Profile Notes",
+            "data": [
+              "HHS OFFICE OF INSPECTOR GENERAL (OIG) NOTES:\n\nExclDate: 04/18/2019\nExclType: 1128(a)(1)- PROGRAM-RELATED CONVICTION\nGeneral: INDIVIDUAL (UNAFFILIATED)\nSpecialty: PERSONAL CARE PROVIDER"
+            ]
+          },
+          {
+            "label": "Sources",
+            "data": []
+          }
+        ],
+        "meta": {
+          "ref": "dj-165219",
+          "matched_at": "2026-09-07T11:53:24+00:00",
+          "is_worked": false,
+          "is_worked_automatically": null,
+          "is_suppressed": false,
+          "entry_updated_at": "2020-10-31T22:00:00+00:00",
+          "notes_count": 0,
+          "match_strength": null,
+          "match_name": null,
+          "match_name_type": null
+        },
+        "associations": [],
+        "snapshotted_at": "2026-09-07T11:53:29.401598+00:00"
+      },
+      "resolution": {
+        "status": "FALSE",
+        "risk": "LOW",
+        "reason": "Citizenship Mismatch",
+        "comment": "Citizenship and residence inconsistent with the subject; discounted.",
+        "resolved_at": "2026-09-07T11:53:41.322641+00:00",
+        "resolved_by": "vivek@palindrome.co",
+        "source": "USER",
+        "synced": true,
+        "sync_error": null
+      }
+    },
+    {
+      "match_id": "2a1b8935-9bae-4109-8a44-2f8d62222dcc",
+      "ref": "dj-165220",
+      "summary": [
+        {
+          "label": "Type",
+          "data": [
+            "SIP"
+          ]
+        },
+        {
+          "label": "Date of Birth",
+          "data": [
+            "1983",
+            "1984"
+          ]
+        },
+        {
+          "label": "Citizenship",
+          "data": [
+            "United States"
+          ]
+        },
+        {
+          "label": "Residency",
+          "data": [
+            "United States"
+          ]
+        },
+        {
+          "label": "Images",
+          "data": [
+            "https://s.hdnux.com/photos/01/04/22/76/17903516/3/1024x1024.jpg"
+          ]
+        },
+        {
+          "label": "Active Status",
+          "data": [
+            "Active"
+          ]
+        }
+      ],
+      "categories": [
+        "Special Interest Person (SIP)/Financial Crime",
+        "Special Interest Person (SIP)"
+      ],
+      "meta": {
+        "ref": "dj-165220",
+        "matched_at": "2026-09-07T11:53:24+00:00",
+        "is_worked": false,
+        "is_worked_automatically": null,
+        "is_suppressed": false,
+        "entry_updated_at": "2020-10-31T22:00:00+00:00",
+        "notes_count": 0,
+        "match_strength": null,
+        "match_name": null,
+        "match_name_type": null
+      },
+      "profile": {
+        "sections": [
+          {
+            "label": "Active Status",
+            "data": [
+              "Active"
+            ]
+          },
+          {
+            "label": "Gender",
+            "data": [
+              "Male"
+            ]
+          },
+          {
+            "label": "Deceased",
+            "data": [
+              "No"
+            ]
+          },
+          {
+            "label": "Images",
+            "data": [
+              "https://s.hdnux.com/photos/01/04/22/76/17903516/3/1024x1024.jpg"
+            ]
+          },
+          {
+            "label": "Name Aliases",
+            "data": [
+              {
+                "label": "Primary Name",
+                "data": [
+                  {
+                    "label": "FirstName",
+                    "data": [
+                      "Nicholas"
+                    ]
+                  },
+                  {
+                    "label": "Surname",
+                    "data": [
+                      "Brown"
+                    ]
+                  }
+                ]
+              },
+              {
+                "label": "Also Known As",
+                "data": [
+                  {
+                    "label": "FirstName",
+                    "data": [
+                      "Nick"
+                    ]
+                  },
+                  {
+                    "label": "Surname",
+                    "data": [
+                      "Brown"
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "label": "Descriptions",
+            "data": [
+              "Special Interest Person (SIP)",
+              "Financial Crime - Special Interest Person (SIP)"
+            ]
+          },
+          {
+            "label": "Addresses",
+            "data": []
+          },
+          {
+            "label": "Country Associations",
+            "data": [
+              {
+                "label": "Citizenship",
+                "data": [
+                  "United States"
+                ]
+              },
+              {
+                "label": "Country of Reported Allegation",
+                "data": [
+                  "United States"
+                ]
+              },
+              {
+                "label": "Resident of",
+                "data": [
+                  "United States"
+                ]
+              }
+            ]
+          },
+          {
+            "label": "Roles",
+            "data": []
+          },
+          {
+            "label": "Dates",
+            "data": [
+              {
+                "label": "Date of Birth",
+                "data": [
+                  {
+                    "label": "Date",
+                    "data": [
+                      "1983"
+                    ]
+                  }
+                ]
+              },
+              {
+                "label": "Date of Birth",
+                "data": [
+                  {
+                    "label": "Date",
+                    "data": [
+                      "1984"
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "label": "Birth Place",
+            "data": []
+          },
+          {
+            "label": "Sanctions",
+            "data": []
+          },
+          {
+            "label": "ID Number Types",
+            "data": []
+          },
+          {
+            "label": "Profile Notes",
+            "data": [
+              "Keywords: theft, fraud\nPeople mentioned: Nicholas Brown\nProfile:\nNicholas Brown was one of seven individuals arrested in connection with an alleged burglary ring which stole approximately USD 21m in valuables, as announced on July 24, 2019, by an officer with the Major Offenders Division of the Houston Police Department, Texas. Brown was charged with theft and burglary. \nAccording to officials, the valuables stolen from a residence in February 2019 included artwork, computers, guns and jewellery. Police said that the ring was connected to other thefts from high-end properties."
+            ]
+          },
+          {
+            "label": "Sources",
+            "data": []
+          }
+        ],
+        "meta": {
+          "ref": "dj-165220",
+          "matched_at": "2026-09-07T11:53:24+00:00",
+          "is_worked": false,
+          "is_worked_automatically": null,
+          "is_suppressed": false,
+          "entry_updated_at": "2020-10-31T22:00:00+00:00",
+          "notes_count": 0,
+          "match_strength": null,
+          "match_name": null,
+          "match_name_type": null
+        },
+        "associations": [
+          {
+            "id": "4ce442a3ea07e1f6d12a8972385f240ecc503551",
+            "association": "Associated Special Interest Person",
+            "name": "Andre Miles",
+            "prior": false
+          },
+          {
+            "id": "020e8de9532ceafefe55de834e499875db22977e",
+            "association": "Associated Special Interest Person",
+            "name": "Archie Thompkins",
+            "prior": false
+          },
+          {
+            "id": "24a3ea3852c7f0a8b5841c7955b3ee394408bec5",
+            "association": "Associated Special Interest Person",
+            "name": "Gashara Bradshaw",
+            "prior": false
+          },
+          {
+            "id": "b1da44e17eb63e38d36e7075f3d23673c3988c1b",
+            "association": "Associated Special Interest Person",
+            "name": "Jasmine Maynes",
+            "prior": false
+          },
+          {
+            "id": "32cc6c1c374bb170205f5b2361cf7253f67b0c47",
+            "association": "Associated Special Interest Person",
+            "name": "Julian Franklin",
+            "prior": false
+          },
+          {
+            "id": "3d1d6b8d6c1a959af30fb53c9ab19c9c13f04e10",
+            "association": "Associated Special Interest Person",
+            "name": "Nicholas Johnson",
+            "prior": false
+          }
+        ],
+        "snapshotted_at": "2026-09-07T11:53:31.205051+00:00"
+      },
+      "resolution": {
+        "status": "FALSE",
+        "risk": "LOW",
+        "reason": "Citizenship Mismatch",
+        "comment": "Citizenship and residence inconsistent with the subject; discounted.",
+        "resolved_at": "2026-09-07T11:53:41.322641+00:00",
+        "resolved_by": "vivek@palindrome.co",
+        "source": "USER",
+        "synced": true,
+        "sync_error": null
+      }
+    },
+    {
+      "match_id": "09220aa9-5325-4fd4-8154-c12e9264c554",
+      "ref": "dj-165221",
+      "summary": [
+        {
+          "label": "Type",
+          "data": [
+            "SIP"
+          ]
+        },
+        {
+          "label": "Date of Birth",
+          "data": [
+            "1973",
+            "1972"
+          ]
+        },
+        {
+          "label": "Citizenship",
+          "data": [
+            "United Kingdom"
+          ]
+        },
+        {
+          "label": "Residency",
+          "data": [
+            "United Kingdom"
+          ]
+        },
+        {
+          "label": "Images",
+          "data": []
+        },
+        {
+          "label": "Active Status",
+          "data": [
+            "Active"
+          ]
+        }
+      ],
+      "categories": [
+        "Special Interest Person (SIP)/Trafficking",
+        "Special Interest Person (SIP)"
+      ],
+      "meta": {
+        "ref": "dj-165221",
+        "matched_at": "2026-09-07T11:53:24+00:00",
+        "is_worked": false,
+        "is_worked_automatically": null,
+        "is_suppressed": false,
+        "entry_updated_at": "2020-10-31T22:00:00+00:00",
+        "notes_count": 0,
+        "match_strength": null,
+        "match_name": null,
+        "match_name_type": null
+      },
+      "profile": {
+        "sections": [
+          {
+            "label": "Active Status",
+            "data": [
+              "Active"
+            ]
+          },
+          {
+            "label": "Gender",
+            "data": [
+              "Male"
+            ]
+          },
+          {
+            "label": "Deceased",
+            "data": [
+              "No"
+            ]
+          },
+          {
+            "label": "Images",
+            "data": []
+          },
+          {
+            "label": "Name Aliases",
+            "data": [
+              {
+                "label": "Primary Name",
+                "data": [
+                  {
+                    "label": "FirstName",
+                    "data": [
+                      "Nicholas"
+                    ]
+                  },
+                  {
+                    "label": "Surname",
+                    "data": [
+                      "Brown"
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "label": "Descriptions",
+            "data": [
+              "Special Interest Person (SIP)",
+              "Trafficking - Special Interest Person (SIP)"
+            ]
+          },
+          {
+            "label": "Addresses",
+            "data": []
+          },
+          {
+            "label": "Country Associations",
+            "data": [
+              {
+                "label": "Citizenship",
+                "data": [
+                  "United Kingdom"
+                ]
+              },
+              {
+                "label": "Resident of",
+                "data": [
+                  "United Kingdom"
+                ]
+              }
+            ]
+          },
+          {
+            "label": "Roles",
+            "data": []
+          },
+          {
+            "label": "Dates",
+            "data": [
+              {
+                "label": "Date of Birth",
+                "data": [
+                  {
+                    "label": "Date",
+                    "data": [
+                      "1973"
+                    ]
+                  }
+                ]
+              },
+              {
+                "label": "Date of Birth",
+                "data": [
+                  {
+                    "label": "Date",
+                    "data": [
+                      "1972"
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "label": "Birth Place",
+            "data": []
+          },
+          {
+            "label": "Sanctions",
+            "data": []
+          },
+          {
+            "label": "ID Number Types",
+            "data": []
+          },
+          {
+            "label": "Profile Notes",
+            "data": [
+              "Keywords: narcotics\nPeople mentioned: Nicholas Brown\nProfile:\nNicholas Brown of East Calder was one of six men who appeared before the High Court in Edinburgh on April 12, 2010, for sentencing in connection with the seizure of over GBP 200,000 worth of Class A drugs. All six pleaded guilty to being concerned in the supply of heroin and cocaine between February and May 2009 and Brown was sentenced to two years and six months in prison.\n"
+            ]
+          },
+          {
+            "label": "Sources",
+            "data": []
+          }
+        ],
+        "meta": {
+          "ref": "dj-165221",
+          "matched_at": "2026-09-07T11:53:24+00:00",
+          "is_worked": false,
+          "is_worked_automatically": null,
+          "is_suppressed": false,
+          "entry_updated_at": "2020-10-31T22:00:00+00:00",
+          "notes_count": 0,
+          "match_strength": null,
+          "match_name": null,
+          "match_name_type": null
+        },
+        "associations": [
+          {
+            "id": "1945f5885e92494f1d6e53cc7b05ecdae8b0927d",
+            "association": "Associated Special Interest Person",
+            "name": "Shaun McKinnon",
+            "prior": false
+          },
+          {
+            "id": "afd6eeff705b0f1b27ae4bbeb6b934c160191f4d",
+            "association": "Associated Special Interest Person",
+            "name": "Paul Ward",
+            "prior": false
+          },
+          {
+            "id": "be9c782b85d8802959aad60ae49340ce38549b69",
+            "association": "Associated Special Interest Person",
+            "name": "Kevin Jones",
+            "prior": false
+          },
+          {
+            "id": "b167ff1521e3651306a093a7047120d7a410dce8",
+            "association": "Associated Special Interest Person",
+            "name": "Duncan McDonald",
+            "prior": false
+          },
+          {
+            "id": "44d41e0fc7d8f085c9e1c46104e3cef1937c7193",
+            "association": "Associated Special Interest Person",
+            "name": "Jamie Sweeney",
+            "prior": false
+          }
+        ],
+        "snapshotted_at": "2026-09-07T11:53:32.522311+00:00"
+      },
+      "resolution": {
+        "status": "FALSE",
+        "risk": "LOW",
+        "reason": "Citizenship Mismatch",
+        "comment": "Citizenship and residence inconsistent with the subject; discounted.",
+        "resolved_at": "2026-09-07T11:53:41.322641+00:00",
+        "resolved_by": "vivek@palindrome.co",
+        "source": "USER",
+        "synced": true,
+        "sync_error": null
+      }
+    },
+    {
+      "match_id": "78d0e0e0-97f4-4fe8-a624-27f2a27c8bed",
+      "ref": "dj-165222",
+      "summary": [
+        {
+          "label": "Type",
+          "data": [
+            "SIP"
+          ]
+        },
+        {
+          "label": "Date of Birth",
+          "data": []
+        },
+        {
+          "label": "Citizenship",
+          "data": [
+            "Not Known"
+          ]
+        },
+        {
+          "label": "Residency",
+          "data": [
+            "United Kingdom"
+          ]
+        },
+        {
+          "label": "Images",
+          "data": []
+        },
+        {
+          "label": "Active Status",
+          "data": [
+            "Active"
+          ]
+        }
+      ],
+      "categories": [
+        "Special Interest Person (SIP)",
+        "Special Interest Person (SIP)/Other Official Lists"
+      ],
+      "meta": {
+        "ref": "dj-165222",
+        "matched_at": "2026-09-07T11:53:24+00:00",
+        "is_worked": false,
+        "is_worked_automatically": null,
+        "is_suppressed": false,
+        "entry_updated_at": "2020-10-31T22:00:00+00:00",
+        "notes_count": 0,
+        "match_strength": null,
+        "match_name": null,
+        "match_name_type": null
+      },
+      "profile": {
+        "sections": [
+          {
+            "label": "Active Status",
+            "data": [
+              "Active"
+            ]
+          },
+          {
+            "label": "Gender",
+            "data": [
+              "Male"
+            ]
+          },
+          {
+            "label": "Deceased",
+            "data": [
+              "No"
+            ]
+          },
+          {
+            "label": "Images",
+            "data": []
+          },
+          {
+            "label": "Name Aliases",
+            "data": [
+              {
+                "label": "Primary Name",
+                "data": [
+                  {
+                    "label": "FirstName",
+                    "data": [
+                      "Nicholas"
+                    ]
+                  },
+                  {
+                    "label": "Surname",
+                    "data": [
+                      "Brown"
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "label": "Descriptions",
+            "data": [
+              "Special Interest Person (SIP)",
+              "Other Official Lists - Special Interest Person (SIP)"
+            ]
+          },
+          {
+            "label": "Addresses",
+            "data": [
+              {
+                "label": "Address",
+                "data": [
+                  {
+                    "label": "Line",
+                    "data": [
+                      "44 Charlotte Avenue"
+                    ]
+                  },
+                  {
+                    "label": "City",
+                    "data": [
+                      "Wickford;;SS12 0DZ"
+                    ]
+                  },
+                  {
+                    "label": "Country",
+                    "data": [
+                      "United Kingdom"
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "label": "Country Associations",
+            "data": [
+              {
+                "label": "Citizenship",
+                "data": [
+                  "Not Known"
+                ]
+              },
+              {
+                "label": "Resident of",
+                "data": [
+                  "United Kingdom"
+                ]
+              }
+            ]
+          },
+          {
+            "label": "Roles",
+            "data": []
+          },
+          {
+            "label": "Dates",
+            "data": []
+          },
+          {
+            "label": "Birth Place",
+            "data": []
+          },
+          {
+            "label": "Sanctions",
+            "data": [
+              {
+                "label": "FCA (UK) Final Notices",
+                "data": [
+                  {
+                    "label": "Status",
+                    "data": [
+                      "Current"
+                    ]
+                  },
+                  {
+                    "label": "Description",
+                    "data": [
+                      "Other Official Lists - Special Interest Person (SIP)"
+                    ]
+                  },
+                  {
+                    "label": "Start",
+                    "data": [
+                      "07 Dec 2007"
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "label": "ID Number Types",
+            "data": []
+          },
+          {
+            "label": "Profile Notes",
+            "data": [
+              "FSA NOTES:\n\nDate: 7 December 2007\n\nTAKE NOTICE: The Financial Services Authority of 25 The North Colonnade, Canary Wharf, London E14 5HS (\"the FSA\") gives you final notice about a decision to make a prohibition order against you:\n\n1. THE ACTION\n\n1.1 The FSA gave you a Decision Notice on 18 October 2006 which notified you that pursuant to section 56 of the Financial Services and Markets Act 2000 (\"the Act\"), the FSA had decided to make an order prohibiting you from performing any function in relation to any regulated activity carried on by an authorised or exempt person or exempt professional firm (\"the Prohibition Order\").\n\n1.2 You did not refer the matter to the Financial Services and Markets Tribunal.\n\nAccordingly, and for the reasons set out below, the FSA hereby makes the Prohibition Order against you, effective from the date of this Final Notice.\n\n2. REASONS FOR THE ACTION\n\n2.1 The FSA's action is based on the findings made against you by the High Court in the case of Sphere Drake Insurance Limited and Another v Euro International Underwriting Limited and Others [2003] EWHC 1636 (Comm) in which you were a defendant as a result of your conduct as a broker placing gross loss making business in the reinsurance market in the 1990s. As more fully set out in the Summary of Facts and Conclusions annexed below, the High Court found that Sphere Drake received claims in excess of $250 million as a result of the gross loss making business passed to it and that a claim against you for dishonestly assisting in a breach of fiduciary duty succeeded (you were described as \"the driving force in the dishonest enterprise\"). \n\nThe judge also found that you gave untruthful evidence during the trial."
+            ]
+          },
+          {
+            "label": "Sources",
+            "data": []
+          }
+        ],
+        "meta": {
+          "ref": "dj-165222",
+          "matched_at": "2026-09-07T11:53:24+00:00",
+          "is_worked": false,
+          "is_worked_automatically": null,
+          "is_suppressed": false,
+          "entry_updated_at": "2020-10-31T22:00:00+00:00",
+          "notes_count": 0,
+          "match_strength": null,
+          "match_name": null,
+          "match_name_type": null
+        },
+        "associations": [],
+        "snapshotted_at": "2026-09-07T11:53:34.061494+00:00"
+      },
+      "resolution": {
+        "status": "FALSE",
+        "risk": "LOW",
+        "reason": "Citizenship Mismatch",
+        "comment": "Citizenship and residence inconsistent with the subject; discounted.",
+        "resolved_at": "2026-09-07T11:53:41.322641+00:00",
+        "resolved_by": "vivek@palindrome.co",
+        "source": "USER",
+        "synced": true,
+        "sync_error": null
+      }
+    },
+    {
+      "match_id": "47e4135f-4a37-4001-897d-0a6a5263bca3",
+      "ref": "dj-165223",
+      "summary": [
+        {
+          "label": "Type",
+          "data": [
+            "SIP"
+          ]
+        },
+        {
+          "label": "Date of Birth",
+          "data": [
+            "1994",
+            "1995"
+          ]
+        },
+        {
+          "label": "Citizenship",
+          "data": [
+            "United States"
+          ]
+        },
+        {
+          "label": "Residency",
+          "data": [
+            "United States"
+          ]
+        },
+        {
+          "label": "Images",
+          "data": []
+        },
+        {
+          "label": "Active Status",
+          "data": [
+            "Active"
+          ]
+        }
+      ],
+      "categories": [
+        "Special Interest Person (SIP)/Financial Crime",
+        "Special Interest Person (SIP)",
+        "Special Interest Person (SIP)/Financial Crime/Lower Threshold"
+      ],
+      "meta": {
+        "ref": "dj-165223",
+        "matched_at": "2026-09-07T11:53:24+00:00",
+        "is_worked": false,
+        "is_worked_automatically": null,
+        "is_suppressed": false,
+        "entry_updated_at": "2020-10-31T22:00:00+00:00",
+        "notes_count": 0,
+        "match_strength": null,
+        "match_name": null,
+        "match_name_type": null
+      },
+      "profile": {
+        "sections": [
+          {
+            "label": "Active Status",
+            "data": [
+              "Active"
+            ]
+          },
+          {
+            "label": "Gender",
+            "data": [
+              "Male"
+            ]
+          },
+          {
+            "label": "Deceased",
+            "data": [
+              "No"
+            ]
+          },
+          {
+            "label": "Images",
+            "data": []
+          },
+          {
+            "label": "Name Aliases",
+            "data": [
+              {
+                "label": "Primary Name",
+                "data": [
+                  {
+                    "label": "FirstName",
+                    "data": [
+                      "Nicholas"
+                    ]
+                  },
+                  {
+                    "label": "MiddleName",
+                    "data": [
+                      "Aaron"
+                    ]
+                  },
+                  {
+                    "label": "Surname",
+                    "data": [
+                      "Brown"
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "label": "Descriptions",
+            "data": [
+              "Special Interest Person (SIP)",
+              "Financial Crime - Special Interest Person (SIP)"
+            ]
+          },
+          {
+            "label": "Addresses",
+            "data": [
+              {
+                "label": "Address",
+                "data": [
+                  {
+                    "label": "City",
+                    "data": [
+                      "Queens;New York"
+                    ]
+                  },
+                  {
+                    "label": "Country",
+                    "data": [
+                      "United States"
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "label": "Country Associations",
+            "data": [
+              {
+                "label": "Citizenship",
+                "data": [
+                  "United States"
+                ]
+              },
+              {
+                "label": "Country of Reported Allegation",
+                "data": [
+                  "United States"
+                ]
+              },
+              {
+                "label": "Resident of",
+                "data": [
+                  "United States"
+                ]
+              }
+            ]
+          },
+          {
+            "label": "Roles",
+            "data": []
+          },
+          {
+            "label": "Dates",
+            "data": [
+              {
+                "label": "Date of Birth",
+                "data": [
+                  {
+                    "label": "Date",
+                    "data": [
+                      "1994"
+                    ]
+                  }
+                ]
+              },
+              {
+                "label": "Date of Birth",
+                "data": [
+                  {
+                    "label": "Date",
+                    "data": [
+                      "1995"
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "label": "Birth Place",
+            "data": []
+          },
+          {
+            "label": "Sanctions",
+            "data": []
+          },
+          {
+            "label": "ID Number Types",
+            "data": []
+          },
+          {
+            "label": "Profile Notes",
+            "data": [
+              "[Reported Allegation Details]\nDetails Item: 1\nCategory2: Financial Crime\nCategory3: Lower Threshold\nMonetary Group Number: 1\nReported Monetary Value Note: Reported Monetary Value does not apply to the entire item, but to Group 1 of reported allegations\nReported Monetary Value Type: Unknown\nSource Name 1: The Ledger (Lakeland, FL)\nSource Date 1: 04-Apr-2014\nSource Accession Number 1: https://global.factiva.com/redir/default.aspx?P=sa&AN=LKLNDL0020140405ea440002u&cat=a&ep=ASE\nSource Language1: English\n\nDow Jones Comment: The information in this file is derived from news articles published by various media providers around the world.  It is not an exhaustive source of information about the individual or any related allegations of criminal activity, but reflects references in those articles to alleged criminal misconduct.  The database may not reflect all or subsequent developments in a particular criminal matter; users are advised to conduct a further inquiry for any information that post-dates the date on which the profile was last modified.\n"
+            ]
+          },
+          {
+            "label": "Sources",
+            "data": []
+          }
+        ],
+        "meta": {
+          "ref": "dj-165223",
+          "matched_at": "2026-09-07T11:53:24+00:00",
+          "is_worked": false,
+          "is_worked_automatically": null,
+          "is_suppressed": false,
+          "entry_updated_at": "2020-10-31T22:00:00+00:00",
+          "notes_count": 0,
+          "match_strength": null,
+          "match_name": null,
+          "match_name_type": null
+        },
+        "associations": [
+          {
+            "id": "4280865ce3453f8bd74b4929e14d4a08002f2a15",
+            "association": "Associated Special Interest Person",
+            "name": "Donald Napoleon",
+            "prior": false
+          },
+          {
+            "id": "5292be19a88e1496bebeae31c7139c5b15f6a64c",
+            "association": "Associated Special Interest Person",
+            "name": "Renington Noa",
+            "prior": false
+          },
+          {
+            "id": "00e6eb811b7fc0f0facadc36e4bb577647bcf9bb",
+            "association": "Associated Special Interest Person",
+            "name": "Andre Flemming",
+            "prior": false
+          }
+        ],
+        "snapshotted_at": "2026-09-07T11:53:35.592908+00:00"
+      },
+      "resolution": {
+        "status": "FALSE",
+        "risk": "LOW",
+        "reason": "Citizenship Mismatch",
+        "comment": "Citizenship and residence inconsistent with the subject; discounted.",
+        "resolved_at": "2026-09-07T11:53:41.322641+00:00",
+        "resolved_by": "vivek@palindrome.co",
+        "source": "USER",
+        "synced": true,
+        "sync_error": null
+      }
+    },
+    {
+      "match_id": "64108ae7-3b18-4aa8-973d-ccb4fbded525",
+      "ref": "dj-165224",
+      "summary": [
+        {
+          "label": "Type",
+          "data": [
+            "SIP"
+          ]
+        },
+        {
+          "label": "Date of Birth",
+          "data": [
+            "1981",
+            "1982"
+          ]
+        },
+        {
+          "label": "Citizenship",
+          "data": [
+            "United States"
+          ]
+        },
+        {
+          "label": "Residency",
+          "data": [
+            "United States"
+          ]
+        },
+        {
+          "label": "Images",
+          "data": [
+            "http://cdn.abclocal.go.com/content/wpvi/images/cms/030415-wpvi-prescription-drug-bust-2-brown.jpg"
+          ]
+        },
+        {
+          "label": "Active Status",
+          "data": [
+            "Active"
+          ]
+        }
+      ],
+      "categories": [
+        "Special Interest Person (SIP)/Trafficking",
+        "Special Interest Person (SIP)/Financial Crime",
+        "Special Interest Person (SIP)"
+      ],
+      "meta": {
+        "ref": "dj-165224",
+        "matched_at": "2026-09-07T11:53:24+00:00",
+        "is_worked": false,
+        "is_worked_automatically": null,
+        "is_suppressed": false,
+        "entry_updated_at": "2020-10-31T22:00:00+00:00",
+        "notes_count": 0,
+        "match_strength": null,
+        "match_name": null,
+        "match_name_type": null
+      },
+      "profile": {
+        "sections": [
+          {
+            "label": "Active Status",
+            "data": [
+              "Active"
+            ]
+          },
+          {
+            "label": "Gender",
+            "data": [
+              "Male"
+            ]
+          },
+          {
+            "label": "Deceased",
+            "data": [
+              "No"
+            ]
+          },
+          {
+            "label": "Images",
+            "data": [
+              "http://cdn.abclocal.go.com/content/wpvi/images/cms/030415-wpvi-prescription-drug-bust-2-brown.jpg"
+            ]
+          },
+          {
+            "label": "Name Aliases",
+            "data": [
+              {
+                "label": "Primary Name",
+                "data": [
+                  {
+                    "label": "FirstName",
+                    "data": [
+                      "Nicholas"
+                    ]
+                  },
+                  {
+                    "label": "Surname",
+                    "data": [
+                      "Brown"
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "label": "Descriptions",
+            "data": [
+              "Special Interest Person (SIP)",
+              "Trafficking - Special Interest Person (SIP)",
+              "Financial Crime - Special Interest Person (SIP)"
+            ]
+          },
+          {
+            "label": "Addresses",
+            "data": [
+              {
+                "label": "Address",
+                "data": [
+                  {
+                    "label": "City",
+                    "data": [
+                      "Pottsville;Pennsylvania"
+                    ]
+                  },
+                  {
+                    "label": "Country",
+                    "data": [
+                      "United States"
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "label": "Country Associations",
+            "data": [
+              {
+                "label": "Citizenship",
+                "data": [
+                  "United States"
+                ]
+              },
+              {
+                "label": "Country of Reported Allegation",
+                "data": [
+                  "United States"
+                ]
+              },
+              {
+                "label": "Resident of",
+                "data": [
+                  "United States"
+                ]
+              }
+            ]
+          },
+          {
+            "label": "Roles",
+            "data": []
+          },
+          {
+            "label": "Dates",
+            "data": [
+              {
+                "label": "Date of Birth",
+                "data": [
+                  {
+                    "label": "Date",
+                    "data": [
+                      "1981"
+                    ]
+                  }
+                ]
+              },
+              {
+                "label": "Date of Birth",
+                "data": [
+                  {
+                    "label": "Date",
+                    "data": [
+                      "1982"
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "label": "Birth Place",
+            "data": []
+          },
+          {
+            "label": "Sanctions",
+            "data": []
+          },
+          {
+            "label": "ID Number Types",
+            "data": []
+          },
+          {
+            "label": "Profile Notes",
+            "data": [
+              "Keywords: narcotics, fraud\nPeople mentioned: Nicholas Brown, David Aurele Wait\nProfile:\nNicholas Brown, a resident of Pottsville, Pennsylvania, was one of a total of 13 individuals who were arrested on suspicion of involvement in a prescription drug fraud ring, as reported on March 5, 2015.\nAccording to the indictment, David Aurele Wait, a medical doctor based in New Cumberland, Pennsylvania, wrote hundreds of bogus prescriptions for the co-defendants in the case. Wait allegedly prescribed oxycodone, a powerful synthetic opiate, without even meeting or examining the purported recipients of the prescriptions. Between January 2013 and June 2014, Wait allegedly wrote prescriptions for 102,000 oxycodone pills. The bogus prescriptions were filled at pharmacies in Cumberland, Dauphin, Lebanon, Perry, York and Allegheny counties.\nBrown was charged with a single count of obtaining a controlled substance by fraud."
+            ]
+          },
+          {
+            "label": "Sources",
+            "data": []
+          }
+        ],
+        "meta": {
+          "ref": "dj-165224",
+          "matched_at": "2026-09-07T11:53:24+00:00",
+          "is_worked": false,
+          "is_worked_automatically": null,
+          "is_suppressed": false,
+          "entry_updated_at": "2020-10-31T22:00:00+00:00",
+          "notes_count": 0,
+          "match_strength": null,
+          "match_name": null,
+          "match_name_type": null
+        },
+        "associations": [
+          {
+            "id": "c40a522f2c67f26697b424782b19333d3171ae9a",
+            "association": "Associated Special Interest Person",
+            "name": "Jerry Burrall",
+            "prior": false
+          },
+          {
+            "id": "f815557e9ef20ed8c69df85e59190da0d9dc2d57",
+            "association": "Associated Special Interest Person",
+            "name": "David Wait",
+            "prior": false
+          },
+          {
+            "id": "fb40a06d6f79b8e7f16c32a62c018c680ef35046",
+            "association": "Associated Special Interest Person",
+            "name": "Gina Swartz",
+            "prior": false
+          },
+          {
+            "id": "0e1608237765d9c114b5142d5c6aad30c0a38736",
+            "association": "Associated Special Interest Person",
+            "name": "Thomas Carricato",
+            "prior": false
+          },
+          {
+            "id": "6e0ba3c0f5dc726bf429ba1c27607ae83df38efb",
+            "association": "Associated Special Interest Person",
+            "name": "Clayton Foster",
+            "prior": false
+          },
+          {
+            "id": "5c5b27ef7561845441f1a3477a355a1c091bb57a",
+            "association": "Associated Special Interest Person",
+            "name": "Joseph Mitchell",
+            "prior": false
+          },
+          {
+            "id": "9f12f9fb76726aab0e30104fa838690b259e9405",
+            "association": "Associated Special Interest Person",
+            "name": "Sean Reiley",
+            "prior": false
+          },
+          {
+            "id": "c2d344232f8cacef0354829a05dbeefcd96e3847",
+            "association": "Associated Special Interest Person",
+            "name": "Nicholas Sexton",
+            "prior": false
+          },
+          {
+            "id": "b03e21b0892413d9e5692925ce752a9a7dd0545f",
+            "association": "Associated Special Interest Person",
+            "name": "Ashlee Shull",
+            "prior": false
+          },
+          {
+            "id": "5e870a505bbee4d19feec4041a2a1e78297e8962",
+            "association": "Associated Special Interest Person",
+            "name": "Neil Alexander",
+            "prior": false
+          },
+          {
+            "id": "7f4bd11f0e9f832323438db609e485f7220cb98b",
+            "association": "Associated Special Interest Person",
+            "name": "Robin Clark",
+            "prior": false
+          },
+          {
+            "id": "90b5a574a2c22f35f7246c350d88cb30f7151f85",
+            "association": "Associated Special Interest Person",
+            "name": "Carlos Soto",
+            "prior": false
+          }
+        ],
+        "snapshotted_at": "2026-09-07T11:53:37.033743+00:00"
+      },
+      "resolution": {
+        "status": "FALSE",
+        "risk": "LOW",
+        "reason": "Citizenship Mismatch",
+        "comment": "Citizenship and residence inconsistent with the subject; discounted.",
+        "resolved_at": "2026-09-07T11:53:41.322641+00:00",
+        "resolved_by": "vivek@palindrome.co",
+        "source": "USER",
+        "synced": true,
+        "sync_error": null
+      }
+    },
+    {
+      "match_id": "fd40f245-d9d6-42bf-893d-21739c70e35a",
+      "ref": "dj-165225",
+      "summary": [
+        {
+          "label": "Type",
+          "data": [
+            "PEP"
+          ]
+        },
+        {
+          "label": "Date of Birth",
+          "data": [
+            "13 Jun 1950"
+          ]
+        },
+        {
+          "label": "Citizenship",
+          "data": [
+            "United Kingdom"
+          ]
+        },
+        {
+          "label": "Residency",
+          "data": [
+            "United Kingdom"
+          ]
+        },
+        {
+          "label": "Images",
+          "data": [
+            "http://i2.thejournal.co.uk/incoming/article6500893.ece/ALTERNATES/s615/JS30907159.jpg"
+          ]
+        },
+        {
+          "label": "Active Status",
+          "data": [
+            "Active"
+          ]
+        }
+      ],
+      "categories": [
+        "Politically Exposed Person (PEP)"
+      ],
+      "meta": {
+        "ref": "dj-165225",
+        "matched_at": "2026-09-07T11:53:24+00:00",
+        "is_worked": false,
+        "is_worked_automatically": null,
+        "is_suppressed": false,
+        "entry_updated_at": "2020-10-31T22:00:00+00:00",
+        "notes_count": 0,
+        "match_strength": null,
+        "match_name": null,
+        "match_name_type": null
+      },
+      "profile": {
+        "sections": [
+          {
+            "label": "Active Status",
+            "data": [
+              "Active"
+            ]
+          },
+          {
+            "label": "Gender",
+            "data": [
+              "Male"
+            ]
+          },
+          {
+            "label": "Deceased",
+            "data": [
+              "No"
+            ]
+          },
+          {
+            "label": "Images",
+            "data": [
+              "http://i2.thejournal.co.uk/incoming/article6500893.ece/ALTERNATES/s615/JS30907159.jpg",
+              "http://i3.chroniclelive.co.uk/incoming/article1429090.ece/ALTERNATES/s615b/image-13-mps-expenses-491701354.jpg"
+            ]
+          },
+          {
+            "label": "Name Aliases",
+            "data": [
+              {
+                "label": "Primary Name",
+                "data": [
+                  {
+                    "label": "FirstName",
+                    "data": [
+                      "Nicholas"
+                    ]
+                  },
+                  {
+                    "label": "MiddleName",
+                    "data": [
+                      "Hugh"
+                    ]
+                  },
+                  {
+                    "label": "Surname",
+                    "data": [
+                      "Brown"
+                    ]
+                  }
+                ]
+              },
+              {
+                "label": "Also Known As",
+                "data": [
+                  {
+                    "label": "FirstName",
+                    "data": [
+                      "Nick"
+                    ]
+                  },
+                  {
+                    "label": "Surname",
+                    "data": [
+                      "Brown"
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "label": "Descriptions",
+            "data": [
+              "Politically Exposed Person (PEP)"
+            ]
+          },
+          {
+            "label": "Addresses",
+            "data": []
+          },
+          {
+            "label": "Country Associations",
+            "data": [
+              {
+                "label": "Citizenship",
+                "data": [
+                  "United Kingdom"
+                ]
+              },
+              {
+                "label": "Jurisdiction",
+                "data": [
+                  "United Kingdom"
+                ]
+              },
+              {
+                "label": "Resident of",
+                "data": [
+                  "United Kingdom"
+                ]
+              }
+            ]
+          },
+          {
+            "label": "Roles",
+            "data": [
+              {
+                "label": "Member of Parliament, Labour, Newcastle upon Tyne East",
+                "data": [
+                  {
+                    "label": "Role Type",
+                    "data": [
+                      "Primary Occupation"
+                    ]
+                  },
+                  {
+                    "label": "Role Occupation",
+                    "data": [
+                      "Members of the National Legislature"
+                    ]
+                  },
+                  {
+                    "label": "Start",
+                    "data": [
+                      "06 May 2010"
+                    ]
+                  },
+                  {
+                    "label": "End",
+                    "data": [
+                      ""
+                    ]
+                  }
+                ]
+              },
+              {
+                "label": "Minister for Work",
+                "data": [
+                  {
+                    "label": "Role Type",
+                    "data": [
+                      "Previous Roles"
+                    ]
+                  },
+                  {
+                    "label": "Role Occupation",
+                    "data": [
+                      "National Government Ministers"
+                    ]
+                  },
+                  {
+                    "label": "Start",
+                    "data": [
+                      "08 Jun 2001"
+                    ]
+                  },
+                  {
+                    "label": "End",
+                    "data": [
+                      "13 Jun 2003"
+                    ]
+                  }
+                ]
+              },
+              {
+                "label": "Member of Parliament, Labour, Newcastle upon Tyne East and Wallsend",
+                "data": [
+                  {
+                    "label": "Role Type",
+                    "data": [
+                      "Previous Roles"
+                    ]
+                  },
+                  {
+                    "label": "Role Occupation",
+                    "data": [
+                      "Members of the National Legislature"
+                    ]
+                  },
+                  {
+                    "label": "Start",
+                    "data": [
+                      "01 May 1997"
+                    ]
+                  },
+                  {
+                    "label": "End",
+                    "data": [
+                      "06 May 2010"
+                    ]
+                  }
+                ]
+              },
+              {
+                "label": "Minister for the North East",
+                "data": [
+                  {
+                    "label": "Role Type",
+                    "data": [
+                      "Previous Roles"
+                    ]
+                  },
+                  {
+                    "label": "Role Occupation",
+                    "data": [
+                      "National Government Ministers"
+                    ]
+                  },
+                  {
+                    "label": "Start",
+                    "data": [
+                      "29 Jun 2007"
+                    ]
+                  },
+                  {
+                    "label": "End",
+                    "data": [
+                      "06 May 2010"
+                    ]
+                  }
+                ]
+              },
+              {
+                "label": "Secretary of State for Agriculture, Fisheries and Food",
+                "data": [
+                  {
+                    "label": "Role Type",
+                    "data": [
+                      "Previous Roles"
+                    ]
+                  },
+                  {
+                    "label": "Role Occupation",
+                    "data": [
+                      "National Government Ministers"
+                    ]
+                  },
+                  {
+                    "label": "Start",
+                    "data": [
+                      "27 Jul 1998"
+                    ]
+                  },
+                  {
+                    "label": "End",
+                    "data": [
+                      "26 Jul 2001"
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "label": "Dates",
+            "data": [
+              {
+                "label": "Date of Birth",
+                "data": [
+                  {
+                    "label": "Date",
+                    "data": [
+                      "1950-06-13"
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "label": "Birth Place",
+            "data": [
+              "Kent,United Kingdom"
+            ]
+          },
+          {
+            "label": "Sanctions",
+            "data": []
+          },
+          {
+            "label": "ID Number Types",
+            "data": []
+          },
+          {
+            "label": "Profile Notes",
+            "data": []
+          },
+          {
+            "label": "Sources",
+            "data": []
+          }
+        ],
+        "meta": {
+          "ref": "dj-165225",
+          "matched_at": "2026-09-07T11:53:24+00:00",
+          "is_worked": false,
+          "is_worked_automatically": null,
+          "is_suppressed": false,
+          "entry_updated_at": "2020-10-31T22:00:00+00:00",
+          "notes_count": 0,
+          "match_strength": null,
+          "match_name": null,
+          "match_name_type": null
+        },
+        "associations": [
+          {
+            "id": "7c6ba16f31b3f2c184138d6906b02dd92bc23029",
+            "association": "Father",
+            "name": "R. Brown",
+            "prior": false
+          },
+          {
+            "id": "46894b41882faad8460a9dc30205d9fcd3516d43",
+            "association": "Mother",
+            "name": "G. Brown",
+            "prior": false
+          }
+        ],
+        "snapshotted_at": "2026-09-07T11:53:28.565414+00:00"
+      },
+      "resolution": {
+        "status": "POSSIBLE",
+        "risk": "MEDIUM",
+        "reason": "Name Match Only",
+        "comment": "PEP entry shares the name but the date of birth and career history do not fit the subject. Retained as possible pending client confirmation.",
+        "resolved_at": "2026-09-07T11:53:28.570578+00:00",
+        "resolved_by": "vivek@palindrome.co",
+        "source": "USER",
+        "synced": null,
+        "sync_error": null
+      }
+    },
+    {
+      "match_id": "191e9f80-3112-40f9-b632-7715f2cb844e",
+      "ref": "dj-165226",
+      "summary": [
+        {
+          "label": "Type",
+          "data": [
+            "SIP"
+          ]
+        },
+        {
+          "label": "Date of Birth",
+          "data": [
+            "1987",
+            "1988"
+          ]
+        },
+        {
+          "label": "Citizenship",
+          "data": [
+            "United States"
+          ]
+        },
+        {
+          "label": "Residency",
+          "data": [
+            "United States"
+          ]
+        },
+        {
+          "label": "Images",
+          "data": [
+            "https://c1.staticflickr.com/1/417/20343534652_57fabab002.jpg"
+          ]
+        },
+        {
+          "label": "Active Status",
+          "data": [
+            "Active"
+          ]
+        }
+      ],
+      "categories": [
+        "Special Interest Person (SIP)/Financial Crime",
+        "Special Interest Person (SIP)",
+        "Special Interest Person (SIP)/Financial Crime/Lower Threshold"
+      ],
+      "meta": {
+        "ref": "dj-165226",
+        "matched_at": "2026-09-07T11:53:24+00:00",
+        "is_worked": false,
+        "is_worked_automatically": null,
+        "is_suppressed": false,
+        "entry_updated_at": "2020-10-31T22:00:00+00:00",
+        "notes_count": 0,
+        "match_strength": null,
+        "match_name": null,
+        "match_name_type": null
+      },
+      "profile": {
+        "sections": [
+          {
+            "label": "Active Status",
+            "data": [
+              "Active"
+            ]
+          },
+          {
+            "label": "Gender",
+            "data": [
+              "Male"
+            ]
+          },
+          {
+            "label": "Deceased",
+            "data": [
+              "No"
+            ]
+          },
+          {
+            "label": "Images",
+            "data": [
+              "https://c1.staticflickr.com/1/417/20343534652_57fabab002.jpg"
+            ]
+          },
+          {
+            "label": "Name Aliases",
+            "data": [
+              {
+                "label": "Primary Name",
+                "data": [
+                  {
+                    "label": "FirstName",
+                    "data": [
+                      "Nicholas"
+                    ]
+                  },
+                  {
+                    "label": "Surname",
+                    "data": [
+                      "Brown"
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "label": "Descriptions",
+            "data": [
+              "Special Interest Person (SIP)",
+              "Financial Crime - Special Interest Person (SIP)"
+            ]
+          },
+          {
+            "label": "Addresses",
+            "data": [
+              {
+                "label": "Address",
+                "data": [
+                  {
+                    "label": "City",
+                    "data": [
+                      "Sacramento;California"
+                    ]
+                  },
+                  {
+                    "label": "Country",
+                    "data": [
+                      "United States"
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "label": "Country Associations",
+            "data": [
+              {
+                "label": "Citizenship",
+                "data": [
+                  "United States"
+                ]
+              },
+              {
+                "label": "Country of Reported Allegation",
+                "data": [
+                  "United States"
+                ]
+              },
+              {
+                "label": "Resident of",
+                "data": [
+                  "United States"
+                ]
+              }
+            ]
+          },
+          {
+            "label": "Roles",
+            "data": []
+          },
+          {
+            "label": "Dates",
+            "data": [
+              {
+                "label": "Date of Birth",
+                "data": [
+                  {
+                    "label": "Date",
+                    "data": [
+                      "1987"
+                    ]
+                  }
+                ]
+              },
+              {
+                "label": "Date of Birth",
+                "data": [
+                  {
+                    "label": "Date",
+                    "data": [
+                      "1988"
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "label": "Birth Place",
+            "data": []
+          },
+          {
+            "label": "Sanctions",
+            "data": []
+          },
+          {
+            "label": "ID Number Types",
+            "data": []
+          },
+          {
+            "label": "Profile Notes",
+            "data": [
+              "[Reported Allegation Details]\nDetails Item: 1\nCategory2: Financial Crime\nCategory3: Lower Threshold\nReported Monetary Value Note: Reported Monetary Value does not apply to the entire item, but to individual reported allegations\nReported Monetary Value Type: Approximate\nCurrency: USD\nReported Monetary Value: 636,000\nSource Name 1: The Sacramento Bee\nSource Date 1: 07-Aug-2015\nSource Accession Number 1: https://global.factiva.com/redir/default.aspx?P=sa&AN=SBEE000020150807eb87001jm&cat=a&ep=ASE\nSource Language1: English\n\nDow Jones Comment: The information in this file is derived from news articles published by various media providers around the world.  It is not an exhaustive source of information about the individual or any related allegations of criminal activity, but reflects references in those articles to alleged criminal misconduct.  The database may not reflect all or subsequent developments in a particular criminal matter; users are advised to conduct a further inquiry for any information that post-dates the date on which the profile was last modified.\n"
+            ]
+          },
+          {
+            "label": "Sources",
+            "data": []
+          }
+        ],
+        "meta": {
+          "ref": "dj-165226",
+          "matched_at": "2026-09-07T11:53:24+00:00",
+          "is_worked": false,
+          "is_worked_automatically": null,
+          "is_suppressed": false,
+          "entry_updated_at": "2020-10-31T22:00:00+00:00",
+          "notes_count": 0,
+          "match_strength": null,
+          "match_name": null,
+          "match_name_type": null
+        },
+        "associations": [
+          {
+            "id": "1b313b797c4c621d00a67510af8452c38aee2754",
+            "association": "Associated Special Interest Person",
+            "name": "Louis Lovett",
+            "prior": false
+          },
+          {
+            "id": "de4aa5fdac6a7b5aaf5c4272ce9a2ef1716ef4ea",
+            "association": "Associated Special Interest Person",
+            "name": "Aleta Pinkney",
+            "prior": false
+          },
+          {
+            "id": "07789f93a5439bd05c7c0d1ec5643a7b659a03bc",
+            "association": "Associated Special Interest Person",
+            "name": "Antonio Miller",
+            "prior": false
+          },
+          {
+            "id": "7a00d353b3d3336a5281f2021617ce6bb74eae62",
+            "association": "Associated Special Interest Person",
+            "name": "Anthony Stanford",
+            "prior": false
+          },
+          {
+            "id": "d709d0024332b7b0ed9e945fce099df204b04d35",
+            "association": "Associated Special Interest Person",
+            "name": "Adi Qalivutu",
+            "prior": false
+          }
+        ],
+        "snapshotted_at": "2026-09-07T11:53:38.466127+00:00"
+      },
+      "resolution": {
+        "status": "FALSE",
+        "risk": "LOW",
+        "reason": "Citizenship Mismatch",
+        "comment": "Citizenship and residence inconsistent with the subject; discounted.",
+        "resolved_at": "2026-09-07T11:53:41.322641+00:00",
+        "resolved_by": "vivek@palindrome.co",
+        "source": "USER",
+        "synced": true,
+        "sync_error": null
+      }
+    },
+    {
+      "match_id": "fac92bff-5b55-42be-9818-7d308bcf2bc8",
+      "ref": "dj-165227",
+      "summary": [
+        {
+          "label": "Type",
+          "data": [
+            "SIP"
+          ]
+        },
+        {
+          "label": "Date of Birth",
+          "data": [
+            "09 Jan 1976"
+          ]
+        },
+        {
+          "label": "Citizenship",
+          "data": [
+            "United Kingdom"
+          ]
+        },
+        {
+          "label": "Residency",
+          "data": [
+            "United Kingdom"
+          ]
+        },
+        {
+          "label": "Images",
+          "data": []
+        },
+        {
+          "label": "Active Status",
+          "data": [
+            "Active"
+          ]
+        }
+      ],
+      "categories": [
+        "Special Interest Person (SIP)/Other Official Lists",
+        "Special Interest Person (SIP)"
+      ],
+      "meta": {
+        "ref": "dj-165227",
+        "matched_at": "2026-09-07T11:53:24+00:00",
+        "is_worked": false,
+        "is_worked_automatically": null,
+        "is_suppressed": false,
+        "entry_updated_at": "2020-10-31T22:00:00+00:00",
+        "notes_count": 0,
+        "match_strength": null,
+        "match_name": null,
+        "match_name_type": null
+      },
+      "profile": {
+        "sections": [
+          {
+            "label": "Active Status",
+            "data": [
+              "Active"
+            ]
+          },
+          {
+            "label": "Gender",
+            "data": [
+              "Male"
+            ]
+          },
+          {
+            "label": "Deceased",
+            "data": [
+              "No"
+            ]
+          },
+          {
+            "label": "Images",
+            "data": []
+          },
+          {
+            "label": "Name Aliases",
+            "data": [
+              {
+                "label": "Primary Name",
+                "data": [
+                  {
+                    "label": "FirstName",
+                    "data": [
+                      "Nicholas"
+                    ]
+                  },
+                  {
+                    "label": "Surname",
+                    "data": [
+                      "Brown"
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "label": "Descriptions",
+            "data": [
+              "Special Interest Person (SIP)",
+              "Other Official Lists - Special Interest Person (SIP)"
+            ]
+          },
+          {
+            "label": "Addresses",
+            "data": [
+              {
+                "label": "Address",
+                "data": [
+                  {
+                    "label": "Line",
+                    "data": [
+                      "74 Rectory Road, Frampton Cotterell"
+                    ]
+                  },
+                  {
+                    "label": "City",
+                    "data": [
+                      "Bristol;;BS36 2BT"
+                    ]
+                  },
+                  {
+                    "label": "Country",
+                    "data": [
+                      "United Kingdom"
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "label": "Country Associations",
+            "data": [
+              {
+                "label": "Citizenship",
+                "data": [
+                  "United Kingdom"
+                ]
+              },
+              {
+                "label": "Resident of",
+                "data": [
+                  "United Kingdom"
+                ]
+              }
+            ]
+          },
+          {
+            "label": "Roles",
+            "data": []
+          },
+          {
+            "label": "Dates",
+            "data": [
+              {
+                "label": "Date of Birth",
+                "data": [
+                  {
+                    "label": "Date",
+                    "data": [
+                      "1976-01-09"
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "label": "Birth Place",
+            "data": []
+          },
+          {
+            "label": "Sanctions",
+            "data": [
+              {
+                "label": "Companies House (UK) Disqualified Directors",
+                "data": [
+                  {
+                    "label": "Status",
+                    "data": [
+                      "Current"
+                    ]
+                  },
+                  {
+                    "label": "Description",
+                    "data": [
+                      "Other Official Lists - Special Interest Person (SIP)"
+                    ]
+                  },
+                  {
+                    "label": "Start",
+                    "data": [
+                      "29 Aug 2018"
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "label": "ID Number Types",
+            "data": [
+              {
+                "label": "Others",
+                "data": [
+                  {
+                    "label": "Number",
+                    "data": [
+                      "154520640001"
+                    ]
+                  },
+                  {
+                    "label": "Notes",
+                    "data": [
+                      "Personal Number"
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "label": "Profile Notes",
+            "data": [
+              "COMPANIES HOUSE NOTES: \n\nDisqualification start date: 20180829\t\t\t\nDisqualification end date: 20230829\nReason/Section of the Act: CDDA 1986 S2"
+            ]
+          },
+          {
+            "label": "Sources",
+            "data": []
+          }
+        ],
+        "meta": {
+          "ref": "dj-165227",
+          "matched_at": "2026-09-07T11:53:24+00:00",
+          "is_worked": false,
+          "is_worked_automatically": null,
+          "is_suppressed": false,
+          "entry_updated_at": "2020-10-31T22:00:00+00:00",
+          "notes_count": 0,
+          "match_strength": null,
+          "match_name": null,
+          "match_name_type": null
+        },
+        "associations": [],
+        "snapshotted_at": "2026-09-07T11:53:40.210550+00:00"
+      },
+      "resolution": {
+        "status": "FALSE",
+        "risk": "LOW",
+        "reason": "Citizenship Mismatch",
+        "comment": "Citizenship and residence inconsistent with the subject; discounted.",
+        "resolved_at": "2026-09-07T11:53:41.322641+00:00",
+        "resolved_by": "vivek@palindrome.co",
+        "source": "USER",
+        "synced": true,
+        "sync_error": null
+      }
+    }
+  ],
+  "decision": {
+    "outcome": "ACCEPT",
+    "reviewer": "vivek@palindrome.co",
+    "decided_at": "2026-09-07T11:53:41.430124+00:00",
+    "notes": "All nine watchlist matches discounted or retained as possible with rationale. No sanctions exposure identified. Onboarding may proceed with standard monitoring."
+  },
+  "audit": [
+    {
+      "event_id": "253328e7-fd75-41e5-82e1-29aefd39816e",
+      "type": "SCREENING_CREATED",
+      "occurred_at": "2026-09-07T11:53:27.510401+00:00",
+      "actor": "vivek@palindrome.co",
+      "revision": 1,
+      "subject_kind": "INDIVIDUAL",
+      "result_count": 9,
+      "search_id": "100376326",
+      "subject_id": "4da0a889-cbe0-4ca2-9671-f9be2fefba0c"
+    },
+    {
+      "event_id": "c6ebb2e4-b510-4b53-b34e-61271ef5fc9a",
+      "type": "PROFILE_SNAPSHOTTED",
+      "occurred_at": "2026-09-07T11:53:28.565516+00:00",
+      "actor": "vivek@palindrome.co",
+      "revision": 2,
+      "result_id": "fd40f245-d9d6-42bf-893d-21739c70e35a"
+    },
+    {
+      "event_id": "d931bfd5-496c-4ee4-8d18-0a9cc495ae97",
+      "type": "RESOLUTION_RECORDED",
+      "occurred_at": "2026-09-07T11:53:28.570624+00:00",
+      "actor": "vivek@palindrome.co",
+      "revision": 3,
+      "result_count": 1,
+      "match_ids": [
+        "fd40f245-d9d6-42bf-893d-21739c70e35a"
+      ],
+      "classification": "POSSIBLE",
+      "risk": "MEDIUM",
+      "reason": "Name Match Only",
+      "synced": 0
+    },
+    {
+      "event_id": "f70c5f41-9d59-4d24-a0d3-5f07c219a145",
+      "type": "PROFILE_SNAPSHOTTED",
+      "occurred_at": "2026-09-07T11:53:29.401718+00:00",
+      "actor": "vivek@palindrome.co",
+      "revision": 4,
+      "result_id": "0312b15b-f209-431e-9c3b-9f594783c1d7"
+    },
+    {
+      "event_id": "763009c5-1a68-423a-a959-0e7e832335b3",
+      "type": "PROFILE_SNAPSHOTTED",
+      "occurred_at": "2026-09-07T11:53:31.205087+00:00",
+      "actor": "vivek@palindrome.co",
+      "revision": 5,
+      "result_id": "2a1b8935-9bae-4109-8a44-2f8d62222dcc"
+    },
+    {
+      "event_id": "8cd62c75-ab94-4b75-9aec-65e420153db9",
+      "type": "PROFILE_SNAPSHOTTED",
+      "occurred_at": "2026-09-07T11:53:32.522369+00:00",
+      "actor": "vivek@palindrome.co",
+      "revision": 6,
+      "result_id": "09220aa9-5325-4fd4-8154-c12e9264c554"
+    },
+    {
+      "event_id": "c7739aaa-1c83-4330-acf5-ba2422e113ee",
+      "type": "PROFILE_SNAPSHOTTED",
+      "occurred_at": "2026-09-07T11:53:34.061534+00:00",
+      "actor": "vivek@palindrome.co",
+      "revision": 7,
+      "result_id": "78d0e0e0-97f4-4fe8-a624-27f2a27c8bed"
+    },
+    {
+      "event_id": "807e5aa1-bb45-422c-b4fd-b4b3d6967dcf",
+      "type": "PROFILE_SNAPSHOTTED",
+      "occurred_at": "2026-09-07T11:53:35.593004+00:00",
+      "actor": "vivek@palindrome.co",
+      "revision": 8,
+      "result_id": "47e4135f-4a37-4001-897d-0a6a5263bca3"
+    },
+    {
+      "event_id": "cc13a01f-0e48-4fc7-966e-e71f1ff2d0dc",
+      "type": "PROFILE_SNAPSHOTTED",
+      "occurred_at": "2026-09-07T11:53:37.033784+00:00",
+      "actor": "vivek@palindrome.co",
+      "revision": 9,
+      "result_id": "64108ae7-3b18-4aa8-973d-ccb4fbded525"
+    },
+    {
+      "event_id": "f8595a15-75a0-48ba-8377-5c26fcdd80e4",
+      "type": "PROFILE_SNAPSHOTTED",
+      "occurred_at": "2026-09-07T11:53:38.466175+00:00",
+      "actor": "vivek@palindrome.co",
+      "revision": 10,
+      "result_id": "191e9f80-3112-40f9-b632-7715f2cb844e"
+    },
+    {
+      "event_id": "30333821-50e1-4041-992f-13c46fbec733",
+      "type": "PROFILE_SNAPSHOTTED",
+      "occurred_at": "2026-09-07T11:53:40.210629+00:00",
+      "actor": "vivek@palindrome.co",
+      "revision": 11,
+      "result_id": "fac92bff-5b55-42be-9818-7d308bcf2bc8"
+    },
+    {
+      "event_id": "437ecdbd-ce68-4973-9a49-f80ece3b7abd",
+      "type": "RESOLUTION_RECORDED",
+      "occurred_at": "2026-09-07T11:53:41.322734+00:00",
+      "actor": "vivek@palindrome.co",
+      "revision": 12,
+      "result_count": 8,
+      "match_ids": [
+        "0312b15b-f209-431e-9c3b-9f594783c1d7",
+        "2a1b8935-9bae-4109-8a44-2f8d62222dcc",
+        "09220aa9-5325-4fd4-8154-c12e9264c554",
+        "78d0e0e0-97f4-4fe8-a624-27f2a27c8bed",
+        "47e4135f-4a37-4001-897d-0a6a5263bca3",
+        "64108ae7-3b18-4aa8-973d-ccb4fbded525",
+        "191e9f80-3112-40f9-b632-7715f2cb844e",
+        "fac92bff-5b55-42be-9818-7d308bcf2bc8"
+      ],
+      "classification": "FALSE",
+      "risk": "LOW",
+      "reason": "Citizenship Mismatch",
+      "synced": 8
+    },
+    {
+      "event_id": "65144878-b4e6-4f43-b182-c6f2f59f7183",
+      "type": "DECISION_RECORDED",
+      "occurred_at": "2026-09-07T11:53:41.430142+00:00",
+      "actor": "vivek@palindrome.co",
+      "revision": 13,
+      "outcome": "ACCEPT"
+    },
+    {
+      "event_id": "ca568c31-3382-4629-9acb-18b07e316dad",
+      "type": "REPORT_GENERATED",
+      "occurred_at": "2026-09-07T11:53:41.485584+00:00",
+      "actor": "vivek@palindrome.co",
+      "revision": 14,
+      "report_version": 1,
+      "report_path": "docs/aml-screening-f7e2884e-f4ad-4594-a6de-16981a43273c-v1.pdf"
+    }
+  ]
+}

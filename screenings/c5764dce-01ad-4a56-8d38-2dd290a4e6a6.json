@@ -1,0 +1,246 @@
+{
+  "screening_id": "c5764dce-01ad-4a56-8d38-2dd290a4e6a6",
+  "revision": 1,
+  "report_version": 0,
+  "status": "SCREENED",
+  "created_at": "2026-09-07T14:29:40.953238+00:00",
+  "created_by": "vivekhiwarkar@localhost",
+  "updated_at": "2026-09-07T14:29:40.953280+00:00",
+  "updated_by": "vivekhiwarkar@localhost",
+  "subject": {
+    "display_name": "Mr Oleg Deripaska",
+    "dob": "1974-06-10",
+    "client_reference": "streamlit-demo",
+    "building": "1",
+    "street_1": "High Street",
+    "town": "London",
+    "postcode": "WS13 8AF",
+    "country": "GBR",
+    "duration_months": "36"
+  },
+  "search": {
+    "search_id": "100376463",
+    "subject_id": "d35f8093-dbdc-460f-9fb6-f7a635143d3f",
+    "group_id": "bbb0fef0-7410-47cf-adf7-0d2d238be222",
+    "status": "complete",
+    "created_at": "2026-09-07T14:29:35+00:00",
+    "provider_types": [
+      "WATCHLIST"
+    ],
+    "route": "uk-individual"
+  },
+  "matches": [
+    {
+      "match_id": "1a76b7a3-ee0d-4278-bc26-4928dad62366",
+      "ref": "dj-165156",
+      "summary": [
+        {
+          "label": "Type",
+          "data": [
+            "SIP",
+            "PEP"
+          ]
+        },
+        {
+          "label": "Date of Birth",
+          "data": [
+            "1968-01-02"
+          ]
+        },
+        {
+          "label": "Citizenship",
+          "data": [
+            "Cyprus",
+            "Russia"
+          ]
+        },
+        {
+          "label": "Residency",
+          "data": [
+            "Russia",
+            "United Kingdom"
+          ]
+        },
+        {
+          "label": "Images",
+          "data": [
+            "https://uznayvse.ru/images/stories2015/uzn_1437403668.jpg"
+          ]
+        },
+        {
+          "label": "Active Status",
+          "data": [
+            "Active"
+          ]
+        }
+      ],
+      "categories": [
+        "Special Interest Person (SIP)",
+        "Special Interest Person (SIP)/Sanctions Lists",
+        "Politically Exposed Person (PEP)"
+      ],
+      "meta": {
+        "ref": "dj-165156",
+        "matched_at": "2026-09-07T14:29:37+00:00",
+        "is_worked": false,
+        "is_worked_automatically": null,
+        "is_suppressed": false,
+        "entry_updated_at": "2021-09-22T22:00:00+00:00",
+        "notes_count": 0,
+        "match_strength": null,
+        "match_name": null,
+        "match_name_type": null
+      },
+      "profile": null,
+      "resolution": {
+        "status": "UNSPECIFIED",
+        "risk": "UNKNOWN",
+        "reason": "",
+        "comment": "",
+        "resolved_at": null,
+        "resolved_by": null,
+        "source": "USER",
+        "synced": null,
+        "sync_error": null
+      }
+    }
+  ],
+  "decision": null,
+  "identity": {
+    "route": "uk-individual",
+    "kind": "uk-cra",
+    "outcome": "pass",
+    "needs_attention": false,
+    "alerts": [],
+    "checks": [
+      {
+        "cra": "experian",
+        "outcome": "pass",
+        "authentication_index": 80,
+        "primary_check_count": 3,
+        "primary_source_count": 3,
+        "collaborative_check_count": 0,
+        "collaborative_source_count": 0,
+        "name_and_address_match": true,
+        "identity_confirmation_level": true,
+        "paf_check": true,
+        "deceased_check": true,
+        "potential_fraud_alert": false,
+        "bank_account_match": null,
+        "primary_data_oldest_date": "2018-12",
+        "collaborative_data_oldest_date": null,
+        "primary_data_date_of_birth_match": 3,
+        "collaborative_data_date_of_birth_match": 0,
+        "granular_data": [
+          {
+            "category": "Primary",
+            "text": "Current Accounts",
+            "source": 1,
+            "item": 1,
+            "oldest_date": "2018-12"
+          },
+          {
+            "category": "Primary",
+            "text": "Utilities",
+            "source": 1,
+            "item": 1,
+            "oldest_date": "2019-08"
+          },
+          {
+            "category": "Primary",
+            "text": "Voters Roll",
+            "source": 1,
+            "item": 1,
+            "oldest_date": "2020-01"
+          }
+        ],
+        "documents": {
+          "national_insurance": null,
+          "passport": null,
+          "driving_licence": null
+        },
+        "documents_errors": {
+          "national_insurance": [],
+          "driving_licence": [],
+          "passport": []
+        }
+      }
+    ],
+    "checked_at": "2026-09-07T14:29:40.953427+00:00",
+    "raw": {
+      "type": "uk-individual-result",
+      "id": "100376463",
+      "attributes": {
+        "outcome": "pass",
+        "details": [
+          {
+            "cra": "experian",
+            "outcome": "pass",
+            "primary_check_count": 3,
+            "primary_source_count": 3,
+            "collaborative_check_count": 0,
+            "collaborative_source_count": 0,
+            "authentication_index": 80,
+            "name_and_address_match": true,
+            "identity_confirmation_level": true,
+            "primary_data_oldest_date": "2018-12",
+            "collaborative_data_oldest_date": null,
+            "primary_data_date_of_birth_match": 3,
+            "collaborative_data_date_of_birth_match": 0,
+            "bank_account_match": null,
+            "paf_check": true,
+            "deceased_check": true,
+            "potential_fraud_alert": false,
+            "granular_data": [
+              {
+                "category": "Primary",
+                "text": "Current Accounts",
+                "source": 1,
+                "item": 1,
+                "oldest_date": "2018-12"
+              },
+              {
+                "category": "Primary",
+                "text": "Utilities",
+                "source": 1,
+                "item": 1,
+                "oldest_date": "2019-08"
+              },
+              {
+                "category": "Primary",
+                "text": "Voters Roll",
+                "source": 1,
+                "item": 1,
+                "oldest_date": "2020-01"
+              }
+            ],
+            "documents": {
+              "national_insurance": null,
+              "passport": null,
+              "driving_licence": null
+            },
+            "documents_errors": {
+              "national_insurance": [],
+              "driving_licence": [],
+              "passport": []
+            }
+          }
+        ]
+      }
+    }
+  },
+  "identity_acknowledged": false,
+  "audit": [
+    {
+      "event_id": "21b3458b-3926-41f3-966d-3fc277492a9f",
+      "type": "SCREENING_CREATED",
+      "occurred_at": "2026-09-07T14:29:40.953471+00:00",
+      "actor": "vivekhiwarkar@localhost",
+      "revision": 1,
+      "subject_kind": "INDIVIDUAL",
+      "result_count": 1,
+      "search_id": "100376463",
+      "subject_id": "d35f8093-dbdc-460f-9fb6-f7a635143d3f"
+    }
+  ]
+}

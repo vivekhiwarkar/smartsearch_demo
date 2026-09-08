@@ -1,0 +1,218 @@
+{
+  "screening_id": "c9d5ada8-5087-4953-8957-e8314b74cfd0",
+  "revision": 4,
+  "report_version": 0,
+  "status": "SCREENED",
+  "created_at": "2026-09-07T11:56:05.502331+00:00",
+  "created_by": "vivekhiwarkar@localhost",
+  "updated_at": "2026-09-07T11:57:35.898879+00:00",
+  "updated_by": "vivekhiwarkar@localhost",
+  "subject": {
+    "display_name": "Mr Boris Johnson",
+    "dob": "1964-06-19",
+    "client_reference": "streamlit-demo",
+    "building": "10",
+    "street_1": "Downing Street",
+    "town": "London",
+    "postcode": "SW1A 2AA",
+    "country": "GBR"
+  },
+  "search": {
+    "search_id": "100376328",
+    "subject_id": "e45761b0-4f89-4dd9-abab-adeec6e36c1a",
+    "group_id": "bbb0fef0-7410-47cf-adf7-0d2d238be222",
+    "status": "complete",
+    "created_at": "2026-09-07T11:57:31+00:00",
+    "provider_types": [
+      "WATCHLIST"
+    ]
+  },
+  "matches": [
+    {
+      "match_id": "9d0b794d-d92b-4c74-a652-70eb9c1b47ee",
+      "ref": "dj-165159",
+      "summary": [
+        {
+          "label": "Type",
+          "data": [
+            "SIP"
+          ]
+        },
+        {
+          "label": "Date of Birth",
+          "data": [
+            "1986",
+            "1985"
+          ]
+        },
+        {
+          "label": "Citizenship",
+          "data": [
+            "United States"
+          ]
+        },
+        {
+          "label": "Residency",
+          "data": [
+            "United States"
+          ]
+        },
+        {
+          "label": "Images",
+          "data": []
+        },
+        {
+          "label": "Active Status",
+          "data": [
+            "Active"
+          ]
+        }
+      ],
+      "categories": [
+        "Special Interest Person (SIP)",
+        "Special Interest Person (SIP)/Financial Crime"
+      ],
+      "meta": {
+        "ref": "dj-165159",
+        "matched_at": "2026-09-07T11:57:32+00:00",
+        "is_worked": false,
+        "is_worked_automatically": null,
+        "is_suppressed": false,
+        "entry_updated_at": "2020-11-15T22:00:00+00:00",
+        "notes_count": 0,
+        "match_strength": null,
+        "match_name": null,
+        "match_name_type": null
+      },
+      "profile": null,
+      "resolution": {
+        "status": "UNSPECIFIED",
+        "risk": "UNKNOWN",
+        "reason": "",
+        "comment": "",
+        "resolved_at": null,
+        "resolved_by": null,
+        "source": "USER",
+        "synced": null,
+        "sync_error": null
+      }
+    },
+    {
+      "match_id": "c3e2c9a8-0c52-41a7-a961-ec61d5abd15a",
+      "ref": "dj-165160",
+      "summary": [
+        {
+          "label": "Type",
+          "data": [
+            "PEP"
+          ]
+        },
+        {
+          "label": "Date of Birth",
+          "data": [
+            "1964-06-19"
+          ]
+        },
+        {
+          "label": "Citizenship",
+          "data": [
+            "United Kingdom"
+          ]
+        },
+        {
+          "label": "Residency",
+          "data": [
+            "United Kingdom"
+          ]
+        },
+        {
+          "label": "Images",
+          "data": [
+            "http://timesonline.typepad.com/photos/uncategorized/boris_johnson_4.jpg"
+          ]
+        },
+        {
+          "label": "Active Status",
+          "data": [
+            "Active"
+          ]
+        }
+      ],
+      "categories": [
+        "Politically Exposed Person (PEP)"
+      ],
+      "meta": {
+        "ref": "dj-165160",
+        "matched_at": "2026-09-07T11:57:32+00:00",
+        "is_worked": false,
+        "is_worked_automatically": null,
+        "is_suppressed": false,
+        "entry_updated_at": "2020-10-31T22:00:00+00:00",
+        "notes_count": 0,
+        "match_strength": null,
+        "match_name": null,
+        "match_name_type": null
+      },
+      "profile": null,
+      "resolution": {
+        "status": "UNSPECIFIED",
+        "risk": "UNKNOWN",
+        "reason": "",
+        "comment": "",
+        "resolved_at": null,
+        "resolved_by": null,
+        "source": "USER",
+        "synced": null,
+        "sync_error": null
+      }
+    }
+  ],
+  "decision": null,
+  "audit": [
+    {
+      "event_id": "24b43946-a3c3-4d7f-b144-0d8bfe982f29",
+      "type": "SCREENING_CREATED",
+      "occurred_at": "2026-09-07T11:56:05.502425+00:00",
+      "actor": "vivekhiwarkar@localhost",
+      "revision": 1,
+      "subject_kind": "INDIVIDUAL",
+      "result_count": 9,
+      "search_id": "100376327",
+      "subject_id": "7de656de-a1ca-4ce2-a7d9-f9c80ae6e625"
+    },
+    {
+      "event_id": "0d0f2ee7-2e40-45f4-9822-7b40e305cff2",
+      "type": "PROFILE_SNAPSHOTTED",
+      "occurred_at": "2026-09-07T11:57:13.642460+00:00",
+      "actor": "vivekhiwarkar@localhost",
+      "revision": 2,
+      "result_id": "654428b9-bb24-453d-bc9d-45910a926105"
+    },
+    {
+      "event_id": "4962bd10-3e3d-4586-a76b-8cc2ce40dfde",
+      "type": "RESOLUTION_RECORDED",
+      "occurred_at": "2026-09-07T11:57:14.737393+00:00",
+      "actor": "vivekhiwarkar@localhost",
+      "revision": 3,
+      "result_count": 1,
+      "match_ids": [
+        "654428b9-bb24-453d-bc9d-45910a926105"
+      ],
+      "classification": "POSITIVE",
+      "risk": "HIGH",
+      "reason": "Name Match Only",
+      "synced": 1
+    },
+    {
+      "event_id": "9b6205dd-3dd0-4344-a5c7-ad8e1a272da8",
+      "type": "SUBJECT_RESCREENED",
+      "occurred_at": "2026-09-07T11:57:35.899178+00:00",
+      "actor": "vivekhiwarkar@localhost",
+      "revision": 4,
+      "result_count": 2,
+      "carried_resolutions": 0,
+      "search_id": "100376328",
+      "subject_id": "e45761b0-4f89-4dd9-abab-adeec6e36c1a"
+    }
+  ]
+}

@@ -1,0 +1,398 @@
+{
+  "screening_id": "8c9cbda1-8206-4988-b143-a5a600a44a0b",
+  "revision": 5,
+  "report_version": 1,
+  "status": "DECIDED",
+  "created_at": "2026-09-07T13:58:19.619727+00:00",
+  "created_by": "vivek@palindrome.co",
+  "updated_at": "2026-09-07T13:58:21.735674+00:00",
+  "updated_by": "vivek@palindrome.co",
+  "subject": {
+    "display_name": "Ms Christine Fulton",
+    "dob": "1979-01-08",
+    "client_reference": "streamlit-demo",
+    "building": "836",
+    "street_1": "Matthews Road",
+    "town": "Ellenboro",
+    "region": "ID",
+    "postcode": "77918",
+    "country": "USA",
+    "duration_months": "36"
+  },
+  "search": {
+    "search_id": "100376437",
+    "subject_id": "b69deddf-76f6-488f-8ac4-229bb347b9e9",
+    "group_id": "bbb0fef0-7410-47cf-adf7-0d2d238be222",
+    "status": "complete",
+    "created_at": "2026-09-07T13:58:14+00:00",
+    "provider_types": [
+      "WATCHLIST"
+    ],
+    "route": "international-individual"
+  },
+  "matches": [
+    {
+      "match_id": "fc1ac9a7-82f1-44dd-b540-1bdd1465a285",
+      "ref": "dj-165164",
+      "summary": [
+        {
+          "label": "Type",
+          "data": [
+            "SIP"
+          ]
+        },
+        {
+          "label": "Date of Birth",
+          "data": [
+            "2001-01-13"
+          ]
+        },
+        {
+          "label": "Citizenship",
+          "data": [
+            "United States"
+          ]
+        },
+        {
+          "label": "Residency",
+          "data": [
+            "South Africa",
+            "Sudan"
+          ]
+        },
+        {
+          "label": "Images",
+          "data": [
+            "https://i.pravatar.cc/150?img=42"
+          ]
+        },
+        {
+          "label": "Active Status",
+          "data": [
+            "Active"
+          ]
+        }
+      ],
+      "categories": [
+        "Special Interest Person (SIP)"
+      ],
+      "meta": {
+        "ref": "dj-165164",
+        "matched_at": "2026-09-07T13:58:16+00:00",
+        "is_worked": false,
+        "is_worked_automatically": null,
+        "is_suppressed": false,
+        "entry_updated_at": "2020-01-01T00:00:00+00:00",
+        "notes_count": 0,
+        "match_strength": null,
+        "match_name": null,
+        "match_name_type": null
+      },
+      "profile": {
+        "sections": [
+          {
+            "label": "Active Status",
+            "data": [
+              "Active"
+            ]
+          },
+          {
+            "label": "Gender",
+            "data": [
+              "Female"
+            ]
+          },
+          {
+            "label": "Deceased",
+            "data": [
+              "No"
+            ]
+          },
+          {
+            "label": "Images",
+            "data": [
+              "https://i.pravatar.cc/150?img=42"
+            ]
+          },
+          {
+            "label": "Name Aliases",
+            "data": [
+              {
+                "label": "Primary Name",
+                "data": [
+                  {
+                    "label": "FirstName",
+                    "data": [
+                      "Christine"
+                    ]
+                  },
+                  {
+                    "label": "Surname",
+                    "data": [
+                      "Fulton"
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "label": "Descriptions",
+            "data": [
+              "Special Interest Person (SIP)"
+            ]
+          },
+          {
+            "label": "Addresses",
+            "data": []
+          },
+          {
+            "label": "Country Associations",
+            "data": [
+              {
+                "label": "Citizenship",
+                "data": [
+                  "United States"
+                ]
+              },
+              {
+                "label": "Resident of",
+                "data": [
+                  "South Africa"
+                ]
+              },
+              {
+                "label": "Resident of",
+                "data": [
+                  "Sudan"
+                ]
+              }
+            ]
+          },
+          {
+            "label": "Roles",
+            "data": []
+          },
+          {
+            "label": "Dates",
+            "data": [
+              {
+                "label": "Date of Birth",
+                "data": [
+                  {
+                    "label": "Date",
+                    "data": [
+                      "2001-01-13"
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "label": "Birth Place",
+            "data": []
+          },
+          {
+            "label": "Sanctions",
+            "data": []
+          },
+          {
+            "label": "ID Number Types",
+            "data": []
+          },
+          {
+            "label": "Profile Notes",
+            "data": []
+          },
+          {
+            "label": "Sources",
+            "data": []
+          }
+        ],
+        "meta": {
+          "ref": "dj-165164",
+          "matched_at": "2026-09-07T13:58:16+00:00",
+          "is_worked": false,
+          "is_worked_automatically": null,
+          "is_suppressed": false,
+          "entry_updated_at": "2020-01-01T00:00:00+00:00",
+          "notes_count": 0,
+          "match_strength": null,
+          "match_name": null,
+          "match_name_type": null
+        },
+        "associations": [],
+        "snapshotted_at": "2026-09-07T13:58:20.562368+00:00"
+      },
+      "resolution": {
+        "status": "FALSE",
+        "risk": "LOW",
+        "reason": "Name Match Only",
+        "comment": "Name similarity only; nationality and date of birth do not fit. Discounted.",
+        "resolved_at": "2026-09-07T13:58:21.586428+00:00",
+        "resolved_by": "vivek@palindrome.co",
+        "source": "USER",
+        "synced": true,
+        "sync_error": null
+      }
+    }
+  ],
+  "decision": {
+    "outcome": "ACCEPT",
+    "reviewer": "vivek@palindrome.co",
+    "decided_at": "2026-09-07T13:58:21.690009+00:00",
+    "notes": "Identity corroborated on two independent sources: name, date of birth, full address, telephone and SSN all matched. No watchlist exposure carried forward. Note this route provides no deceased check or fraud alert; those are UK-only.",
+    "identity_outcome": "refer",
+    "identity_acknowledged": false
+  },
+  "identity": {
+    "route": "international-individual",
+    "kind": "international-corroboration",
+    "outcome": "refer",
+    "needs_attention": false,
+    "alerts": [],
+    "checks": [
+      {
+        "outcome": "refer",
+        "number_of_sources": 2,
+        "source_limit_reached": true,
+        "field_grades": {
+          "name_full": "partial",
+          "name_given_initials": "partial",
+          "name_first": "full",
+          "name_last": "full",
+          "name_and_address": "partial",
+          "date_of_birth_full": "full",
+          "date_of_birth_day": "full",
+          "date_of_birth_month": "full",
+          "date_of_birth_year": "full",
+          "address_full": "full",
+          "address_building": "full",
+          "address_street": "full",
+          "address_town": "full",
+          "address_region": "full",
+          "address_postcode": "full",
+          "contacts_telephone": "full"
+        },
+        "national_ids": [
+          {
+            "type": "ssn",
+            "result": "full"
+          }
+        ],
+        "granular_data": [
+          {
+            "category": "primary",
+            "text": "Credit",
+            "source": 2,
+            "item": 1,
+            "oldest_date": null
+          }
+        ]
+      }
+    ],
+    "checked_at": "2026-09-07T13:58:19.619837+00:00",
+    "raw": {
+      "type": "international-individual-result",
+      "id": "100376437",
+      "attributes": {
+        "outcome": "refer",
+        "details": [
+          {
+            "outcome": "refer",
+            "number_of_sources": 2,
+            "source_limit_reached": true,
+            "granular_data": [
+              {
+                "category": "primary",
+                "text": "Credit",
+                "source": 2,
+                "item": 1,
+                "oldest_date": null
+              }
+            ],
+            "name_full": "partial",
+            "name_given_initials": "partial",
+            "name_first": "full",
+            "name_middle": null,
+            "name_last": "full",
+            "name_and_address": "partial",
+            "date_of_birth_full": "full",
+            "date_of_birth_day": "full",
+            "date_of_birth_month": "full",
+            "date_of_birth_year": "full",
+            "address_full": "full",
+            "address_flat": null,
+            "address_building": "full",
+            "address_street": "full",
+            "address_town": "full",
+            "address_region": "full",
+            "address_postcode": "full",
+            "contacts_telephone": "full",
+            "national_ids": [
+              {
+                "type": "ssn",
+                "result": "full"
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  "identity_acknowledged": false,
+  "audit": [
+    {
+      "event_id": "6578121c-8439-41a9-be59-f1364124a12f",
+      "type": "SCREENING_CREATED",
+      "occurred_at": "2026-09-07T13:58:19.619859+00:00",
+      "actor": "vivek@palindrome.co",
+      "revision": 1,
+      "subject_kind": "INDIVIDUAL",
+      "result_count": 1,
+      "search_id": "100376437",
+      "subject_id": "b69deddf-76f6-488f-8ac4-229bb347b9e9"
+    },
+    {
+      "event_id": "f18adf60-0c21-4cf7-8c44-a777542707ac",
+      "type": "PROFILE_SNAPSHOTTED",
+      "occurred_at": "2026-09-07T13:58:20.562420+00:00",
+      "actor": "vivek@palindrome.co",
+      "revision": 2,
+      "result_id": "fc1ac9a7-82f1-44dd-b540-1bdd1465a285"
+    },
+    {
+      "event_id": "cfc7156c-61d2-4687-a54f-1c0b5e0c09e1",
+      "type": "RESOLUTION_RECORDED",
+      "occurred_at": "2026-09-07T13:58:21.586493+00:00",
+      "actor": "vivek@palindrome.co",
+      "revision": 3,
+      "result_count": 1,
+      "match_ids": [
+        "fc1ac9a7-82f1-44dd-b540-1bdd1465a285"
+      ],
+      "classification": "FALSE",
+      "risk": "LOW",
+      "reason": "Name Match Only",
+      "synced": 1
+    },
+    {
+      "event_id": "1f9547f4-5f4e-479d-9d68-4a1ab7b22ffc",
+      "type": "DECISION_RECORDED",
+      "occurred_at": "2026-09-07T13:58:21.690033+00:00",
+      "actor": "vivek@palindrome.co",
+      "revision": 4,
+      "outcome": "ACCEPT"
+    },
+    {
+      "event_id": "7c87dc87-fd95-456b-a291-d636ac4362a0",
+      "type": "REPORT_GENERATED",
+      "occurred_at": "2026-09-07T13:58:21.735790+00:00",
+      "actor": "vivek@palindrome.co",
+      "revision": 5,
+      "report_version": 1,
+      "report_path": "docs/aml-screening-8c9cbda1-8206-4988-b143-a5a600a44a0b-v1.pdf"
+    }
+  ]
+}
